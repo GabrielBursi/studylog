@@ -1,24 +1,11 @@
-# Básico Next 14
+# Básico Nest
 
-* [Playlist NEXTJS 14
-  ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
-* [https://www.youtube.com/playlist?list=PLo9a4XFa98CCzPdpRpdu7zV6KjOvss8-u
-  ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
-* [https://www.youtube.com/playlist?list=PLKgO3xIMfAHtvto0cdDWHWaJoh7haNZkk
-  ](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
-* [https://www.youtube.com/playlist?list=PLFRnIPKyoBHiKdZ7FsEC3HtdpNqUVGnay](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
-* [https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=ABCART0923]()
+* https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
+* https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr
+* https://www.youtube.com/playlist?list=PLpcf8hdkpCYseV2ctwAhE4dY-AQ7v5D9S
+* https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD
+* https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB
 
-# Projetos
+# Avançado
 
-* [Projeto NEXT 14, TS e Tailwind](https://www.youtube.com/playlist?list=PL29TaWXah3iaKcSxmOa_e_bKCkS10Rsn-)
-
-# Performance
-
-* [https://www.youtube.com/playlist?list=PLq3vQvro30PY-l7UIgc8BH87tKP8wtWOa]()
-* [https://www.youtube.com/playlist?list=PLOSagTsxf3A3hOATomabDiAeDGKMiflBu]()
-
-# Dicas
-
-* [https://www.youtube.com/playlist?list=PLqYy1yOe0SKeNRcyhsfMaa7HuEOcQ2UfR](https://www.youtube.com/playlist?list=PLqYy1yOe0SKeNRcyhsfMaa7HuEOcQ2UfR)
-* [https://medium.com/@gabrielcavalarosuporte/list/next-js-0bd1cb58206f]()
+* https://www.youtube.com/playlist?list=PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx
