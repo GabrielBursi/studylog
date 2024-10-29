@@ -3,6 +3,7 @@
 * [Playlist NEXTJS 14](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
 * [Dicas Server, Client, Autenticação](https://www.youtube.com/playlist?list=PLo9a4XFa98CCzPdpRpdu7zV6KjOvss8-u)
 * [Curso udemy](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=ABCART0923)
+* [Passo a passo](https://nextjs.org/learn/dashboard-app)
 
 # Projetos
 
