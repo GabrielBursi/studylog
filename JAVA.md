@@ -3,6 +3,7 @@
 * [POO Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) ![](https://geps.dev/progress/0)
 * [CBF Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW) ![](https://geps.dev/progress/0)
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
+* [Aulão Java](https://www.youtube.com/watch?v=xud8VTTDaKc&list=WL&index=4) ![](https://geps.dev/progress/0)
 
 # Spring Boot
 
