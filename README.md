@@ -6,11 +6,15 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 
 ### `/cursos-pagos`
 
+* [JStack](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md "JStack log progress")
+
 ### `/youtube-playlists`
 
 ### `/artigos`
 
 ### `/roadmaps`
+
+* [Frontend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FRONTEND.md "Frontend roadmap log progress")
 
 ### `/projetos-praticos`
 
