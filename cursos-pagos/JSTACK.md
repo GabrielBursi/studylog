@@ -1,4 +1,4 @@
-# Formação Fullstack ![](https://geps.dev/progress/45)
+# Formação Fullstack
 
 * Node.js ![](https://geps.dev/progress/100)
 * React ![](https://geps.dev/progress/5)
