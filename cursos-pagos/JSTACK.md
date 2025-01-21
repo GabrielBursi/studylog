@@ -1,3 +1,7 @@
+# [JStack - Torne-se um desenvolvedor de verdade!](https://jstack.com.br)
+O JStack é um curso de Node.js, React, React Native e TypeScript focado em te preparar para o mercado e ensinar de verdade como essas tecnologias funcionam.
+A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
+
 # Formação Fullstack
 
 * Node.js ![](https://geps.dev/progress/100)
