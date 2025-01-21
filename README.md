@@ -17,6 +17,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [Frontend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FRONTEND.md "Frontend roadmap log progress")
 * [Backend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/BACKEND.md "Backend roadmap log progress")
 * [Mobile](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/MOBILE.md "Mobile roadmap log progress")
+* [Fullstack](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FULLSTACK.md "Fullstack roadmap log progress")
 
 ### `/projetos-praticos`
 
