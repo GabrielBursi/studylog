@@ -22,7 +22,6 @@
 
 * [#007 - Autorização baseada em Cargos (RBAC) em APIs Node.js](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js) ![](https://geps.dev/progress/100)
 * [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel) ![](https://geps.dev/progress/100)
-* [#057 - Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)](https://youtube.com/live/Cvfg5RTAeRM?feature=share) ![](https://geps.dev/progress/0)
 * [#061 - RBAC com AWS Cognito](https://youtube.com/live/0HJgM7Z3BCw?feature=share) ![](https://geps.dev/progress/0)
 
 ## React Query
@@ -30,3 +29,12 @@
 * [#013 - React Query na prática](https://app.jstack.com.br/classroom/lives/react-query-na-pratica) ![](https://geps.dev/progress/0)
 * [#016 - Optimistic Updates: UIs otimistas com React Query](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query) ![](https://geps.dev/progress/0)
 * [#021 - Paginação e Infinite Scroll com React Query](https://app.jstack.com.br/classroom/lives/paginacao-e-infinite-scroll-com-react-query) ![](https://geps.dev/progress/0)
+
+## Next.js
+
+* [#010 - Entendendo e trabalhando com o Next.js](https://app.jstack.com.br/classroom/lives/entendendo-e-trabalhando-com-o-next-js) ![](https://geps.dev/progress/0)
+* [#033 - API Routes e Middlewares no Next.js](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js) ![](https://geps.dev/progress/0)
+* [#034 - React Server Actions no Next.js](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js) ![](https://geps.dev/progress/0)
+* [#051 - Autenticação no Next.js](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js) ![](https://geps.dev/progress/0)
+* [#056 - Autenticação no Next.js com Auth.js (NextAuth v5)](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5) ![](https://geps.dev/progress/0)
+* [#057 - Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)](https://youtube.com/live/Cvfg5RTAeRM?feature=share) ![](https://geps.dev/progress/0)
