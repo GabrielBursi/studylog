@@ -8,6 +8,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 
 * [JStack](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md "JStack log progress")
 * [PRN](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md "PRN log progress")
+* [Udemy](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/UDEMY.md "Udemy log progress")
 
 ### `/youtube-playlists`
 
