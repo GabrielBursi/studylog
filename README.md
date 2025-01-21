@@ -11,6 +11,21 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [Udemy](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/UDEMY.md "Udemy log progress")
 
 ### `/youtube-playlists`
+* [AWS](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/AWS.md)
+* [Blockchain](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/BLOCKCHAIN.md)
+* [Design](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/DESIGN.md)
+* [Exterior](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/EXTERIOR.md)
+* [Infra](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/INFRA.md)
+* [Java](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/JAVA.md)
+* [Microservices](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/MICROSERVICES.md)
+* [NestJS](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/NESTJS.md)
+* [Next.js](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/NEXTJS.md)
+* [Node.js](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/NODEJS.md)
+* [Projetos](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/PROJETOS.md)
+* [Quantum](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/QUANTUM.md)
+* [React](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/REACT.md)
+* [React Native](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/REACTNATIVE.md)
+* [TypeScript](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/TYPESCRIPT.md)
 
 ### `/artigos`
 
