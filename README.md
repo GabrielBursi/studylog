@@ -14,6 +14,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [AWS](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/AWS.md)
 * [Blockchain](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/BLOCKCHAIN.md)
 * [Design](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/DESIGN.md)
+* [Docker](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/Docker.md)
 * [Exterior](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/EXTERIOR.md)
 * [Infra](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/INFRA.md)
 * [Java](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/JAVA.md)
