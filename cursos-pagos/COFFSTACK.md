@@ -15,7 +15,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 8. Navegação com React Navigation
 9. Formulários - React Hook Form e Zod
 10. Ferramentas de Código (EsLint, Prettier e Husky)
-* **`Fase 2 (Pleno)`** ![](https://geps.dev/progress/90)
+* **`Fase 2 (Pleno)`** ![](https://geps.dev/progress/100)
 11. Navegação Avançada (Customização e TypeScript)
 12. Componentes Complexos - Home Screen FlatList
 13. Arquitetura para Frontend com integração a API
@@ -27,7 +27,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 19. Introdução a Testes com Jest
 20. Teste de Componentes com a React Native Testing Library
 21. Testando React Hook e Aprofundando em Mocks
-22. Testes de Integração
+22. Testes de Integração ⭐
 * **`Fase 3 (Sênior)`** ![](https://geps.dev/progress/0)
 23. Pesquisa - Funcionalidade de Ponta a Ponta com Teste de Integração
 24. Post: Camera, Galeria e Permissões
