@@ -2,7 +2,7 @@
 
 * [POO Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) ![](https://geps.dev/progress/0)
 * [OOP in Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg) ![](https://geps.dev/progress/0)
-* [CBF Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW) ![](https://geps.dev/progress/23)
+* [CBF Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW) ![](https://geps.dev/progress/57)
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
 
 # Java 21
