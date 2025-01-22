@@ -4,7 +4,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 
 # Nubble App
 
-Estou [aqui](https://github.com/GabrielBursi/studylog/edit/main/cursos-pagos/COFFSTACK.md#fase-2-pleno-) modulo 24
+Estou [aqui](https://github.com/GabrielBursi/studylog/main/cursos-pagos/COFFSTACK.md#fase-2-pleno-) modulo 24
 
 ## `Fase 1 (Júnior)` ![](https://geps.dev/progress/100)
 1. Nubble App - Introdução ao Projeto
