@@ -4,7 +4,8 @@
 * [OOP in Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg) ![](https://geps.dev/progress/0)
 * [CBF Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW) ![](https://geps.dev/progress/100)
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
-* [Java para Devs.JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/0)
+* [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/50)
+* [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/0)
 
 # Java 21
 
