@@ -23,4 +23,5 @@
 # Projetos 
 
 * [Curso Spring Boot e Spring Security](https://www.youtube.com/playlist?list=PL0j7juv7l4HiYwauxU4CZAEXT3mi2loMb) ![](https://geps.dev/progress/0)
+* [REST and Microservices](https://www.youtube.com/playlist?list=PLq2IQ7nZjFRHSYY5W8fq6LEiD9A6dNmBG) ![](https://geps.dev/progress/0)
 
