@@ -50,6 +50,11 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/0)
 * [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/0)
 
+## CI/CD 
+
+* [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
+* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/0)
+
 ## React Hook Form
 
 * [#018 - Dominando o React Hook Form](https://app.jstack.com.br/classroom/lives/dominando-o-react-hook-form "#018") ![](https://geps.dev/progress/0)
