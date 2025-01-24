@@ -49,6 +49,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#003 - Deploy de apps React para produção na AWS](https://app.jstack.com.br/classroom/lives/deploy-de-apps-react-para-producao-na-aws "#003") ![](https://geps.dev/progress/100)
 * [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/0)
 * [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/0)
+* [#062- Construindo tabelas com React Table (TanStack)](# "#062") ![](https://geps.dev/progress/0)
 
 ## CI/CD 
 
