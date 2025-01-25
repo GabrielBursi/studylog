@@ -10,7 +10,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 # Projetos
 
-* WaiterApp ![](https://geps.dev/progress/10)
+* WaiterApp ![](https://geps.dev/progress/20)
 * Fincheck ![](https://geps.dev/progress/0)
 
 # Lives
