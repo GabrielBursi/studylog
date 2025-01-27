@@ -2,3 +2,4 @@
 * [Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) ![](https://geps.dev/progress/100)
 * [Docker Essencial](https://www.youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N) ![](https://geps.dev/progress/0)
 * [Descomplicando Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) ![](https://geps.dev/progress/0)
+* [Zero to hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC) ![](https://geps.dev/progress/0)
