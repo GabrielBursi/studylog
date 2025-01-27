@@ -19,7 +19,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * [#001 - Entendendo a estrutura de tokens JWT criando a sua própria implementação](https://app.jstack.com.br/classroom/lives/entendendo-a-estrutura-de-tokens-jwt-criando-a-sua-propria-implementacao "#001") ![](https://geps.dev/progress/100)
 * [#006 - Autenticação JWT em APIs Node.js](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006") ![](https://geps.dev/progress/100)
-* [#015 - Implementando Refresh Tokens em APIs Node.js](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015") ![](https://geps.dev/progress/0)
+* [#015 - Implementando Refresh Tokens em APIs Node.js](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015") ![](https://geps.dev/progress/100)
 
 ## RBAC
 
