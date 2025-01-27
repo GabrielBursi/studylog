@@ -1,7 +1,7 @@
 ## Básico Java
 
 * [POO Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) ![](https://geps.dev/progress/0)
-* [Java Tutorial For beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5) ![](https://geps.dev/progress/21)
+* [Java Tutorial For beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5) ![](https://geps.dev/progress/32)
 * [CBF Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW) ![](https://geps.dev/progress/100)
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
