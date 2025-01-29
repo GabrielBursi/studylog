@@ -27,7 +27,7 @@
 * [Spring Boot Unit Testing Tutorial](https://www.youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E) ![](https://geps.dev/progress/0)
 * [Testes com Mockito + JUnit 5 em API REST](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkWgyYa485pgf-VAoJgL4rW1) ![](https://geps.dev/progress/0)
 
-# Projetos 
+## Projetos 
 
 * [Curso Spring Boot e Spring Security](https://www.youtube.com/playlist?list=PL0j7juv7l4HiYwauxU4CZAEXT3mi2loMb) ![](https://geps.dev/progress/0)
 * [REST and Microservices](https://www.youtube.com/playlist?list=PLq2IQ7nZjFRHSYY5W8fq6LEiD9A6dNmBG) ![](https://geps.dev/progress/0)
