@@ -1,19 +1,23 @@
-# [JStack - Torne-se um desenvolvedor de verdade!](https://jstack.com.br)
+## [JStack - Torne-se um desenvolvedor de verdade!](https://jstack.com.br)
 O JStack é um curso de Node.js, React, React Native e TypeScript focado em te preparar para o mercado e ensinar de verdade como essas tecnologias funcionam.
 A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
-# Formação Fullstack
+## Formação Fullstack
 
 * Node.js ![](https://geps.dev/progress/100)
 * React ![](https://geps.dev/progress/5)
 * React Native ![](https://geps.dev/progress/100)
 
-# Projetos
+## Projetos
 
 * WaiterApp ![](https://geps.dev/progress/20)
 * Fincheck ![](https://geps.dev/progress/0)
 
-# Lives
+## Praticar 
+
+- [ ] Refresh tokens e RBAC em Node.js e React ([#006](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006"), [#007](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007"), [#008](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008"), [#015](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015"), [#019](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019"))
+
+## Lives
 
 ## JWT
 
@@ -49,7 +53,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#019 - Autenticação com Refresh Tokens no React](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019") ![](https://geps.dev/progress/100)
 * [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/100)
 * [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
-* [#062- Construindo tabelas com React Table (TanStack)](# "#062") ![](https://geps.dev/progress/0)
+* [#062- Construindo tabelas com React Table (TanStack)](## "#062") ![](https://geps.dev/progress/0)
 
 ## CI/CD 
 
