@@ -34,7 +34,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ## React Query
 
 * [#013 - React Query na prática](https://app.jstack.com.br/classroom/lives/react-query-na-pratica "#013") ![](https://geps.dev/progress/100)
-* [#016 - Optimistic Updates: UIs otimistas com React Query](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query "#016") ![](https://geps.dev/progress/70)
+* [#016 - Optimistic Updates: UIs otimistas com React Query](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query "#016") ![](https://geps.dev/progress/100)
 * [#021 - Paginação e Infinite Scroll com React Query](https://app.jstack.com.br/classroom/lives/paginacao-e-infinite-scroll-com-react-query "#021") ![](https://geps.dev/progress/0)
 
 ## Next.js
