@@ -79,3 +79,12 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#025 - SQL: JOINS, JSON no Postgres e Índices](https://app.jstack.com.br/classroom/lives/sql-joins-json-no-postgres-e-indices "#025") ![](https://geps.dev/progress/0)
 * [#026 - SQL: Subqueries, Transactions e Triggers](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026") ![](https://geps.dev/progress/0)
 * [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/0)
+
+
+## DynamoDB
+
+* [#017 - DynamoDB e Serverless Framework: o par perfeito](https://app.jstack.com.br/classroom/lives/dynamodb-e-serverless-framework-o-par-perfeito "#017") ![](https://geps.dev/progress/0)
+* [#044 - Alta performance e baixo custo com DynamoDB e Single-Table Design](https://app.jstack.com.br/classroom/lives/alta-performance-e-baixo-custo-com-dynamodb-e-single-table-design "#044") ![](https://geps.dev/progress/0)
+* [#047 - Modelando tabelas no DynamoDB com Single-Table Design](https://app.jstack.com.br/classroom/lives/modelando-tabelas-no-dynamodb-com-single-table-design "#047") ![](https://geps.dev/progress/0)
+* [#048 - DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas](https://app.jstack.com.br/classroom/lives/dynamodb-single-table-design-relacionamentos-paginacao-e-buscas "#048") ![](https://geps.dev/progress/0)
+* [#060 - DynamoDB Streams e Search com Algolia](https://youtube.com/live/rhkuU1UIKb8?feature=share "#060") ![](https://geps.dev/progress/0)
