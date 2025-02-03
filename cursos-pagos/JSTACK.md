@@ -1,4 +1,5 @@
 ## [JStack - Torne-se um desenvolvedor de verdade!](https://jstack.com.br)
+
 O JStack é um curso de Node.js, React, React Native e TypeScript focado em te preparar para o mercado e ensinar de verdade como essas tecnologias funcionam.
 A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
@@ -13,7 +14,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * WaiterApp ![](https://geps.dev/progress/20)
 * Fincheck ![](https://geps.dev/progress/0)
 
-## Praticar 
+## Praticar
 
 - [ ] Refresh tokens e RBAC em Node.js e React ([#006](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006"), [#007](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007"), [#008](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008"), [#015](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015"), [#019](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019"))
 
@@ -29,7 +30,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * [#007 - Autorização baseada em Cargos (RBAC) em APIs Node.js](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007") ![](https://geps.dev/progress/100)
 * [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008") ![](https://geps.dev/progress/100)
-* [#061 - RBAC com AWS Cognito](https://youtube.com/live/0HJgM7Z3BCw?feature=share "#061") ![](https://geps.dev/progress/0)
+* [#061 - RBAC com AWS Cognito](https://youtube.com/live/0HJgM7Z3BCw?feature=share "#061") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ## React Query
 
@@ -44,7 +45,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#034 - React Server Actions no Next.js](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js "#034") ![](https://geps.dev/progress/0)
 * [#051 - Autenticação no Next.js](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "#051") ![](https://geps.dev/progress/0)
 * [#056 - Autenticação no Next.js com Auth.js (NextAuth v5)](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "#056") ![](https://geps.dev/progress/0)
-* [#057 - Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)](https://youtube.com/live/Cvfg5RTAeRM?feature=share "#057") ![](https://geps.dev/progress/0)
+* [#057 - Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)](https://youtube.com/live/Cvfg5RTAeRM?feature=share "#057") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ## React
 
@@ -55,7 +56,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
 * [#062- Construindo tabelas com React Table (TanStack)](## "#062") ![](https://geps.dev/progress/0)
 
-## CI/CD 
+## CI/CD
 
 * [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
 * [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/0)
@@ -80,11 +81,10 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#026 - SQL: Subqueries, Transactions e Triggers](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026") ![](https://geps.dev/progress/0)
 * [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/0)
 
-
 ## DynamoDB
 
 * [#017 - DynamoDB e Serverless Framework: o par perfeito](https://app.jstack.com.br/classroom/lives/dynamodb-e-serverless-framework-o-par-perfeito "#017") ![](https://geps.dev/progress/0)
 * [#044 - Alta performance e baixo custo com DynamoDB e Single-Table Design](https://app.jstack.com.br/classroom/lives/alta-performance-e-baixo-custo-com-dynamodb-e-single-table-design "#044") ![](https://geps.dev/progress/0)
 * [#047 - Modelando tabelas no DynamoDB com Single-Table Design](https://app.jstack.com.br/classroom/lives/modelando-tabelas-no-dynamodb-com-single-table-design "#047") ![](https://geps.dev/progress/0)
 * [#048 - DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas](https://app.jstack.com.br/classroom/lives/dynamodb-single-table-design-relacionamentos-paginacao-e-buscas "#048") ![](https://geps.dev/progress/0)
-* [#060 - DynamoDB Streams e Search com Algolia](https://youtube.com/live/rhkuU1UIKb8?feature=share "#060") ![](https://geps.dev/progress/0)
+* [#060 - DynamoDB Streams e Search com Algolia](https://youtube.com/live/rhkuU1UIKb8?feature=share "#060") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
