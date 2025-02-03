@@ -62,7 +62,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ## React Hook Form
 
-* [#018 - Dominando o React Hook Form](https://app.jstack.com.br/classroom/lives/dominando-o-react-hook-form "#018") ![](https://geps.dev/progress/0)
+* [#018 - Dominando o React Hook Form](https://app.jstack.com.br/classroom/lives/dominando-o-react-hook-form "#018") ![](https://geps.dev/progress/75)
 * [#028 - Formulários dinâmicos com React Hook Form](https://app.jstack.com.br/classroom/lives/formularios-dinamicos-com-react-hook-form "#028") ![](https://geps.dev/progress/0)
 * [#029 - Fomulários Multi-step/Wizard com React Hook Form](https://app.jstack.com.br/classroom/lives/fomularios-multi-step-wizard-com-react-hook-form "#029") ![](https://geps.dev/progress/0)
 
