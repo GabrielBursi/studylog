@@ -18,6 +18,8 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 - [ ] Refresh tokens e RBAC em Node.js e React ([#006](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006"), [#007](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007"), [#008](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008"), [#015](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015"), [#019](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019"))
 
+- [ ] RHF ([#028](https://app.jstack.com.br/classroom/lives/formularios-dinamicos-com-react-hook-form "#028"), [#029](https://app.jstack.com.br/classroom/lives/fomularios-multi-step-wizard-com-react-hook-form "#029"))
+
 ## Lives
 
 ## JWT
