@@ -7,6 +7,7 @@
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/0)
 * [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
+* [Definições](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) ![](https://geps.dev/progress/0)
 
 ## Java 21
 
