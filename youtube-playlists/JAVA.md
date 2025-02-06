@@ -21,10 +21,9 @@
 ## Spring Boot
 
 * [Spring 6 and Spring Boot](https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF) ![](https://geps.dev/progress/0)
-* [Spring Boot Essentials 2](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) ![](https://geps.dev/progress/0)
+* [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLzUMQwCOrQTksiYqoumAQxuhPNa3HqasL) ![](https://geps.dev/progress/0)
 * [Curso Completo Spring Boot 3](https://www.youtube.com/watch?v=wlYvA2b1BWI) ![](https://geps.dev/progress/50)
 * [Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb) ![](https://geps.dev/progress/20)
-* [Microserviço](https://www.youtube.com/playlist?list=PL62G310vn6nH_iMQoPMhIlK_ey1npyUUl) ![](https://geps.dev/progress/0)
 
 ## Testes unitários
 
