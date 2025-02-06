@@ -1,18 +1,22 @@
-## Básico Java
+## Java Básico
 
 * [POO Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) ![](https://geps.dev/progress/0)
 * [Java Tutorial For beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5) ![](https://geps.dev/progress/100)
 * [CBF Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW) ![](https://geps.dev/progress/100)
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
-* [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/0)
-* [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
 * [Definições](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) ![](https://geps.dev/progress/0)
 
 ## Java 21
 
 * [Latest Java Features (8-21)](https://www.youtube.com/playlist?list=PL87padGs1bp-kvfW7UHMzNDglSiLBEyr6) ![](https://geps.dev/progress/0)
 * [Road to 21](https://www.youtube.com/playlist?list=PLX8CzqL3ArzVHAHWowaXwYFlLk78D8RvL) ![](https://geps.dev/progress/0)
+
+## Java Avançado
+
+* [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/0)
+* [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
+* [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/0)
 
 ## Spring Boot
 
