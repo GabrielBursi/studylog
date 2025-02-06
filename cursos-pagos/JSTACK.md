@@ -20,22 +20,22 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ## *Sumário*
 
-- **Front-end**
+- **[Front-end](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#front-end)**
     - [React](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#react)
     - [Next.js](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#nextjs)
     - [React Query](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#react-query)
     - [React Hook Form](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#react-hook-form)
     - [Storybook](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#storybook)
-- **Back-end**
+- **[Back-end](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#back-end)**
     - [JWT](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#jwt)
     - [RBAC](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#rbac)
-- **Banco de dados**
+- **[Banco de dados](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#banco-de-dados)**
     - [SQL](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#sql)
     - [DynamoDB](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#dynamodb)
-- **Infra / DevOps**
+- **[Infra / DevOps](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#infra--devops)**
     - [Serverless Framework](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#serverless-framework)
     - [CI/CD](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#cicd)
-- **Arquitetura**
+- **[Arquitetura](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#arquitetura)**
 
 ## Praticar
 
