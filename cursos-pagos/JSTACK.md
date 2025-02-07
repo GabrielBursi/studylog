@@ -102,7 +102,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * [#007 - Autorização baseada em Cargos (RBAC) em APIs Node.js](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007") ![](https://geps.dev/progress/100)
 * [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008") ![](https://geps.dev/progress/100)
-* [#061 - RBAC com AWS Cognito](https://youtube.com/live/0HJgM7Z3BCw?feature=share "#061") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ## Banco de dados
 
