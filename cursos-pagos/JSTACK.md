@@ -83,7 +83,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ### Storybook
 
 * [#027 - Documentando componentes com Storybook](https://app.jstack.com.br/classroom/lives/documentando-componentes-com-storybook "#027") ![](https://geps.dev/progress/100)
-* [#041 - Construindo e publicando UI Kits no NPM com Tailwind e Storybook](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041") ![](https://geps.dev/progress/35)
+* [#041 - Construindo e publicando UI Kits no NPM com Tailwind e Storybook](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041") ![](https://geps.dev/progress/57)
 
 ## Back-end
 
