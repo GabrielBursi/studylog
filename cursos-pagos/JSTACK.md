@@ -133,7 +133,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ### CI/CD
 
 * [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
-* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/0)
+* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/67)
 
 ## Arquitetura
 
