@@ -16,8 +16,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 # Lives
 
-
-
 ## *Sumário*
 
 - **[Front-end](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#front-end)**
@@ -41,6 +39,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 - [ ] Refresh tokens e RBAC em Node.js e React ([#006](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006"), [#007](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007"), [#008](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008"), [#015](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015"), [#019](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019"))
 - [ ] RHF ([#028](https://app.jstack.com.br/classroom/lives/formularios-dinamicos-com-react-hook-form "#028"), [#029](https://app.jstack.com.br/classroom/lives/fomularios-multi-step-wizard-com-react-hook-form "#029"))
+- [ ] Publicar pacote UI Kit ([#041](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041"), [#042](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042"))
 
 ## Front-end
 
@@ -133,7 +132,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ### CI/CD
 
 * [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
-* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/67)
+* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/100)
 
 ## Arquitetura
 
