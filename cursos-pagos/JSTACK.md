@@ -16,8 +16,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 # Lives
 
-
-
 ## *Sumário*
 
 - **[Front-end](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#front-end)**
@@ -41,6 +39,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 - [ ] Refresh tokens e RBAC em Node.js e React ([#006](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006"), [#007](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007"), [#008](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008"), [#015](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015"), [#019](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019"))
 - [ ] RHF ([#028](https://app.jstack.com.br/classroom/lives/formularios-dinamicos-com-react-hook-form "#028"), [#029](https://app.jstack.com.br/classroom/lives/fomularios-multi-step-wizard-com-react-hook-form "#029"))
+- [ ] Publicar pacote UI Kit ([#041](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041"), [#042](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042"))
 
 ## Front-end
 
@@ -82,8 +81,8 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### Storybook
 
-* [#027 - Documentando componentes com Storybook](https://app.jstack.com.br/classroom/lives/documentando-componentes-com-storybook "#027") ![](https://geps.dev/progress/0)
-* [#041 - Construindo e publicando UI Kits no NPM com Tailwind e Storybook](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041") ![](https://geps.dev/progress/0)
+* [#027 - Documentando componentes com Storybook](https://app.jstack.com.br/classroom/lives/documentando-componentes-com-storybook "#027") ![](https://geps.dev/progress/100)
+* [#041 - Construindo e publicando UI Kits no NPM com Tailwind e Storybook](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041") ![](https://geps.dev/progress/100)
 
 ## Back-end
 
@@ -102,7 +101,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * [#007 - Autorização baseada em Cargos (RBAC) em APIs Node.js](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007") ![](https://geps.dev/progress/100)
 * [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008") ![](https://geps.dev/progress/100)
-* [#061 - RBAC com AWS Cognito](https://youtube.com/live/0HJgM7Z3BCw?feature=share "#061") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ## Banco de dados
 
@@ -134,7 +132,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ### CI/CD
 
 * [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
-* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/0)
+* [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/100)
 
 ## Arquitetura
 
