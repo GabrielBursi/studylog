@@ -33,7 +33,7 @@
 * [COMEÇANDO com TESTES UNITÁRIOS no JAVA SPRING | Junit + Mockito](https://www.youtube.com/watch?v=T6ChO8LQxRE)
 
 * [JUnit 5 Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o) ![](https://geps.dev/progress/100)
-* [Testes com Mockito + JUnit 5 em API REST](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkWgyYa485pgf-VAoJgL4rW1) ![](https://geps.dev/progress/0)
+* [Testes com Mockito + JUnit 5 em API REST](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkWgyYa485pgf-VAoJgL4rW1) ![](https://geps.dev/progress/46)
 * [Spring Boot Unit Testing Tutorial](https://www.youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E) ![](https://geps.dev/progress/0)
 
 ## Projetos 
