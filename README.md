@@ -19,6 +19,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [Git](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/GIT.md)
 * [Infra](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/INFRA.md)
 * [Java](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/JAVA.md)
+* [Kafka](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/KAFKA.md)
 * [Leetcode](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/LEETCODE.md)
 * [Nest.js](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/NESTJS.md)
 * [Next.js](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/NEXTJS.md)
