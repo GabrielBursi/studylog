@@ -5,6 +5,7 @@
 
 ## Design Patterns
 
+* [Design Patterns - Padrões de Projeto - GOF](https://www.youtube.com/watch?v=el1MtIPXTqo&list=PLNHxHgB-_LTt67szNmMsZwqBKq9jH4uKJ) ![](https://geps.dev/progress/0)
 * [DP OOP Teoria](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) ![](https://geps.dev/progress/0)
 * [DP OOP C#.NET](https://www.youtube.com/playlist?list=PLrhzvIcii6GNCgHSj44-gXZeTUVbSPC-3) ![](https://geps.dev/progress/0)
 * [GOF com TypeScript](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H) ![](https://geps.dev/progress/0)
@@ -28,3 +29,6 @@
 ##  Hexagonal Arch
 
 * [Hexagonal Architecture](https://www.youtube.com/playlist?list=PL18L3lKMddFq-3f7DcSrqa_pTKfoh-D5h) ![](https://geps.dev/progress/0)
+  
+## SOLID
+* [Dominando os Princípios SOLID: Um Guia Completo!](https://www.youtube.com/watch?v=jHbI9ej5O1Y&list=PLNHxHgB-_LTtxnX6ILHDBpY6hCuzBwlrW) ![](https://geps.dev/progress/0)
