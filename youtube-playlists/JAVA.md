@@ -7,8 +7,9 @@
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
 * [Definições](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) ![](https://geps.dev/progress/100)
 
-## Java 21
+## Atualizações
 
+* [Aprenda acumulado de atualizações JDKs](https://www.youtube.com/watch?v=TwSOR_-JMHU)
 * [Latest Java Features (8-21)](https://www.youtube.com/playlist?list=PL87padGs1bp-kvfW7UHMzNDglSiLBEyr6) ![](https://geps.dev/progress/0)
 * [Road to 21](https://www.youtube.com/playlist?list=PLX8CzqL3ArzVHAHWowaXwYFlLk78D8RvL) ![](https://geps.dev/progress/0)
 
