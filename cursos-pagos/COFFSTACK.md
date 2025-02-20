@@ -30,7 +30,7 @@ Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COF
 20. ✔ Teste de Componentes com a React Native Testing Library
 21. ✔ Testando React Hook e Aprofundando em Mocks
 22. ✔ Testes de Integração ⭐
-## `Fase 3 (Sênior)` ![](https://geps.dev/progress/8)
+## `Fase 3 (Sênior)` ![](https://geps.dev/progress/15)
 23. ✔ Pesquisa - Funcionalidade de Ponta a Ponta com Teste de Integração
 24. ✔ Post: Camera, Galeria e Permissões
 25. Dark Mode (Tema Escuro)
