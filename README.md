@@ -40,7 +40,9 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [Fullstack](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FULLSTACK.md "Fullstack roadmap log progress")
 * [Fundamentos Computação](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FUNDAMENTOS.md "Computação roadmap log progress")
 
-### `/projetos-praticos`
+### `/projetos-pessoais`
+
+* [ ] [UI Kit](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/UI-KIT.md)
 
 ### `/livros`
 
