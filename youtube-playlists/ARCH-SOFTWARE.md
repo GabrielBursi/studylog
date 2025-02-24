@@ -7,6 +7,7 @@
 
 ## Arquitetura de Software
 
+* [Fundamentos de Arquitetura de Software](https://www.youtube.com/playlist?list=PLNHxHgB-_LTusKqdWaZJtRbcqEMXPZXtw) ![](https://geps.dev/progress/0)
 * [Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnStflA1V__q6_9yC8_nV2ra) ![](https://geps.dev/progress/0)
 * [Giuliana Bezerra](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GgaNxjbuJlM11FQbvBTtt) ![](https://geps.dev/progress/0)
 
