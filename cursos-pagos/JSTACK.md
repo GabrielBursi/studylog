@@ -111,7 +111,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#023 - Esqueça os ORMs: vamos falar de SQL](https://app.jstack.com.br/classroom/lives/esqueca-os-orms-vamos-falar-de-sql "#023") ![](https://geps.dev/progress/100)
 * [#024 - SQL: Aggregate Functions, Views, Constraints e Keys](https://app.jstack.com.br/classroom/lives/sql-aggregate-functions-views-constraints-e-keys "#024") ![](https://geps.dev/progress/100)
 * [#025 - SQL: JOINS, JSON no Postgres e Índices](https://app.jstack.com.br/classroom/lives/sql-joins-json-no-postgres-e-indices "#025") ![](https://geps.dev/progress/100)
-* [#026 - SQL: Subqueries, Transactions e Triggers](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026") ![](https://geps.dev/progress/52)
+* [#026 - SQL: Subqueries, Transactions e Triggers](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026") ![](https://geps.dev/progress/100)
 
 ### DynamoDB
 
