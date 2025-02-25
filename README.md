@@ -33,6 +33,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 ### `/artigos`
 
 * [Padrões de desenvolvimento](https://github.com/GabrielBursi/studylog/blob/main/artigos/PADROES-DE-DESENVOLVIMENTO.md)
+* [Database Design](https://github.com/GabrielBursi/studylog/blob/main/artigos/DATABASE-DESIGN.md)
 
 ### `/roadmaps`
 

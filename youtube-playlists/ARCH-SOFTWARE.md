@@ -40,3 +40,8 @@
   
 ## SOLID
 * [Dominando os Princípios SOLID: Um Guia Completo!](https://www.youtube.com/watch?v=jHbI9ej5O1Y&list=PLNHxHgB-_LTtxnX6ILHDBpY6hCuzBwlrW) ![](https://geps.dev/progress/0)
+
+## Database Design
+
+* [Database Design](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) ![](https://geps.dev/progress/0)
+* [Database Design & Management Class!](https://www.youtube.com/playlist?list=PL1LIXLIF50uURxYXfBCaAXDzSdZlQiESy) ![](https://geps.dev/progress/0)
