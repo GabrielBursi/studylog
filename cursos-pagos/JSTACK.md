@@ -104,7 +104,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ## Banco de dados
 
-* [#035 - Database Design: modelando bancos de dados do jeito certo](https://app.jstack.com.br/classroom/lives/database-design-modelando-bancos-de-dados-do-jeito-certo "#035") ![](https://geps.dev/progress/0)
+* [#035 - Database Design: modelando bancos de dados do jeito certo](https://app.jstack.com.br/classroom/lives/database-design-modelando-bancos-de-dados-do-jeito-certo "#035") ![](https://geps.dev/progress/85)
 
 ### SQL
 
