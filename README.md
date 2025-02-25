@@ -4,11 +4,34 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 
 ## Estrutura do Repositório
 
+### `/artigos`
+
+* [Padrões de desenvolvimento](https://github.com/GabrielBursi/studylog/blob/main/artigos/PADROES-DE-DESENVOLVIMENTO.md)
+* [Database Design](https://github.com/GabrielBursi/studylog/blob/main/artigos/DATABASE-DESIGN.md)
+
 ### `/cursos-pagos`
 
 * [JStack](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md "JStack log progress")
 * [PRN](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md "PRN log progress")
 * [Udemy](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/UDEMY.md "Udemy log progress")
+
+### `/projetos-pessoais`
+
+✅ **Concluído com sucesso**
+👷 **Trabalho em progresso**
+🚫 **Ainda não iniciado**
+
+* 🚫 [UI Kit](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/UI-KIT.md)
+* 🚫 [Connect Flow](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/CONNECT-FLOW.md)
+* 🚫 [Individuals](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/INDIVIDUALS.md)
+
+### `/roadmaps`
+
+* [Frontend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FRONTEND.md "Frontend roadmap log progress")
+* [Backend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/BACKEND.md "Backend roadmap log progress")
+* [Mobile](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/MOBILE.md "Mobile roadmap log progress")
+* [Fullstack](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FULLSTACK.md "Fullstack roadmap log progress")
+* [Fundamentos Computação](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FUNDAMENTOS.md "Computação roadmap log progress")
 
 ### `/youtube-playlists`
 
@@ -29,26 +52,3 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [React](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/REACT.md)
 * [React Native](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/REACTNATIVE.md)
 * [TypeScript](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/TYPESCRIPT.md)
-
-### `/artigos`
-
-* [Padrões de desenvolvimento](https://github.com/GabrielBursi/studylog/blob/main/artigos/PADROES-DE-DESENVOLVIMENTO.md)
-* [Database Design](https://github.com/GabrielBursi/studylog/blob/main/artigos/DATABASE-DESIGN.md)
-
-### `/roadmaps`
-
-* [Frontend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FRONTEND.md "Frontend roadmap log progress")
-* [Backend](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/BACKEND.md "Backend roadmap log progress")
-* [Mobile](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/MOBILE.md "Mobile roadmap log progress")
-* [Fullstack](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FULLSTACK.md "Fullstack roadmap log progress")
-* [Fundamentos Computação](https://github.com/GabrielBursi/studylog/blob/main/roadmaps/FUNDAMENTOS.md "Computação roadmap log progress")
-
-### `/projetos-pessoais`
-
-✅ **Concluído com sucesso**
-👷 **Trabalho em progresso**
-🚫 **Ainda não iniciado**
-
-* 🚫 [UI Kit](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/UI-KIT.md)
-* 🚫 [Connect Flow](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/CONNECT-FLOW.md)
-* 🚫 [Individuals](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/INDIVIDUALS.md)
