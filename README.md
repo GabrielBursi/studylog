@@ -24,6 +24,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 🚫 [UI Kit](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/UI-KIT.md)
 * 🚫 [Connect Flow](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/CONNECT-FLOW.md)
 * 🚫 [Individuals](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/INDIVIDUALS.md)
+* 🚫 [Jiraya](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/JIRAYA.md)
 
 ### `/roadmaps`
 
