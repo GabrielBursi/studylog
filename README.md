@@ -25,6 +25,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 🚫 [Connect Flow](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/CONNECT-FLOW.md)
 * 🚫 [Individuals](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/INDIVIDUALS.md)
 * 🚫 [Jiraya](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/JIRAYA.md)
+* 🚫 [Projeto NEXT 14, TS e Tailwind](https://www.youtube.com/playlist?list=PL29TaWXah3iaKcSxmOa_e_bKCkS10Rsn-)
 
 ### `/roadmaps`
 
