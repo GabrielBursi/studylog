@@ -63,7 +63,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ### Next.js
 
 * [#010 - Entendendo e trabalhando com o Next.js](https://app.jstack.com.br/classroom/lives/entendendo-e-trabalhando-com-o-next-js "#010") ![](https://geps.dev/progress/100)
-* [#033 - API Routes e Middlewares no Next.js](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js "#033") ![](https://geps.dev/progress/0)
+* [#033 - API Routes e Middlewares no Next.js](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js "#033") ![](https://geps.dev/progress/100)
 * [#034 - React Server Actions no Next.js](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js "#034") ![](https://geps.dev/progress/0)
 * [#051 - Autenticação no Next.js](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "#051") ![](https://geps.dev/progress/0)
 * [#056 - Autenticação no Next.js com Auth.js (NextAuth v5)](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "#056") ![](https://geps.dev/progress/0)
