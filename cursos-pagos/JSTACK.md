@@ -41,6 +41,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 - [ ] RHF ([#028](https://app.jstack.com.br/classroom/lives/formularios-dinamicos-com-react-hook-form "#028"), [#029](https://app.jstack.com.br/classroom/lives/fomularios-multi-step-wizard-com-react-hook-form "#029"))
 - [ ] Publicar pacote UI Kit ([#041](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041"), [#042](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042"))
 - [ ] SQL ([#035](https://app.jstack.com.br/classroom/lives/database-design-modelando-bancos-de-dados-do-jeito-certo "#035"), [#024](https://app.jstack.com.br/classroom/lives/sql-aggregate-functions-views-constraints-e-keys "#024"), [#025](https://app.jstack.com.br/classroom/lives/sql-joins-json-no-postgres-e-indices "#025"), [#026](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026"))
+- [ ] React 19 / Next ([#032](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032"), [#033](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js "#033"), [#034](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js "#034"))
 
 ## Front-end
 
@@ -57,8 +58,9 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/100)
 * [#040 - Gerenciamento de estados com Zustand](https://app.jstack.com.br/classroom/lives/gerenciamento-de-estados-com-zustand "#040") ![](https://geps.dev/progress/100)
 * [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
-* [#062- Construindo tabelas com React Table (TanStack)](https://youtube.com/live/5WVGv98FtKY?feature=share "#062") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
-* [#066- Dominando os React Hooks (Parte 1)](https://www.youtube.com/live/b-iDz0dkxHk "#066") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#062 - Construindo tabelas com React Table (TanStack)](https://youtube.com/live/5WVGv98FtKY?feature=share "#062") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#066 - Dominando os React Hooks (Parte 1)](https://www.youtube.com/live/b-iDz0dkxHk "#066") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#067 - Dominando os React Hooks (Parte 2)](https://www.youtube.com/live/AVTTf5kzkBM?feature=share "#066") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ### Next.js
 
