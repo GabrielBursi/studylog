@@ -42,6 +42,8 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 - [ ] Publicar pacote UI Kit ([#041](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041"), [#042](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042"))
 - [ ] SQL ([#035](https://app.jstack.com.br/classroom/lives/database-design-modelando-bancos-de-dados-do-jeito-certo "#035"), [#024](https://app.jstack.com.br/classroom/lives/sql-aggregate-functions-views-constraints-e-keys "#024"), [#025](https://app.jstack.com.br/classroom/lives/sql-joins-json-no-postgres-e-indices "#025"), [#026](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026"))
 - [ ] React 19 / Next ([#032](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032"), [#033](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js "#033"), [#034](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js "#034"))
+- [ ] Autenticação Next ([#051](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "#051"), [#056)](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "#056"), [#057](https://youtube.com/live/Cvfg5RTAeRM?feature=share "#057"))
+- [ ] React Query ([#016](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query "#016"), [#021](https://app.jstack.com.br/classroom/lives/paginacao-e-infinite-scroll-com-react-query "#021"))
 
 ## Front-end
 
