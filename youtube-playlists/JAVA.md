@@ -21,6 +21,7 @@
 
 ## Spring Boot
 
+* [Spring Boot do Zero | Aprenda java com Naruto [2025]](https://www.youtube.com/watch?v=n8_qrrc8WN4)
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)
 * [Spring Boot 2 - Sua Primeira API REST 2021](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkXwPerFo4ZDFEessyNJW1ol) ![](https://geps.dev/progress/0)
 * [Spring 6 and Spring Boot](https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF) ![](https://geps.dev/progress/0)
