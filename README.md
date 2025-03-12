@@ -8,6 +8,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 
 * [Padrões de desenvolvimento](https://github.com/GabrielBursi/studylog/blob/main/artigos/PADROES-DE-DESENVOLVIMENTO.md)
 * [Database Design](https://github.com/GabrielBursi/studylog/blob/main/artigos/DATABASE-DESIGN.md)
+* [Estrutura de Dados](https://github.com/GabrielBursi/studylog/blob/main/artigos/ESTRUTURA-DE-DADOS.md)
 
 ### `/cursos-pagos`
 
@@ -41,6 +42,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [AWS](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/AWS.md)
 * [Blockchain](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/BLOCKCHAIN.md)
 * [Docker](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/DOCKER.md)
+* [Estrutura de Dados](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/ESTRUTURA-DE-DADOS.md)
 * [Git](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/GIT.md)
 * [Infra](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/INFRA.md)
 * [Java](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/JAVA.md)
