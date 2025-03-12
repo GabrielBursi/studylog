@@ -1,8 +1,15 @@
 ## Arquitetura de Software
 
 * [Fundamentos de Arquitetura de Software](https://www.youtube.com/playlist?list=PLNHxHgB-_LTusKqdWaZJtRbcqEMXPZXtw) ![](https://geps.dev/progress/0)
+* [Fundamentos de Arquitetura de Software](https://www.youtube.com/playlist?list=PLkpjQs-GfEMPzOzinFrqfkkfZy2DpwpBh) ![](https://geps.dev/progress/0)
+* [Padrões Arquiteturais](https://www.youtube.com/playlist?list=PLkpjQs-GfEMMoh78fnnHtrhK1iWe-ZSJ5) ![](https://geps.dev/progress/0)
+* [Arquitetura de Software na Prática e do Jeito](https://www.youtube.com/playlist?list=PLkpjQs-GfEMNoGL5FOcx2ko4FbLfEoUrk) ![](https://geps.dev/progress/0)
 * [Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnStflA1V__q6_9yC8_nV2ra) ![](https://geps.dev/progress/0)
 * [Giuliana Bezerra](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GgaNxjbuJlM11FQbvBTtt) ![](https://geps.dev/progress/0)
+* [Testes, como se tempo e dinheiro importassem](https://www.youtube.com/playlist?list=PLkpjQs-GfEMNeKamJgb1OFD8J99uzdY5B) ![](https://geps.dev/progress/0)
+
+## REST
+* [REST do Jeito Certo](https://www.youtube.com/playlist?list=PLkpjQs-GfEMPituMCb77qd90onpF3khFt) ![](https://geps.dev/progress/0)
 
 ## Design Patterns
 
