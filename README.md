@@ -27,6 +27,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 🚫 [Individuals](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/INDIVIDUALS.md)
 * 🚫 [Jiraya](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/JIRAYA.md)
 * 🚫 [Projeto NEXT 14, TS e Tailwind](https://www.youtube.com/playlist?list=PL29TaWXah3iaKcSxmOa_e_bKCkS10Rsn-)
+* 🚫 [English Quest](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/ENGLISH-QUEST.md)
 
 ### `/roadmaps`
 
