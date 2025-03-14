@@ -11,6 +11,10 @@
 * [Nest JS Advanced Course](https://www.youtube.com/playlist?list=PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx) ![](https://geps.dev/progress/0)
 * [NestJS - Progressive Node.js framework](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD) ![](https://geps.dev/progress/0)
 
+## Testes
+
+* [TDD](https://www.youtube.com/watch?v=vN7kbukATzE)
+
 ## Dicas
 
 * [NestJS](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) ![](https://geps.dev/progress/0)
