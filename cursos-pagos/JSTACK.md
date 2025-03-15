@@ -78,7 +78,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#033 - API Routes e Middlewares no Next.js](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js "#033") ![](https://geps.dev/progress/100)
 * [#034 - React Server Actions no Next.js](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js "#034") ![](https://geps.dev/progress/100)
 * [#051 - Autenticação no Next.js](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "#051") ![](https://geps.dev/progress/100)
-* [#056 - Autenticação no Next.js com Auth.js (NextAuth v5)](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "#056") ![](https://geps.dev/progress/0)
+* [#056 - Autenticação no Next.js com Auth.js (NextAuth v5)](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "#056") ![](https://geps.dev/progress/100)
 * [#057 - Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)](https://youtube.com/live/Cvfg5RTAeRM?feature=share "#057") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ### React Query
