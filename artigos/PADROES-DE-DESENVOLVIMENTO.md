@@ -17,3 +17,8 @@
     * [Domain-Oriented Microservice Architecture](https://www.geeksforgeeks.org/domain-oriented-microservice-architecture/)
     * [Introducing Domain-Oriented Microservice Architecture](https://www.uber.com/en-BR/blog/microservice-architecture/)
     * [Design a DDD-oriented microservice](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
+
+## Object Calisthenics
+
+* [Desenvolva um código melhor com Object Calisthenics](https://medium.com/@rafaelcruz_48213/desenvolva-um-código-melhor-com-object-calisthenics-d5364767a9ba)
+* [Object Calisthenics uma ótima forma de aplicar o SOLID](https://www.dio.me/articles/object-calisthenics-uma-otima-forma-de-aplicar-o-solid)

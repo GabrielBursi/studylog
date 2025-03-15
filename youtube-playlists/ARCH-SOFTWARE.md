@@ -41,6 +41,8 @@
 ## SOLID
 
 * [Dominando os Princípios SOLID: Um Guia Completo!](https://www.youtube.com/watch?v=jHbI9ej5O1Y&list=PLNHxHgB-_LTtxnX6ILHDBpY6hCuzBwlrW) ![](https://geps.dev/progress/0)
+* [Entendendo Object Calisthenics](https://www.youtube.com/playlist?list=PLbjKo3xK3gjf5O4KKUczmlQUzGqab1s-9) ![](https://geps.dev/progress/0)
+* [Object Calisthenics](https://www.youtube.com/playlist?list=PL3thWewfjbFTmFzqTrMubfDgFkUNV90-V) ![](https://geps.dev/progress/0)
 
 ## Database Design
 
