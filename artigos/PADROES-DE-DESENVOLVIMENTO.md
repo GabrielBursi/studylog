@@ -22,3 +22,13 @@
 
 * [Desenvolva um código melhor com Object Calisthenics](https://medium.com/@rafaelcruz_48213/desenvolva-um-código-melhor-com-object-calisthenics-d5364767a9ba)
 * [Object Calisthenics uma ótima forma de aplicar o SOLID](https://www.dio.me/articles/object-calisthenics-uma-otima-forma-de-aplicar-o-solid)
+
+## Event Sourcing
+
+* [Event-sourcing (ES) em uma Arquitetura de Microsserviços](https://medium.com/@marcelomg21/event-sourcing-es-em-uma-arquitetura-de-microsserviços-852f6ce04595    )
+* [Event Sourcing pattern Azure](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+
+## CQRS
+
+* [CQRS em uma Arquitetura de Microsserviços](https://medium.com/@marcelomg21/cqrs-command-query-responsibility-segregation-em-uma-arquitetura-de-micro-serviços-71dcb687a8a9)
+* [CQRS pattern Azure](https://learn.microsoft.com/pt-br/azure/architecture/patterns/cqrs)

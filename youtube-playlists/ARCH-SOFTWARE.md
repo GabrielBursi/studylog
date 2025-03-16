@@ -34,6 +34,20 @@
 * [DDD do jeito certo](https://www.youtube.com/playlist?list=PLkpjQs-GfEMN8CHp7tIQqg6JFowrIX9ve) ![](https://geps.dev/progress/30)
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v) ![](https://geps.dev/progress/0)
 
+## Event Sourcing
+
+* [Descomplicando "Event Sourcing"](https://www.youtube.com/watch?v=f4GolIiNIvc&pp=ygUOZXZlbnQgc291cmNpbmc%3D)
+* [CQRS + Event Sourcing: A introdução que você precisava](https://www.youtube.com/watch?v=Q4meQZHIs1c&pp=ygUOZXZlbnQgc291cmNpbmc%3D)
+* [Event Sourcing](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ) ![](https://geps.dev/progress/0)
+* [Event Sourcing and Event Storage with Apache Kafka® | Event Sourcing 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj) ![](https://geps.dev/progress/0)
+
+# CQRS
+
+* [Descomplicando CQRS](https://www.youtube.com/watch?v=yd6V4w19iJU&pp=ygUEY3Fycw%3D%3D)
+* [CQRS em 10 minutos](https://www.youtube.com/watch?v=cw0oVKCK4iU)
+* [CQRS, Event Sourcing](https://www.youtube.com/playlist?list=PL3Ur78l82EFD_M2te726IZ63rwBlY96M-) ![](https://geps.dev/progress/0)
+* [Clean Architecture with CQRS and Mediator](https://www.youtube.com/playlist?list=PL1aIUnd4YHM3ex2gr2WrDRqsHblPGb1mm) ![](https://geps.dev/progress/0)
+
 ## Hexagonal Arch
 
 * [Hexagonal Architecture](https://www.youtube.com/playlist?list=PL18L3lKMddFq-3f7DcSrqa_pTKfoh-D5h) ![](https://geps.dev/progress/0)
