@@ -26,6 +26,9 @@
 
 ## Clean Arch
 
+* [Descomplicando Clean Architecture](https://www.youtube.com/watch?v=zcDKQqFmjEA&pp=ygUSY2xlYW4gYXJjaGl0ZWN0dXJl)
+* [Clean Architecture Full Cycle](https://www.youtube.com/watch?v=BuSf7VsH064&pp=ygUSY2xlYW4gYXJjaGl0ZWN0dXJl)
+* [Clean Architecture Full Cycle 2](https://www.youtube.com/watch?v=9eMQnRWhpM0&pp=ygUhY2xlYW4gYXJjaGl0ZWN0dXJlIHJvZHJpZ28gYnJhbmFz)
 * [PHP](https://www.youtube.com/playlist?list=PLBD8to5dJhvyr07t03AjYYQ_8LNHrQKF4) ![](https://geps.dev/progress/0)
 * [Clean Arch](https://www.youtube.com/playlist?list=PLpJIjBkNnEt_IyTngYRkXXwxqz-Ae74ub) ![](https://geps.dev/progress/0)
 
