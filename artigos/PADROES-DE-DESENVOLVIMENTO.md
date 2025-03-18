@@ -28,7 +28,12 @@
 * [Event-sourcing (ES) em uma Arquitetura de Microsserviços](https://medium.com/@marcelomg21/event-sourcing-es-em-uma-arquitetura-de-microsserviços-852f6ce04595    )
 * [Event Sourcing pattern Azure](https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
 
-## CQRS
+* CQRS
+   * [CQRS em uma Arquitetura de Microsserviços](https://medium.com/@marcelomg21/cqrs-command-query-responsibility-segregation-em-uma-arquitetura-de-micro-serviços-71dcb687a8a9)
+   * [CQRS pattern Azure](https://learn.microsoft.com/pt-br/azure/architecture/patterns/cqrs)
 
-* [CQRS em uma Arquitetura de Microsserviços](https://medium.com/@marcelomg21/cqrs-command-query-responsibility-segregation-em-uma-arquitetura-de-micro-serviços-71dcb687a8a9)
-* [CQRS pattern Azure](https://learn.microsoft.com/pt-br/azure/architecture/patterns/cqrs)
+## Hexagonal Arch
+
+* [Wiki](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+* [Hexagonal Architecture - System Design](https://www.geeksforgeeks.org/hexagonal-architecture-system-design/)
+* [Ports & Adapters Architecture](https://medium.com/the-software-architecture-chronicles/ports-adapters-architecture-d19f2d476eca)
