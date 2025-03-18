@@ -32,6 +32,11 @@
    * [CQRS em uma Arquitetura de Microsserviços](https://medium.com/@marcelomg21/cqrs-command-query-responsibility-segregation-em-uma-arquitetura-de-micro-serviços-71dcb687a8a9)
    * [CQRS pattern Azure](https://learn.microsoft.com/pt-br/azure/architecture/patterns/cqrs)
 
+## Clean Arch
+
+* [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
+
 ## Hexagonal Arch
 
 * [Wiki](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
