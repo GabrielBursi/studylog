@@ -51,6 +51,7 @@
 ## Hexagonal Arch
 
 * [Hexagonal Architecture](https://www.youtube.com/playlist?list=PL18L3lKMddFq-3f7DcSrqa_pTKfoh-D5h) ![](https://geps.dev/progress/0)
+* [Minha Playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKc6Q0-WqHd_gA9KSMoa1iEw) ![](https://geps.dev/progress/0)
 
 ## SOLID
 
