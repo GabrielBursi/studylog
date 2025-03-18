@@ -16,12 +16,10 @@ O objetivo deste projeto é desenvolver uma plataforma interativa de aprendizado
 
 ## Stack Tecnológica:
 * **Frontend**: Next.js com TypeScript
-* **Estilização**: Tailwind CSS
-* **Gerenciamento de Estado**: Redux ou Context API
+* **Estilização**: Shadcn com Tailwind CSS
 * **Autenticação**: NextAuth.js
-* **Banco de Dados**: MongoDB ou PostgreSQL
-* **Backend**: Apenas API Routes do Next.js (sem necessidade de backend separado)
-* **Hospedagem**: Vercel
+* **Banco de Dados**: PostgreSQL
+* **Backend**: Next.js
 * **Armazenamento de Mídia**: AWS S3 ou Cloudinary (para áudios e imagens)
 * **Reconhecimento de Voz**: Web Speech API ou serviço especializado
 
