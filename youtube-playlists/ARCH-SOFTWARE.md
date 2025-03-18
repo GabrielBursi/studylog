@@ -36,6 +36,7 @@
 
 * [DDD do jeito certo](https://www.youtube.com/playlist?list=PLkpjQs-GfEMN8CHp7tIQqg6JFowrIX9ve) ![](https://geps.dev/progress/61)
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v) ![](https://geps.dev/progress/0)
+* [Minha playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdOEwsGQKBTt-0t2hP2Zfux) ![](https://geps.dev/progress/0)
 
 ## Event Sourcing
 
