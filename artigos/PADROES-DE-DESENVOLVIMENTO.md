@@ -37,6 +37,9 @@
 * [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 
+## DDD
+* [TypeScript](https://khalilstemmler.com/articles/categories/domain-driven-design/)
+
 ## Hexagonal Arch
 
 * [Wiki](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
