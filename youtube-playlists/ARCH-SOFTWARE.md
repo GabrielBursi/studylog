@@ -29,6 +29,7 @@
 * [Minha playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKfsVj0-x6CrRtsSpku6EgUO) ![](https://geps.dev/progress/0)
 * [PHP](https://www.youtube.com/playlist?list=PLBD8to5dJhvyr07t03AjYYQ_8LNHrQKF4) ![](https://geps.dev/progress/100)
 * [Clean Arch](https://www.youtube.com/playlist?list=PLpJIjBkNnEt_IyTngYRkXXwxqz-Ae74ub) ![](https://geps.dev/progress/0)
+* [REST API following CLEAN ARCHITECTURE & DDD Tutorial](https://www.youtube.com/playlist?list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k) ![](https://geps.dev/progress/0)
 
 ## DDD
 
