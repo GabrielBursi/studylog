@@ -36,6 +36,7 @@
 * [DDD do jeito certo](https://www.youtube.com/playlist?list=PLkpjQs-GfEMN8CHp7tIQqg6JFowrIX9ve)
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v)
 * [Minha playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdOEwsGQKBTt-0t2hP2Zfux)
+* [Full Cycle](https://www.youtube.com/playlist?list=PL5aY_NrL1rjs3zCr0gu5q1xYViuLUjTSI)
 
 ## Event Sourcing
 
