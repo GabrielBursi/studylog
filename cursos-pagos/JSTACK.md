@@ -134,7 +134,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#044 - Alta performance e baixo custo com DynamoDB e Single-Table Design](https://app.jstack.com.br/classroom/lives/alta-performance-e-baixo-custo-com-dynamodb-e-single-table-design "#044") ![](https://geps.dev/progress/0)
 * [#047 - Modelando tabelas no DynamoDB com Single-Table Design](https://app.jstack.com.br/classroom/lives/modelando-tabelas-no-dynamodb-com-single-table-design "#047") ![](https://geps.dev/progress/0)
 * [#048 - DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas](https://app.jstack.com.br/classroom/lives/dynamodb-single-table-design-relacionamentos-paginacao-e-buscas "#048") ![](https://geps.dev/progress/0)
-* [#060 - DynamoDB Streams e Search com Algolia](https://youtube.com/live/rhkuU1UIKb8?feature=share "#060") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#060 - DynamoDB Streams e Search com Algolia](https://app.jstack.com.br/classroom/lives/dynamodb-streams-e-search-com-algolia "#060") ![](https://geps.dev/progress/0)
 
 ## Infra / DevOps
 
