@@ -101,7 +101,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ## Back-end
 
-* [#031 - OAuth2: habilitando Login Social nas suas aplicações](https://app.jstack.com.br/classroom/lives/oauth2-habilitando-login-social-nas-suas-aplicacoes "#031") ![](https://geps.dev/progress/0)
+* [#031 - OAuth2: habilitando Login Social nas suas aplicações](https://app.jstack.com.br/classroom/lives/oauth2-habilitando-login-social-nas-suas-aplicacoes "#031") ![](https://geps.dev/progress/100)
 * [#037 - Dominando o Prisma ORM](https://app.jstack.com.br/classroom/lives/dominando-o-prisma-orm "#037") ![](https://geps.dev/progress/100)
 * [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/0)
 * [#063 - Dominando o Fastify](https://youtube.com/live/pURzfWEdUv4?feature=share "#063") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
