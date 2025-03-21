@@ -47,7 +47,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 - [ ] React 19 / Next.js ([#038](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "As novidades do React 19"), [#039](https://app.jstack.com.br/classroom/lives/api-routes-e-middlewares-no-next-js "API Routes e Middlewares no Next.js"), [#040](https://app.jstack.com.br/classroom/lives/react-server-actions-no-next-js "React Server Actions no Next.js"))  
 
-- [ ] Autenticação no Next.js ([#51](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "Autenticação no Next.js"), [#056](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "Autenticação no Next.js com Auth.js (NextAuth v5)"), [#057](https://app.jstack.com.br/classroom/lives/login-social-via-magic-link-e-rbac-no-next-js-com-auth-js-nextauth-v5 "Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)")))  
+- [ ] Autenticação no Next.js ([#51](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "Autenticação no Next.js"), [#056](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "Autenticação no Next.js com Auth.js (NextAuth v5)"), [#057](https://app.jstack.com.br/classroom/lives/login-social-via-magic-link-e-rbac-no-next-js-com-auth-js-nextauth-v5 "Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)"))  
 
 - [ ] React Query ([#048](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query "Optimistic Updates: UIs otimistas com React Query"), [#049](https://app.jstack.com.br/classroom/lives/paginacao-e-infinite-scroll-com-react-query "Paginação e Infinite Scroll com React Query"))  
 
