@@ -60,8 +60,10 @@
 ## SOLID
 
 * [Dominando os Princípios SOLID: Um Guia Completo!](https://www.youtube.com/playlist?list=PLNHxHgB-_LTtxnX6ILHDBpY6hCuzBwlrW)
-* [Entendendo Object Calisthenics](https://www.youtube.com/playlist?list=PLbjKo3xK3gjf5O4KKUczmlQUzGqab1s-9)
-* [Object Calisthenics](https://www.youtube.com/playlist?list=PL3thWewfjbFTmFzqTrMubfDgFkUNV90-V)
+* Object Calisthenics
+  * [Entendendo Object Calisthenics](https://www.youtube.com/playlist?list=PLbjKo3xK3gjf5O4KKUczmlQUzGqab1s-9)
+  * [Object Calisthenics](https://www.youtube.com/playlist?list=PL3thWewfjbFTmFzqTrMubfDgFkUNV90-V)
+  * [Minha Playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdzTkaur-_NfsoYFESN4EFy)
 
 ## Database Design
 
