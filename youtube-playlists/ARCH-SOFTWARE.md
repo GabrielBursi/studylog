@@ -60,6 +60,8 @@
 ## SOLID
 
 * [Dominando os Princípios SOLID: Um Guia Completo!](https://www.youtube.com/playlist?list=PLNHxHgB-_LTtxnX6ILHDBpY6hCuzBwlrW)
+* [SOLID](https://www.youtube.com/playlist?list=PLHlHvK2lnJneX-lsKM27WTjmNqpX_YzHF)
+* [Minha playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKeQF32axmXTR_f48mZDWuPU)
 * Object Calisthenics
   * [Entendendo Object Calisthenics](https://www.youtube.com/playlist?list=PLbjKo3xK3gjf5O4KKUczmlQUzGqab1s-9)
   * [Object Calisthenics](https://www.youtube.com/playlist?list=PL3thWewfjbFTmFzqTrMubfDgFkUNV90-V)
