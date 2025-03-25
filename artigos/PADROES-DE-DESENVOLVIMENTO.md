@@ -42,6 +42,7 @@
 
 ## Hexagonal Arch
 
+* [Ports and Adapters Pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html)
 * [Wiki](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 * [Hexagonal Architecture - System Design](https://www.geeksforgeeks.org/hexagonal-architecture-system-design/)
 * [Ports & Adapters Architecture](https://medium.com/the-software-architecture-chronicles/ports-adapters-architecture-d19f2d476eca)
