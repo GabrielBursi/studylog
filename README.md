@@ -17,6 +17,27 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [PRN](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md "PRN log progress")
 * [Udemy](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/UDEMY.md "Udemy log progress")
 
+### `/livros`
+
+✅ **Finalizado**
+📖 **Estou Lendo**
+📚 **Ainda não iniciado**
+
+✅ [Aprendendo Domain-Drive-Design](https://www.amazon.com.br/Aprenda-Domain-driven-Design-Arquitetura-Estratégia/dp/8550819611)
+📖 [Domain-Driven Design: Atacando as Complexidades no Coração do Software](https://www.amazon.com.br/Domain-Driven-Design-Atacando-Complexidades-Software/dp/8550800651)
+📚 [Arquitetura Limpa: o Guia do Artesão Para Estrutura e Design de Software](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
+📚 [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
+📚 [Desenvolvimento Real de Software: um Guia de Projetos Para Fundamentos em Java](https://www.amazon.com.br/Desenvolvimento-Real-Software-projetos-fundamentos/dp/6555202017)
+📚 [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+📚 [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.amazon.com.br/Strategic-Monoliths-Microservices-Innovation-Architecture/dp/0137355467)
+📚 [Implementando Domain-Driven Design](https://www.amazon.com.br/Implementando-Domain-Driven-design-Vernon/dp/8576089521)
+📚 [Microservices Patterns: With Examples in Java](https://www.amazon.com.br/Microservice-Patterns-examples-Chris-Richardson/dp/1617294543)
+📚 [Refactoring: Improving the Design of Existing Code](https://www.amazon.com.br/Refactoring-Improving-Design-Existing-Code/dp/0134757599)
+📚 [Patterns of Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+📚 [Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados](https://www.amazon.com.br/Criando-Microsservi%C3%A7os-Projetando-Componentes-Especializados/dp/6586057884)
+📚 [Migrando Sistemas Monolíticos Para Microsserviços: Padrões Evolutivos Para Transformar seu Sistema Monolítico](https://www.amazon.com.br/Migrando-Sistemas-Monol%C3%ADticos-Para-Microsservi%C3%A7os/dp/6586057043)
+📚 [Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100) 
+
 ### `/projetos-pessoais`
 
 ✅ **Concluído com sucesso**
