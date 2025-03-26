@@ -1,0 +1,6 @@
+* [Microservices Guide](https://martinfowler.com/microservices/)
+* [Software Testing Guide](https://martinfowler.com/testing/)
+* [Data Management Guide](https://martinfowler.com/data/)
+* [Domain-Specific Languages Guide](https://martinfowler.com/dsl.html)
+* [Software Architecture Guide](https://martinfowler.com/architecture/)
+* [Refactoring](https://refactoring.com)
