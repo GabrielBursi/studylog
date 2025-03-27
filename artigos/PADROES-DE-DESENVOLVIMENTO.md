@@ -9,7 +9,7 @@
 ## Microservice
 
 - [What are Microservices?](https://www.geeksforgeeks.org/microservices/)
-- [Microservices podem não ser tudo aquilo que você esperava](https://www.branas.io/blog/microservices-podem-nao-ser-tudo-aquilo-que-voce-esperava)
+- [Microservices podem não ser tudo aquilo que você esperava](https://www.branas.io/blog/microservices-podem-nao-ser-tudo-aquilo-que-voce-esperava.html)
 
 - Arquiteturas Orientadas a Eventos
   - [Pattern: Event-driven architecture](https://microservices.io/patterns/data/event-driven-architecture.html)
@@ -34,14 +34,14 @@
 
 - [The Clean Code Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
-- [Um use case pode chamar o outro?](https://www.branas.io/blog/um-use-case-pode-chamar-o-outro)
+- [Um use case pode chamar o outro?](https://www.branas.io/blog/um-use-case-pode-chamar-o-outro.html)
 
 ## DDD
 
 - [Wiki](https://en.wikipedia.org/wiki/Domain-driven_design#)
 - [TypeScript](https://khalilstemmler.com/articles/categories/domain-driven-design/)
 - [O que são e quando utilizar Value Objects?](https://www.branas.io/blog/o-que-sao-e-quando-utilizar-value-objects.html)
-- [A importância da modelagem estratégica e a relação entre Subdomain e Bounded Context no Domain-Driven Design](https://www.branas.io/blog/a-importancia-da-modelagem-estrategica-e-a-relacao-entre-subdomain-e-bounded-context-no-domain-driven-design)
+- [A importância da modelagem estratégica e a relação entre Subdomain e Bounded Context no Domain-Driven Design](https://www.branas.io/blog.html/a-importancia-da-modelagem-estrategica-e-a-relacao-entre-subdomain-e-bounded-context-no-domain-driven-design)
 
 ## Hexagonal Architecture
 
@@ -52,19 +52,19 @@
 
 ## Design e Arquitetura de Software
 
-- [Qual é a diferença entre design e arquitetura de software?](https://www.branas.io/blog/qual-e-a-diferenca-entre-design-e-arquitetura-de-software)
+- [Qual é a diferença entre design e arquitetura de software?](https://www.branas.io/blog/qual-e-a-diferenca-entre-design-e-arquitetura-de-software.html)
 
 ## Padrões de Projeto (Design Patterns)
 
-- [Design Patterns - Prototype](https://www.branas.io/blog/design-patterns-prototype)
-- [Design Patterns - Flyweight](https://www.branas.io/blog/design-patterns-flyweight)
-- [O que é e quando devemos utilizar o padrão Repository? (Repository Pattern)](https://www.branas.io/blog/o-que-e-e-quando-devemos-utilizar-o-padrao-repository)
+- [Design Patterns - Prototype](https://www.branas.io/blog/design-patterns-prototype.html)
+- [Design Patterns - Flyweight](https://www.branas.io/blog/design-patterns-flyweight.html)
+- [O que é e quando devemos utilizar o padrão Repository? (Repository Pattern)](https://www.branas.io/blog/o-que-e-e-quando-devemos-utilizar-o-padrao-repository.html)
 
 ## SOLID
 
-- [SOLID - Liskov Substitution Principle (LSP)](https://www.branas.io/blog/solid-liskov-substitution-principle-lsp)
-- [SOLID - Open/Closed Principle (OCP)](https://www.branas.io/blog/solid-open-closed-principle-ocp)
-- [Qual é a diferença entre Dependency Injection e Dependency Inversion?](https://www.branas.io/blog/qual-e-a-diferenca-entre-dependency-injection-e-dependency-inversion)
+- [SOLID - Liskov Substitution Principle (LSP)](https://www.branas.io/blog/solid-liskov-substitution-principle-lsp.html)
+- [SOLID - Open/Closed Principle (OCP)](https://www.branas.io/blog/solid-open-closed-principle-ocp.html)
+- [Qual é a diferença entre Dependency Injection e Dependency Inversion?](https://www.branas.io/blog/qual-e-a-diferenca-entre-dependency-injection-e-dependency-inversion.html)
 
 - Object Calisthenics
     - [Desenvolva um código melhor com Object Calisthenics](https://medium.com/@rafaelcruz_48213/desenvolva-um-código-melhor-com-object-calisthenics-d5364767a9ba)
@@ -72,5 +72,5 @@
 
 ## Testes Automatizados
 
-- [Por que os testes automatizados são tão importantes?](https://www.branas.io/blog/por-que-os-testes-automatizados-sao-tao-importantes)
+- [Por que os testes automatizados são tão importantes?](https://www.branas.io/blog/por-que-os-testes-automatizados-sao-tao-importantes.html)
 
