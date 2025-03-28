@@ -32,6 +32,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [SQL](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#sql)
     - [DynamoDB](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#dynamodb)
 - **[Infra / DevOps](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#infra--devops)**
+    - [AWS](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#aws)
     - [Serverless Framework](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#serverless-framework)
     - [CI/CD](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#cicd)
 - **[Arquitetura](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#arquitetura)**
@@ -140,6 +141,8 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#060 - DynamoDB Streams e Search com Algolia](https://app.jstack.com.br/classroom/lives/dynamodb-streams-e-search-com-algolia "#060") ![](https://geps.dev/progress/0)
 
 ## Infra / DevOps
+
+### AWS
 
 ### Serverless Framework
 
