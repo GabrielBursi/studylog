@@ -51,7 +51,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 - [ ] Autenticação no Next.js ([#051](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js "Autenticação no Next.js"), [#056](https://app.jstack.com.br/classroom/lives/autenticacao-no-next-js-com-auth-js-nextauth-v5 "Autenticação no Next.js com Auth.js (NextAuth v5)"), [#057](https://app.jstack.com.br/classroom/lives/login-social-via-magic-link-e-rbac-no-next-js-com-auth-js-nextauth-v5 "Login Social, via Magic Link e RBAC no Next.js com Auth.js (NextAuth v5)"))  
 
-- [ ] React Query ([#016](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query "Optimistic Updates: UIs otimistas com React Query"), [#021](https://app.jstack.com.br/classroom/lives/paginacao-e-infinite-scroll-com-react-query "Paginação e Infinite Scroll com React Query"))
+- [ ] Paginação, Infinity Scroll List e Optimistic Updates ([#049](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "Paginação: Offset vs Cursor-based e Valores Pré-computados"), [#016](https://app.jstack.com.br/classroom/lives/optimistic-updates-uis-otimistas-com-react-query "Optimistic Updates: UIs otimistas com React Query"), [#021](https://app.jstack.com.br/classroom/lives/paginacao-e-infinite-scroll-com-react-query "Paginação e Infinite Scroll com React Query"))
     
 - [ ] Inversion of Control, Dependency Injection e Dependency Inversion ([#059](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "Inversion of Control, Dependency Injection e Dependency Inversion"))
 
