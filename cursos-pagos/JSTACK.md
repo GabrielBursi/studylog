@@ -144,6 +144,22 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### AWS
 
+* [#058 - Introdução à AWS](https://app.jstack.com.br/classroom/lives/introducao-a-aws "#058") ![](https://geps.dev/progress/0)
+* [#009 - APIs Serverless na AWS com API Gateway e Lambda Functions](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "#009") ![](https://geps.dev/progress/0)
+* [#036 - Filas na AWS para Processamento Assíncrono com Lambda e SQS](https://app.jstack.com.br/classroom/lives/filas-na-aws-para-processamento-assincrono-com-lambda-e-sqs "#036") ![](https://geps.dev/progress/0)
+* [#050 - WebSockets e Cronjobs Serverless na AWS](https://app.jstack.com.br/classroom/lives/websockets-e-cronjobs-serverless-na-aws "#050") ![](https://geps.dev/progress/0)
+* [#054 - Enviando e-mails com o AWS SES](https://app.jstack.com.br/classroom/lives/enviando-e-mails-com-o-aws-ses "#054") ![](https://geps.dev/progress/0)
+* Cognito
+    * [#020 - Autenticação em APIs com Serverless e AWS Cognito](https://app.jstack.com.br/classroom/lives/autenticacao-em-apis-com-serverless-e-aws-cognito "#020") ![](https://geps.dev/progress/0)
+    * [#053 - Login Social (Federated) com AWS Cognito](https://app.jstack.com.br/classroom/lives/login-social-federated-com-aws-cognito "#053") ![](https://geps.dev/progress/0)
+    * [#061 - RBAC com AWS Cognito](https://app.jstack.com.br/classroom/lives/rbac-com-aws-cognito "#061") ![](https://geps.dev/progress/0)
+* S3
+    * [#011 - Upload para o S3 com Lambda Functions e Presigned URLs](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "#011") ![](https://geps.dev/progress/0)
+    * [#030 - Fluxo completo de upload para o S3 com Presigned URLs](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "#030") ![](https://geps.dev/progress/0)
+    * [#038 - Upload de arquivos pesados para o S3 com Multipart Uploads](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "#038") ![](https://geps.dev/progress/0)
+    * [#043 - S3: Mais segurança com Presigned POSTs](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "#043") ![](https://geps.dev/progress/0)
+    * [#052 - Processamento de imagens assíncrona com S3 Triggers, SQS e Lambda Layers](https://app.jstack.com.br/classroom/lives/processamento-de-imagens-assincrona-com-s3-triggers-sqs-e-lambda-layers "#052") ![](https://geps.dev/progress/0)
+
 ### Serverless Framework
 
 * [#012 - Introdução ao Serverless Framework](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "#012") ![](https://geps.dev/progress/0)
