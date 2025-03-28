@@ -4,7 +4,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 
 # Nubble App
 
-Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  29. Like e Favoritos - Super Componente e Clean Code
+Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  30. Publicação na Google Play (Android)
 
 ## `Fase 1 (Júnior)` ![](https://geps.dev/progress/100)
 1. ✔ Nubble App - Introdução ao Projeto
@@ -30,14 +30,14 @@ Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COF
 20. ✔ Teste de Componentes com a React Native Testing Library
 21. ✔ Testando React Hook e Aprofundando em Mocks
 22. ✔ Testes de Integração ⭐
-## `Fase 3 (Sênior)` ![](https://geps.dev/progress/46)
+## `Fase 3 (Sênior)` ![](https://geps.dev/progress/53)
 23. ✔ Pesquisa - Funcionalidade de Ponta a Ponta com Teste de Integração
 24. ✔ Post: Camera, Galeria e Permissões
 25. ✔ Dark Mode (Tema Escuro)
 26. ✔ Fluxo de Onboarding
 27. ✔ Ícone, Nome e Splash Screen
 28. ✔ Como Atualizar a versão do React Native ⭐
-29. Like e Favoritos - Super Componente e Clean Code
+29. ✔ Like e Favoritos - Super Componente e Clean Code
 30. Publicação na Google Play (Android)
 31. Publicação na App Store (iOS)
 32. CI/CD - Automatização com GitHub Actions e fastlane
