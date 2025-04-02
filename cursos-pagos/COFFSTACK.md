@@ -38,9 +38,9 @@ Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COF
 27. ✔ Ícone, Nome e Splash Screen
 28. ✔ Como Atualizar a versão do React Native ⭐
 29. ✔ Like e Favoritos - Super Componente e Clean Code
-30. ✔ Publicação na Google Play (Android)
-31. ✔ Publicação na App Store (iOS)
-32. CI/CD - Automatização com GitHub Actions e fastlane
+30. ✔ Publicação na Google Play (Android)⭐
+31. ✔ Publicação na App Store (iOS) ⭐
+32. ✔ CI/CD - Automatização com GitHub Actions e fastlane ⭐
 33. Fluxo de Perfil
 34. Fluxo de Seguidor
 35. Push Notification
