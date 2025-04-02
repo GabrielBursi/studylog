@@ -4,7 +4,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 
 # Nubble App
 
-Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  32. Publicação na Google Play (Android)
+Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  33. Fluxo de perfil
 
 ## `Fase 1 (Júnior)`
 1. ✔ Nubble App - Introdução ao Projeto
