@@ -13,7 +13,7 @@
 
 ## Design Patterns
 
-* [Design Patterns - Padrões de Projeto - GOF](https://www.youtube.com/watch?v=el1MtIPXTqo&list=PLNHxHgB-_LTt67szNmMsZwqBKq9jH4uKJ)
+* [Design Patterns - Padrões de Projeto - GOF](https://www.youtube.com/playlist?list=PLNHxHgB-_LTt67szNmMsZwqBKq9jH4uKJ)
 * [DP OOP Teoria](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 * [DP OOP C#.NET](https://www.youtube.com/playlist?list=PLrhzvIcii6GNCgHSj44-gXZeTUVbSPC-3)
 * [GOF com TypeScript](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
