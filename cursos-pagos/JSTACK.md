@@ -55,6 +55,8 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     
 - [ ] Inversion of Control, Dependency Injection e Dependency Inversion ([#059](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "Inversion of Control, Dependency Injection e Dependency Inversion"))
 
+- [ ] AWS S3 ([#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"))
+
 
 ## Front-end
 
