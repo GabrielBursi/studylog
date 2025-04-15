@@ -13,6 +13,7 @@
 
 ## Design Patterns
 
+* [Anti-Patterns](https://www.youtube.com/playlist?list=PLlsmxlJgn1HIcTv3tsRGhVmCOWGFUm_HQ)
 * [Design Patterns - Padrões de Projeto - GOF](https://www.youtube.com/playlist?list=PLNHxHgB-_LTt67szNmMsZwqBKq9jH4uKJ)
 * [Design Patterns Java](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc)
 * [DP OOP Teoria](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
@@ -24,6 +25,7 @@
 
 * [Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf)
 * [Interview](https://www.youtube.com/playlist?list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8)
+* [Interview Guide: System Design](https://www.youtube.com/playlist?list=PLlsmxlJgn1HIhTGsiR3S2p0PQTpoQd46c)
 
 ## Clean Arch
 
