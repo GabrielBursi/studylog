@@ -18,11 +18,15 @@
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/0)
 * [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
 * [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/0)
+* [Concurrent Programming](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJDgOjsG3DbdTx0kmUhCWuy) ![](https://geps.dev/progress/0)
+* [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/0)
+* [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP) ![](https://geps.dev/progress/0)
 
 ## Spring Boot
 
 * [Spring Boot do Zero | Aprenda java com Naruto [2025]](https://www.youtube.com/watch?v=n8_qrrc8WN4)
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)
+* [REST with SpringBoot](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLNOQXYktYyWyMp7Y3TuGa6) ![](https://geps.dev/progress/0)
 * [Spring Boot 2 - Sua Primeira API REST 2021](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkXwPerFo4ZDFEessyNJW1ol) ![](https://geps.dev/progress/0)
 * [Spring 6 and Spring Boot](https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF) ![](https://geps.dev/progress/0)
 * [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLzUMQwCOrQTksiYqoumAQxuhPNa3HqasL) ![](https://geps.dev/progress/0)
@@ -38,6 +42,7 @@
 * [JUnit 5 Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o) ![](https://geps.dev/progress/100)
 * [Testes com Mockito + JUnit 5 em API REST](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkWgyYa485pgf-VAoJgL4rW1) ![](https://geps.dev/progress/63)
 * [Spring Boot Unit Testing Tutorial](https://www.youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E) ![](https://geps.dev/progress/0)
+* [Unit-Testing and TDD](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJHqKQW7kdkpzQlmWXQxkUs) ![](https://geps.dev/progress/0)
 
 ## Projetos 
 
