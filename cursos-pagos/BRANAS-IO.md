@@ -140,7 +140,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Factory Method
     - [x] Singleton
     - [x] Prototype
-    - [ ] Builder
+    - [x] Builder
   - GoF - Padrões de Estrutura
     - [ ] Adapter
     - [ ] Bridge
