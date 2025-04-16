@@ -137,7 +137,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 ### Design patterns ![](https://geps.dev/progress/0)
   - GoF - Padrões de Criação
     - [ ] Abstract Factory
-    - [ ] Factory Method
+    - [x] Factory Method
     - [x] Singleton
     - [x] Prototype
     - [x] Builder
