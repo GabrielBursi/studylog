@@ -55,7 +55,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     
 - [ ] Inversion of Control, Dependency Injection e Dependency Inversion ([#059](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "Inversion of Control, Dependency Injection e Dependency Inversion"))
 
-- [ ] AWS S3 ([#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"), [#038](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "Upload de arquivos pesados para o S3 com Multipart Uploads"))
+- [ ] AWS S3 ([#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#012](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "Introdução ao Serverless Framework"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"), [#038](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "Upload de arquivos pesados para o S3 com Multipart Uploads"))
 
 
 ## Front-end
@@ -164,7 +164,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### Serverless Framework
 
-* [#012 - Introdução ao Serverless Framework](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "#012") ![](https://geps.dev/progress/0)
+* [#012 - Introdução ao Serverless Framework](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "#012") ![](https://geps.dev/progress/100)
 * [#065 - Dominando o Serverless Framework](https://youtube.com/live/4yw5Lm-y8U4?feature=share "#065") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#039 - Serviço de geração de relatórios assíncrono com Serverless Framework](https://app.jstack.com.br/classroom/lives/servico-de-geracao-de-relatorios-assincrono-com-serverless-framework "#039") ![](https://geps.dev/progress/0)
 * [#055 - Criando um template de API com Serverless Framework e Middy](https://app.jstack.com.br/classroom/lives/criando-um-template-de-api-com-serverless-framework-e-middy "#055") ![](https://geps.dev/progress/0)
