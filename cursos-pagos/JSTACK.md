@@ -55,7 +55,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     
 - [ ] Inversion of Control, Dependency Injection e Dependency Inversion ([#059](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "Inversion of Control, Dependency Injection e Dependency Inversion"))
 
-- [ ] AWS S3 ([#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#012](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "Introdução ao Serverless Framework"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"), [#038](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "Upload de arquivos pesados para o S3 com Multipart Uploads"))
+- [ ] AWS S3 / Lambda ([#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#012](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "Introdução ao Serverless Framework"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"), [#043](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "S3: Mais segurança com Presigned POSTs"), [#038](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "Upload de arquivos pesados para o S3 com Multipart Uploads"))
 
 
 ## Front-end
@@ -159,7 +159,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     * [#011 - Upload para o S3 com Lambda Functions e Presigned URLs](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "#011") ![](https://geps.dev/progress/100)
     * [#030 - Fluxo completo de upload para o S3 com Presigned URLs](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "#030") ![](https://geps.dev/progress/100)
     * [#038 - Upload de arquivos pesados para o S3 com Multipart Uploads](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "#038") ![](https://geps.dev/progress/100)
-    * [#043 - S3: Mais segurança com Presigned POSTs](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "#043") ![](https://geps.dev/progress/0)
+    * [#043 - S3: Mais segurança com Presigned POSTs](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "#043") ![](https://geps.dev/progress/14)
     * [#052 - Processamento de imagens assíncrona com S3 Triggers, SQS e Lambda Layers](https://app.jstack.com.br/classroom/lives/processamento-de-imagens-assincrona-com-s3-triggers-sqs-e-lambda-layers "#052") ![](https://geps.dev/progress/0)
 
 ### Serverless Framework
