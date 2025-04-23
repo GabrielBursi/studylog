@@ -20,25 +20,23 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 
 ### Clean Code e Clean Architecture
 
-#### Turma 21 ![](https://geps.dev/progress/0)
+#### Turma 21 ![](https://geps.dev/progress/12)
 
 - Aula 1
-    - [ ] Assistir aula completa
-    - [ ] Abertura
-    - [ ] Clean Code
-    - [ ] Test-Driven Development e Automação de Testes
-    - [ ] Refactoring, Code Smells e Técnicas de Refactoring
-    - [ ] Próxima etapa do projeto
-    - [ ] Q&A
+    - [x] Assistir aula completa
+    - [x] Abertura
+    - [x] Clean Code
+    - [x] Test-Driven Development e Automação de Testes
+    - [x] Refactoring, Code Smells e Técnicas de Refactoring
+    - [x] Próxima etapa do projeto
+    - [x] Q&A
 - Aula 2
-    - [ ] Assistir aula completa
     - [ ] Tipos de testes automatizados (E2E, Integration, Unit)
     - [ ] Arquitetura Hexagonal (com SRP e DIP)
     - [ ] Test Patterns (Stub, Spy, Mock, Fake)
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 3
-    - [ ] Assistir aula completa
     - [ ] Dependency Injection
     - [ ] Clean Architecture - Use Cases
     - [ ] Clean Architecture - Entities
@@ -46,19 +44,16 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 4
-    - [ ] Assistir aula completa
     - [ ] Domain-Driven Design - Modelagem Tática (Value Objects e Entities)
     - [ ] Domain-Driven Design - Modelagem Tática (Domain Services, Aggregates e Repositories)
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 5
-    - [ ] Assistir aula completa
     - [ ] Domain-Driven Design - Modelagem Estratégica (Domain, Subdomain, Bounded Context)
     - [ ] Arquitetura de Microservices
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 6
-    - [ ] Assistir aula completa
     - [ ] Design Patterns - Mediator (Um use case pode chamar o outro?)
     - [ ] Microservices
     - [ ] SOLID - Liskov Substitution Principle
@@ -66,13 +61,11 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 7
-    - [ ] Assistir aula completa
     - [ ] CQRS - Parte 1
     - [ ] CQRS - Parte 2
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 8
-    - [ ] Assistir aula completa
     - [ ] Frontend com Test-Driven Development
     - [ ] Frontend com Clean Architecture e Design Patterns
     - [ ] Bibliografia e Encerramento
@@ -80,7 +73,6 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 ### Turma 20 ![](https://geps.dev/progress/0)
 
 - Aula 1
-    - [ ] Assistir aula completa
     - [ ] Abertura
     - [ ] Clean Code
     - [ ] Test-Driven Development e Automação de Testes
@@ -88,14 +80,12 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 2
-    - [ ] Assistir aula completa
     - [ ] Tipos de testes automatizados (E2E, Integration, Unit)
     - [ ] Arquitetura Hexagonal (com SRP e DIP)
     - [ ] Test Patterns (Stub, Spy, Mock, Fake)
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 3
-    - [ ] Assistir aula completa
     - [ ] Dependency Injection
     - [ ] Clean Architecture - Use Cases
     - [ ] Clean Architecture - Entities
@@ -103,19 +93,16 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 4
-    - [ ] Assistir aula completa
     - [ ] Domain-Driven Design - Modelagem Tática (Value Objects e Entities)
     - [ ] Domain-Driven Design - Modelagem Tática (Domain Services, Aggregates e Repositories)
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 5
-    - [ ] Assistir aula completa
     - [ ] Domain-Driven Design - Modelagem Estratégica (Domain, Subdomain, Bounded Context)
     - [ ] Arquitetura de Microservices
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 6
-    - [ ] Assistir aula completa
     - [ ] Design Patterns - Mediator (Um use case pode chamar o outro?)
     - [ ] Microservices
     - [ ] SOLID - Liskov Substitution Principle
@@ -123,13 +110,11 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 7
-    - [ ] Assistir aula completa
     - [ ] CQRS - Parte 1
     - [ ] CQRS - Parte 2
     - [ ] Próxima etapa do projeto
     - [ ] Q&A
 - Aula 8
-    - [ ] Assistir aula completa
     - [ ] Frontend com Test-Driven Development
     - [ ] Frontend com Clean Architecture e Design Patterns
     - [ ] Bibliografia e Encerramento
