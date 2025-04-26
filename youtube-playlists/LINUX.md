@@ -31,3 +31,8 @@
 * [Curso GRÁTIS Linux Ubuntu Server 22.04 Essentials On-Premises](https://www.youtube.com/playlist?list=PLozhsZB1lLUM1-yu4qP9RZxoejgIfCxdI) ![](https://geps.dev/progress/0)
 * [Curso Ubuntu Server](https://www.youtube.com/playlist?list=PLIrDyMrQwEdEqou-lD_S_C8Qc8zZQxok_) ![](https://geps.dev/progress/0)
 
+## 👁 Interface
+
+* [Qual a DIFERENÇA entre TODAS as INTERFACES do LINUX?](https://www.youtube.com/watch?v=bHI7xK6bjHw)
+* [Você (provavelmente) está usando o GNOME de forma "ERRADA"!](https://www.youtube.com/watch?v=5jzN0_UXNII)
+* [GNOME Desktop Customization](https://www.youtube.com/playlist?list=PLKopOf5__2tgsmnaWkgpazE6N6td3ykM0)
