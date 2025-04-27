@@ -159,7 +159,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     * [#011 - Upload para o S3 com Lambda Functions e Presigned URLs](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "#011") ![](https://geps.dev/progress/100)
     * [#030 - Fluxo completo de upload para o S3 com Presigned URLs](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "#030") ![](https://geps.dev/progress/100)
     * [#038 - Upload de arquivos pesados para o S3 com Multipart Uploads](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "#038") ![](https://geps.dev/progress/100)
-    * [#043 - S3: Mais segurança com Presigned POSTs](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "#043") ![](https://geps.dev/progress/75)
+    * [#043 - S3: Mais segurança com Presigned POSTs](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "#043") ![](https://geps.dev/progress/100)
     * [#052 - Processamento de imagens assíncrona com S3 Triggers, SQS e Lambda Layers](https://app.jstack.com.br/classroom/lives/processamento-de-imagens-assincrona-com-s3-triggers-sqs-e-lambda-layers "#052") ![](https://geps.dev/progress/0)
 
 ### Serverless Framework
