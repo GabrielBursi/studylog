@@ -136,7 +136,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### DynamoDB
 
-* [#017 - DynamoDB e Serverless Framework: o par perfeito](https://app.jstack.com.br/classroom/lives/dynamodb-e-serverless-framework-o-par-perfeito "#017") ![](https://geps.dev/progress/0)
+* [#017 - DynamoDB e Serverless Framework: o par perfeito](https://app.jstack.com.br/classroom/lives/dynamodb-e-serverless-framework-o-par-perfeito "#017") ![](https://geps.dev/progress/100)
 * [#044 - Alta performance e baixo custo com DynamoDB e Single-Table Design](https://app.jstack.com.br/classroom/lives/alta-performance-e-baixo-custo-com-dynamodb-e-single-table-design "#044") ![](https://geps.dev/progress/0)
 * [#047 - Modelando tabelas no DynamoDB com Single-Table Design](https://app.jstack.com.br/classroom/lives/modelando-tabelas-no-dynamodb-com-single-table-design "#047") ![](https://geps.dev/progress/0)
 * [#048 - DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas](https://app.jstack.com.br/classroom/lives/dynamodb-single-table-design-relacionamentos-paginacao-e-buscas "#048") ![](https://geps.dev/progress/0)
