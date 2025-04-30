@@ -20,10 +20,9 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 
 ### Clean Code e Clean Architecture
 
-#### Turma 21 ![](https://geps.dev/progress/12)
+#### Turma 21 ![](https://geps.dev/progress/25)
 
 - Aula 1
-    - [x] Assistir aula completa
     - [x] Abertura
     - [x] Clean Code
     - [x] Test-Driven Development e Automação de Testes
@@ -31,11 +30,11 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Próxima etapa do projeto
     - [x] Q&A
 - Aula 2
-    - [ ] Tipos de testes automatizados (E2E, Integration, Unit)
-    - [ ] Arquitetura Hexagonal (com SRP e DIP)
-    - [ ] Test Patterns (Stub, Spy, Mock, Fake)
-    - [ ] Próxima etapa do projeto
-    - [ ] Q&A
+    - [x] Tipos de testes automatizados (E2E, Integration, Unit)
+    - [x] Arquitetura Hexagonal (com SRP e DIP)
+    - [x] Test Patterns (Stub, Spy, Mock, Fake)
+    - [x] Próxima etapa do projeto
+    - [x] Q&A
 - Aula 3
     - [ ] Dependency Injection
     - [ ] Clean Architecture - Use Cases
