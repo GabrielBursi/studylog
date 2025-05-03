@@ -148,7 +148,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * [#058 - Introdução à AWS](https://app.jstack.com.br/classroom/lives/introducao-a-aws "#058") ![](https://geps.dev/progress/100)
 * [#009 - APIs Serverless na AWS com API Gateway e Lambda Functions](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "#009") ![](https://geps.dev/progress/100)
-* [#036 - Filas na AWS para Processamento Assíncrono com Lambda e SQS](https://app.jstack.com.br/classroom/lives/filas-na-aws-para-processamento-assincrono-com-lambda-e-sqs "#036") ![](https://geps.dev/progress/0)
+* [#036 - Filas na AWS para Processamento Assíncrono com Lambda e SQS](https://app.jstack.com.br/classroom/lives/filas-na-aws-para-processamento-assincrono-com-lambda-e-sqs "#036") ![](https://geps.dev/progress/55)
 * [#050 - WebSockets e Cronjobs Serverless na AWS](https://app.jstack.com.br/classroom/lives/websockets-e-cronjobs-serverless-na-aws "#050") ![](https://geps.dev/progress/0)
 * [#054 - Enviando e-mails com o AWS SES](https://app.jstack.com.br/classroom/lives/enviando-e-mails-com-o-aws-ses "#054") ![](https://geps.dev/progress/0)
 * Cognito
