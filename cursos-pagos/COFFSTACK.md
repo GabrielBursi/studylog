@@ -4,7 +4,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 
 # Nubble App
 
-Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  34. Fluxo de Seguidor
+Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  35. Push Notification
 
 ## `Fase 1 (Júnior)`
 1. ✔ Nubble App - Introdução ao Projeto
@@ -42,5 +42,5 @@ Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COF
 31. ✔ Publicação na App Store (iOS) ⭐
 32. ✔ CI/CD - Automatização com GitHub Actions e fastlane ⭐
 33. ✔ Fluxo de Perfil
-34. Fluxo de Seguidor
-35. Push Notification
+34. ✔ Fluxo de Seguidor
+35. Push Notification ⭐
