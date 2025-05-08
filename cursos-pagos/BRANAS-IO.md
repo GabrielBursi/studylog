@@ -20,7 +20,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 
 ### Clean Code e Clean Architecture
 
-#### Turma 21 ![](https://geps.dev/progress/25)
+#### Turma 21 ![](https://geps.dev/progress/37)
 
 - Aula 1
     - [x] Abertura
@@ -36,12 +36,12 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Próxima etapa do projeto
     - [x] Q&A
 - Aula 3
-    - [ ] Dependency Injection
-    - [ ] Clean Architecture - Use Cases
-    - [ ] Clean Architecture - Entities
-    - [ ] Clean Architecture - Interface Adapters e Frameworks and Drivers
-    - [ ] Próxima etapa do projeto
-    - [ ] Q&A
+    - [x] Dependency Injection
+    - [x] Clean Architecture - Use Cases
+    - [x] Clean Architecture - Entities
+    - [x] Clean Architecture - Interface Adapters e Frameworks and Drivers
+    - [x] Próxima etapa do projeto
+    - [x] Q&A
 - Aula 4
     - [ ] Domain-Driven Design - Modelagem Tática (Value Objects e Entities)
     - [ ] Domain-Driven Design - Modelagem Tática (Domain Services, Aggregates e Repositories)
