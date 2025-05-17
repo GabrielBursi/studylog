@@ -29,7 +29,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 📚 [Arquitetura Limpa: o Guia do Artesão Para Estrutura e Design de Software](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
 * 📚 [O Codificador Limpo](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476)
 * 📚 [Código Limpo: Habilidades Práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
-* 📚 [Desenvolvimento Real de Software: um Guia de Projetos Para Fundamentos em Java](https://www.amazon.com.br/Desenvolvimento-Real-Software-projetos-fundamentos/dp/6555202017)
+* 📖 [Desenvolvimento Real de Software: um Guia de Projetos Para Fundamentos em Java](https://www.amazon.com.br/Desenvolvimento-Real-Software-projetos-fundamentos/dp/6555202017)
 * 📚 [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
 * 📚 [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.amazon.com.br/Strategic-Monoliths-Microservices-Innovation-Architecture/dp/0137355467)
 * 📚 [Implementando Domain-Driven Design](https://www.amazon.com.br/Implementando-Domain-Driven-design-Vernon/dp/8576089521)
