@@ -20,7 +20,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 
 ### Clean Code e Clean Architecture
 
-#### Turma 21 ![](https://geps.dev/progress/50)
+#### Turma 21
 
 - Aula 1
     - [x] Abertura
@@ -44,8 +44,8 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Domain-Driven Design - Parte 1
     - [ ] Próxima etapa do projeto
 - Aula 5
-    - [ ] Domain-Driven Design - Modelagem Estratégica (Domain, Subdomain, Bounded Context)
-    - [ ] Arquitetura de Microservices
+    - [x] Domain-Driven Design - Parte 2
+    - [x] Domain-Driven Design - Parte 3
     - [ ] Próxima etapa do projeto
 - Aula 6
     - [ ] Design Patterns - Mediator (Um use case pode chamar o outro?)
@@ -62,7 +62,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Frontend com Clean Architecture e Design Patterns
     - [ ] Bibliografia e Encerramento
 
-### Turma 20 ![](https://geps.dev/progress/0)
+### Turma 20
 
 - Aula 1
     - [ ] Abertura
@@ -104,7 +104,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Frontend com Clean Architecture e Design Patterns
     - [ ] Bibliografia e Encerramento
 
-### Design patterns ![](https://geps.dev/progress/0)
+### Design patterns
   - GoF - Padrões de Criação
     - [ ] Abstract Factory
     - [x] Factory Method
@@ -133,7 +133,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Visitor
   - POEAA
     - [ ] Repository
-### TypeScript Masterclass ![](https://geps.dev/progress/0)
+### TypeScript Masterclass
   - [ ] TypeScript - Parte 1
   - [ ] TypeScript - Parte 2
   - [ ] TypeScript - Parte 3
