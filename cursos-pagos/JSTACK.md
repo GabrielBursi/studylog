@@ -74,7 +74,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/100)
 * [#040 - Gerenciamento de estados com Zustand](https://app.jstack.com.br/classroom/lives/gerenciamento-de-estados-com-zustand "#040") ![](https://geps.dev/progress/100)
 * [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
-* [#062 - Construindo tabelas com React Table (TanStack)](https://app.jstack.com.br/classroom/lives/construindo-tabelas-com-react-table-tanstack "#062") | [YouTube](https://youtube.com/live/5WVGv98FtKY?feature=share) ![](https://geps.dev/progress/0) 
+* [#062 - Construindo tabelas com React Table (TanStack)](https://app.jstack.com.br/classroom/lives/construindo-tabelas-com-react-table-tanstack "#062") | [Live no YouTube](https://youtube.com/live/5WVGv98FtKY?feature=share) ![](https://geps.dev/progress/0) 
 * [#066 - Dominando os React Hooks (Parte 1)](https://www.youtube.com/live/b-iDz0dkxHk "#066") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#066.2 - Dominando os React Hooks (Parte 2)](https://www.youtube.com/live/AVTTf5kzkBM?feature=share "#066.2") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#067 - React Router v7](https://www.youtube.com/live/TybrZFVbUjU "#067") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
@@ -111,7 +111,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#031 - OAuth2: habilitando Login Social nas suas aplicações](https://app.jstack.com.br/classroom/lives/oauth2-habilitando-login-social-nas-suas-aplicacoes "#031") ![](https://geps.dev/progress/100)
 * [#037 - Dominando o Prisma ORM](https://app.jstack.com.br/classroom/lives/dominando-o-prisma-orm "#037") ![](https://geps.dev/progress/100)
 * [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/100)
-* [#063 - Dominando o Fastify](https://youtube.com/live/pURzfWEdUv4?feature=share "#063") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#063 - Dominando o Fastify](https://app.jstack.com.br/classroom/lives/dominando-o-fastify "#063") | [Live no YouTube](https://youtube.com/live/pURzfWEdUv4?feature=share) ![](https://geps.dev/progress/0)
 
 ### JWT
 
@@ -178,5 +178,5 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ## Arquitetura
 
 * [#059 - Inversion of Control, Dependency Injection e Dependency Inversion](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "#059") ![](https://geps.dev/progress/100)
-* [#064 - Construindo aplicações Multi-Tenant](https://youtube.com/live/cxwgXJimCWg?feature=share "#064") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#064 - Construindo aplicações Multi-Tenant](https://app.jstack.com.br/classroom/lives/construindo-aplicacoes-multi-tenant "#064") | [Live no YouTube](https://youtube.com/live/cxwgXJimCWg?feature=share) ![](https://geps.dev/progress/0)
 
