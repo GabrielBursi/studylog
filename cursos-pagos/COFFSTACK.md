@@ -2,9 +2,7 @@
 
 Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de MVVM, SOLID, DDD e Clean Architecture diretamente no React Native
 
-# Nubble App
-
-Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md#fase-3-sênior-)  30. Publicação na Google Play (Android)
+# Nubble App (CLI)
 
 ## `Fase 1 (Júnior)`
 1. ✔ Nubble App - Introdução ao Projeto
@@ -44,3 +42,11 @@ Estou [aqui](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COF
 33. ✔ Fluxo de Perfil
 34. ✔ Fluxo de Seguidor
 35. ✔ Push Notification ⭐
+
+# Digital Nomad App (Expo)
+
+1. Projeto e Configuração
+2. Expo Router
+3. Componentização e Design System
+
+
