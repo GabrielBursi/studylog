@@ -53,6 +53,8 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 🚫 [Projeto NEXT 14, TS e Tailwind](https://www.youtube.com/playlist?list=PL29TaWXah3iaKcSxmOa_e_bKCkS10Rsn-)
 * 🚫 [English Quest](https://github.com/GabrielBursi/studylog/blob/main/projetos-pessoais/ENGLISH-QUEST.md)
 * 🚫 CargoTracker (Capítulo 7 do livro *"Domain-Driven Design"* de Eric Evans)
+* 🚫 Motor de regras comerciais (Capítulo 5 do livro *"Desenvolvimento Real de Software"*)
+* 🚫 Twootr (Capítulo 6 do livro *"Desenvolvimento Real de Software"*)
 
 ### `/roadmaps`
 
