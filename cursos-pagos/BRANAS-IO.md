@@ -48,10 +48,8 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Domain-Driven Design - Parte 3
     - [ ] Próxima etapa do projeto
 - Aula 6
-    - [ ] Design Patterns - Mediator (Um use case pode chamar o outro?)
-    - [ ] Microservices
-    - [ ] SOLID - Liskov Substitution Principle
-    - [ ] Event-Driven Architecture
+    - [x] Arquitetura Distribuída (Microservices e Event-Driven) - Parte 1
+    - [x] Arquitetura Distribuída (Microservices e Event-Driven) - Parte 2
     - [ ] Próxima etapa do projeto
 - Aula 7
     - [ ] CQRS - Parte 1
