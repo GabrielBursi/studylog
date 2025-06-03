@@ -13,7 +13,12 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * WaiterApp ![](https://geps.dev/progress/20)
 * Fincheck ![](https://geps.dev/progress/0)
-* Foodiary ![](https://geps.dev/progress/0)
+* Foodiary ![](https://geps.dev/progress/0)          
+    ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+    - [#01 - System Design e Banco de Dados](https://www.youtube.com/live/_-WRSsdUMow)
+    - [#02 - Banco de Dados e Definição de Tecnologias](https://www.youtube.com/live/SfGppmBNTVw)
+    - [#03 - Iniciando a API](https://www.youtube.com/live/C4QTp7Ec7wg)
+    - [#04 - Autenticação](https://www.youtube.com/live/1H97_Rher90)
 
 # Lives
 
