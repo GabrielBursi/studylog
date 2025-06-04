@@ -52,8 +52,8 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Arquitetura Distribuída (Microservices e Event-Driven) - Parte 2
     - [ ] Próxima etapa do projeto
 - Aula 7
-    - [ ] CQRS - Parte 1
-    - [ ] CQRS - Parte 2
+    - [x] CQRS - Parte 1
+    - [x] CQRS - Parte 2
     - [ ] Próxima etapa do projeto
 - Aula 8
     - [ ] Frontend com Test-Driven Development
