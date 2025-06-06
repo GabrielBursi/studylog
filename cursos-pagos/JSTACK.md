@@ -19,6 +19,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#02 - Banco de Dados e Definição de Tecnologias](https://www.youtube.com/live/SfGppmBNTVw)
     - [#03 - Iniciando a API](https://www.youtube.com/live/C4QTp7Ec7wg)
     - [#04 - Autenticação](https://www.youtube.com/live/1H97_Rher90)
+    - [#05 - Autenticação PT2](https://www.youtube.com/live/tWCeJybwi2Y)
 
 # Lives
 
