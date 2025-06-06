@@ -46,7 +46,8 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 # Digital Nomad App (Expo)
 
 1. ✔ Projeto e Configuração
-2. Expo Router
+2. ✔ Expo Router
 3. Componentização e Design System
+4. Animações com Reanimated
 
 
