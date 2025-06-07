@@ -159,7 +159,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#050 - WebSockets e Cronjobs Serverless na AWS](https://app.jstack.com.br/classroom/lives/websockets-e-cronjobs-serverless-na-aws "#050") ![](https://geps.dev/progress/0)
 * [#054 - Enviando e-mails com o AWS SES](https://app.jstack.com.br/classroom/lives/enviando-e-mails-com-o-aws-ses "#054") ![](https://geps.dev/progress/100)
 * Cognito
-    * [#020 - Autenticação em APIs com Serverless e AWS Cognito](https://app.jstack.com.br/classroom/lives/autenticacao-em-apis-com-serverless-e-aws-cognito "#020") ![](https://geps.dev/progress/0)
+    * [#020 - Autenticação em APIs com Serverless e AWS Cognito](https://app.jstack.com.br/classroom/lives/autenticacao-em-apis-com-serverless-e-aws-cognito "#020") ![](https://geps.dev/progress/53)
     * [#053 - Login Social (Federated) com AWS Cognito](https://app.jstack.com.br/classroom/lives/login-social-federated-com-aws-cognito "#053") ![](https://geps.dev/progress/0)
     * [#061 - RBAC com AWS Cognito](https://app.jstack.com.br/classroom/lives/rbac-com-aws-cognito "#061") ![](https://geps.dev/progress/0)
 * S3
