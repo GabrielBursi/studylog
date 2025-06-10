@@ -20,6 +20,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#03 - Iniciando a API](https://www.youtube.com/live/C4QTp7Ec7wg)
     - [#04 - Autenticação](https://www.youtube.com/live/1H97_Rher90)
     - [#05 - Autenticação PT2](https://www.youtube.com/live/tWCeJybwi2Y)
+    - [#06 - Configuração de DNS, e-mails com SES e Custom Domain](https://www.youtube.com/live/7JSHb8mBFpQ)
 
 # Lives
 
