@@ -49,5 +49,5 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 2. ✔ Expo Router
 3. ✔ Componentização e Design System
 4. Animações com Reanimated
-
+5. Supabase (Backend)
 
