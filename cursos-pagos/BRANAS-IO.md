@@ -56,9 +56,9 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] CQRS - Parte 2
     - [ ] Próxima etapa do projeto
 - Aula 8
-    - [ ] Frontend com Test-Driven Development
-    - [ ] Frontend com Clean Architecture e Design Patterns
-    - [ ] Bibliografia e Encerramento
+    - [x] Lock, Concorrência e Paralelismo
+    - [x] Frontend com Test-Driven Development
+    - [x] Frontend com Clean Architecture e Design Patterns
 
 ### Turma 20
 
