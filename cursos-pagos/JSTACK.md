@@ -21,6 +21,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#04 - Autenticação](https://www.youtube.com/live/1H97_Rher90)
     - [#05 - Autenticação PT2](https://www.youtube.com/live/tWCeJybwi2Y)
     - [#06 - Configuração de DNS, e-mails com SES e Custom Domain](https://www.youtube.com/live/7JSHb8mBFpQ)
+    - [#07 - Criação de Perfil e Cálculo de Metas](https://www.youtube.com/live/x5Yk5GMqz3Y)
 
 # Lives
 
