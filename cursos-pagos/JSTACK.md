@@ -24,6 +24,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#07 - Criação de Perfil e Cálculo de Metas](https://www.youtube.com/live/x5Yk5GMqz3Y)
     - [#08 - Finalizando as rotas da API](https://www.youtube.com/live/zdCigI8jPmo)
     - [#09 - Finalizando as rotas da API - PT2](https://www.youtube.com/live/JAJzGJLVPvw)
+    - [#10 - CDN e Filas](https://www.youtube.com/live/zffrgGEKNaE)
 
 # Lives
 
