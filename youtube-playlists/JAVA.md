@@ -15,6 +15,7 @@
 
 ## Java Avançado
 
+* [Java para pessoas burras](https://www.youtube.com/playlist?list=PLUPgTAVftApzKsUkGkPLivAZAfeBMn24h) ![](https://geps.dev/progress/0)
 * [JAVA Intermediário | Estruturas de dados, Generics, Packages](https://www.youtube.com/watch?v=jLropHUgI1A&list=WL&index=10) ![](https://geps.dev/progress/0)
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/0)
 * [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
