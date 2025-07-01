@@ -168,7 +168,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * Cognito
     * [#020 - Autenticação em APIs com Serverless e AWS Cognito](https://app.jstack.com.br/classroom/lives/autenticacao-em-apis-com-serverless-e-aws-cognito "#020") ![](https://geps.dev/progress/100)
     * [#053 - Login Social (Federated) com AWS Cognito](https://app.jstack.com.br/classroom/lives/login-social-federated-com-aws-cognito "#053") ![](https://geps.dev/progress/100)
-    * [#061 - RBAC com AWS Cognito](https://app.jstack.com.br/classroom/lives/rbac-com-aws-cognito "#061") ![](https://geps.dev/progress/0)
+    * [#061 - RBAC com AWS Cognito](https://app.jstack.com.br/classroom/lives/rbac-com-aws-cognito "#061") ![](https://geps.dev/progress/42)
 * S3
     * [#011 - Upload para o S3 com Lambda Functions e Presigned URLs](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "#011") ![](https://geps.dev/progress/100)
     * [#030 - Fluxo completo de upload para o S3 com Presigned URLs](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "#030") ![](https://geps.dev/progress/100)
