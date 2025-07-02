@@ -104,7 +104,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 
 ### Design patterns
   - GoF - Padrões de Criação
-    - [ ] Abstract Factory
+    - [x] Abstract Factory
     - [x] Factory Method
     - [x] Singleton
     - [x] Prototype
