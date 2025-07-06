@@ -77,7 +77,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#004 - Renderização: CSR, SSG, SSR, ISR ou DSG?](https://app.jstack.com.br/classroom/lives/renderizacao-csr-ssg-ssr-isr-ou-dsg "#004") ![](https://geps.dev/progress/100)
 * [#014 - A melhor stack para criar Front-ends em 2024 (na minha opinião)](https://app.jstack.com.br/classroom/lives/a-melhor-stack-para-criar-front-ends-em-2024-na-minha-opiniao "#014") ![](https://geps.dev/progress/100)
 * [#022 - Dominando o Tailwind CSS](https://app.jstack.com.br/classroom/lives/dominando-o-tailwind-css "#022") ![](https://geps.dev/progress/100)
-* [#045 - Conhecendo o Framer](https://app.jstack.com.br/classroom/lives/conhecendo-o-framer "#045") ![](https://geps.dev/progress/0)
+* [#045 - Conhecendo o Framer](https://app.jstack.com.br/classroom/lives/conhecendo-o-framer "#045") ![](https://geps.dev/progress/100)
 
 ### React
 
