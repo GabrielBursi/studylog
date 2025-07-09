@@ -1,4 +1,4 @@
-## [branas.io](https://www.branas.io/cursos/)
+# [branas.io](https://www.branas.io/cursos/)
 
 Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagonal, Clean Architecture, Domain-Driven Design, Microservices, Event-Driven Architecture, CQRS, SOLID e Design Patterns, do frontend ao backend
 
@@ -16,7 +16,11 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
 - Se torne uma pessoa muito mais confiante e segura no dia a dia de trabalho, em entrevistas de emprego, dando mais um passo na evolução da sua carreira
 - Busque fomentar um ambiente de trabalho com foco na qualidade, fazendo a diferença dentro da sua equipe
 
-## Cursos
+## Súmario
+- [Clean Code e Clean Architecture Turma 21](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/BRANAS-IO.md#turma-21)
+- [Clean Code e Clean Architecture Turma 20](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/BRANAS-IO.md#turma-20)
+- [Design Patterns](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/BRANAS-IO.md#design-patterns)
+- [Typescript](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/BRANAS-IO.md#typescript-masterclass)
 
 ### Clean Code e Clean Architecture
 
