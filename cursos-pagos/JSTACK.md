@@ -1,4 +1,4 @@
-## [JStack - Torne-se um desenvolvedor de verdade!](https://jstack.com.br)
+# [JStack - Torne-se um desenvolvedor de verdade!](https://jstack.com.br)
 
 O JStack é um curso de Node.js, React, React Native e TypeScript focado em te preparar para o mercado e ensinar de verdade como essas tecnologias funcionam.
 A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
@@ -26,8 +26,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#09 - Finalizando as rotas da API - PT2](https://www.youtube.com/live/JAJzGJLVPvw)
     - [#10 - CDN e Filas](https://www.youtube.com/live/zffrgGEKNaE)
     - [#11 - Processamento assíncrono com Filas](https://www.youtube.com/live/WR4M-R6YuCw)
-
-# Lives
+## Lives
 
 ## *Sumário*
 
