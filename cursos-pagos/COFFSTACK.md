@@ -50,6 +50,6 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 3. ✔ Componentização e Design System
 4. ✔ Animações com Reanimated
 5. ✔ Supabase (Backend)
-6. Arquitetura e Padrões de Projeto
+6. ✔ Arquitetura e Padrões de Projeto
 7. Autenticação e Formulários 
 
