@@ -7,5 +7,5 @@
 * [React Avançado: Crie aplicações com NextJS, Strapi e mais](https://www.udemy.com/course/react-avancado/) ![](https://geps.dev/progress/63)
 * [RabbitMQ na Prática](https://www.udemy.com/course/rabbitmq-na-pratica/) ![](https://geps.dev/progress/0)
 * [Programação Reativa](https://www.udemy.com/course/programacao-reativa/) ![](https://geps.dev/progress/0)
-* [Java from Zero to First Job, Practical Guide](https://www.udemy.com/course/java-development-for-beginners-learnit/) ![](https://geps.dev/progress/7)
+* [Java from Zero to First Job, Practical Guide](https://www.udemy.com/course/java-development-for-beginners-learnit/) ![](https://geps.dev/progress/15)
 * [Next.js 15 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) ![](https://geps.dev/progress/55)
