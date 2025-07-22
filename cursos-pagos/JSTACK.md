@@ -124,7 +124,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### React Native
 
-* [Criando apps mobile com React Native e Expo em 2025](https://www.youtube.com/watch?v=3Y_T3wEg9nQ) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+* [Criando apps mobile com React Native e Expo em 2025](https://www.youtube.com/watch?v=3Y_T3wEg9nQ) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
 ## Back-end
 
@@ -167,7 +167,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### AWS
 
-* [Primeiros passos na AWS](https://www.youtube.com/watch?v=zGmhqtRUF4I&t=77s) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+* [Primeiros passos na AWS](https://www.youtube.com/watch?v=zGmhqtRUF4I&t=77s) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#058 - Introdução à AWS](https://app.jstack.com.br/classroom/lives/introducao-a-aws "#058") ![](https://geps.dev/progress/100)
 * [#009 - APIs Serverless na AWS com API Gateway e Lambda Functions](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "#009") ![](https://geps.dev/progress/100)
 * [#036 - Filas na AWS para Processamento Assíncrono com Lambda e SQS](https://app.jstack.com.br/classroom/lives/filas-na-aws-para-processamento-assincrono-com-lambda-e-sqs "#036") ![](https://geps.dev/progress/100)
@@ -186,7 +186,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### Serverless Framework
 
-* [Serverless Framework: Do Zero ao Deploy na AWS com IaC](https://www.youtube.com/watch?v=5e0-h1mEyoE) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+* [Serverless Framework: Do Zero ao Deploy na AWS com IaC](https://www.youtube.com/watch?v=5e0-h1mEyoE) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#012 - Introdução ao Serverless Framework](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "#012") ![](https://geps.dev/progress/100)
 * [#065 - Dominando o Serverless Framework](https://youtube.com/live/4yw5Lm-y8U4?feature=share "#065") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#039 - Serviço de geração de relatórios assíncrono com Serverless Framework](https://app.jstack.com.br/classroom/lives/servico-de-geracao-de-relatorios-assincrono-com-serverless-framework "#039") ![](https://geps.dev/progress/0)
