@@ -6,13 +6,13 @@
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
 * [Definições](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) ![](https://geps.dev/progress/100)
-* [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) ![](https://geps.dev/progress/40)
+* [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) ![](https://geps.dev/progress/53)
 
 ## Atualizações
 
 * [Aprenda acumulado de atualizações JDKs](https://www.youtube.com/watch?v=TwSOR_-JMHU)
 * [Latest Java Features (8-21)](https://www.youtube.com/playlist?list=PL87padGs1bp-kvfW7UHMzNDglSiLBEyr6) ![](https://geps.dev/progress/100)
-* [Road to 21](https://www.youtube.com/playlist?list=PLX8CzqL3ArzVHAHWowaXwYFlLk78D8RvL) ![](https://geps.dev/progress/0)
+* [Road to 21](https://www.youtube.com/playlist?list=PLX8CzqL3ArzVHAHWowaXwYFlLk78D8RvL) ![](https://geps.dev/progress/14)
 
 ## Java Avançado
 
