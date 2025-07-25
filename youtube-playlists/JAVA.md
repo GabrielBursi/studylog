@@ -6,7 +6,7 @@
 * [Java virado no jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) ![](https://geps.dev/progress/0)
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
 * [Definições](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) ![](https://geps.dev/progress/100)
-* [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) ![](https://geps.dev/progress/60)
+* [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) ![](https://geps.dev/progress/66)
 
 ## Atualizações
 
@@ -31,7 +31,7 @@
 ## Spring Boot
 
 * [Spring Boot do Zero | Aprenda java com Naruto (2025)](https://www.youtube.com/watch?v=n8_qrrc8WN4)
-* [Spring Boot Annotations | +30 anotações na prática](https://www.youtube.com/watch?v=Pd5tr483No0)
+* [Spring Boot Annotations | +30 anotações na prática](https://www.youtube.com/watch?v=Pd5tr483No0) ✔
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)  ✔
 * [Springboot / Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSdnQHAHVmGmO7HA6S4a2W3) ![](https://geps.dev/progress/0)
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) ![](https://geps.dev/progress/0)
