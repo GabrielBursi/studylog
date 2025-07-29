@@ -131,7 +131,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#031 - OAuth2: habilitando Login Social nas suas aplicações](https://app.jstack.com.br/classroom/lives/oauth2-habilitando-login-social-nas-suas-aplicacoes "#031") ![](https://geps.dev/progress/100)
 * [#037 - Dominando o Prisma ORM](https://app.jstack.com.br/classroom/lives/dominando-o-prisma-orm "#037") ![](https://geps.dev/progress/100)
 * [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/100)
-* [#063 - Dominando o Fastify](https://app.jstack.com.br/classroom/lives/dominando-o-fastify "#063") | [Live no YouTube](https://youtube.com/live/pURzfWEdUv4?feature=share) ![](https://geps.dev/progress/0)
+* [#063 - Dominando o Fastify](https://app.jstack.com.br/classroom/lives/dominando-o-fastify "#063") | [Live no YouTube](https://youtube.com/live/pURzfWEdUv4?feature=share) ![](https://geps.dev/progress/46)
 
 ### JWT
 
