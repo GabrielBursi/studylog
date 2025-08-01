@@ -31,7 +31,7 @@
 
 ## Spring Boot
 
-* [Spring Boot do Zero | Aprenda java com Naruto (2025)](https://www.youtube.com/watch?v=n8_qrrc8WN4)
+* [Spring Boot do Zero | Aprenda java com Naruto (2025)](https://www.youtube.com/watch?v=n8_qrrc8WN4) ✔
 * [Spring Boot Annotations | +30 anotações na prática](https://www.youtube.com/watch?v=Pd5tr483No0) ✔
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)  ✔
 * [Springboot / Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSdnQHAHVmGmO7HA6S4a2W3) ![](https://geps.dev/progress/0)
