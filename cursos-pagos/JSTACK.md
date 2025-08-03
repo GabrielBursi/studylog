@@ -70,26 +70,26 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     
 - [ ] Inversion of Control, Dependency Injection e Dependency Inversion ([#059](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "Inversion of Control, Dependency Injection e Dependency Inversion"))
 
-- [ ] AWS ([#058](https://app.jstack.com.br/classroom/lives/introducao-a-aws "Introdução à AWS"), [#012](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "Introdução ao Serverless Framework"), [#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#020](https://app.jstack.com.br/classroom/lives/autenticacao-em-apis-com-serverless-e-aws-cognito "Autenticação em APIs com Serverless e AWS Cognito"), [#053](https://app.jstack.com.br/classroom/lives/login-social-federated-com-aws-cognito "Login Social (Federated) com AWS Cognito"), [#061](https://app.jstack.com.br/classroom/lives/rbac-com-aws-cognito "RBAC com AWS Cognito"), [#017](https://app.jstack.com.br/classroom/lives/dynamodb-e-serverless-framework-o-par-perfeito "DynamoDB e Serverless Framework: o par perfeito"), [#044](https://app.jstack.com.br/classroom/lives/alta-performance-e-baixo-custo-com-dynamodb-e-single-table-design "Alta performance e baixo custo com DynamoDB e Single-Table Design"), [#047](https://app.jstack.com.br/classroom/lives/modelando-tabelas-no-dynamodb-com-single-table-design "Modelando tabelas no DynamoDB com Single-Table Design"), [#048](https://app.jstack.com.br/classroom/lives/dynamodb-single-table-design-relacionamentos-paginacao-e-buscas "DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas"), [#060](https://app.jstack.com.br/classroom/lives/dynamodb-streams-e-search-com-algolia "DynamoDB Streams e Search com Algolia"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"), [#043](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "S3: Mais segurança com Presigned POSTs"), [#038](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "Upload de arquivos pesados para o S3 com Multipart Uploads"), [#036](https://app.jstack.com.br/classroom/lives/filas-na-aws-para-processamento-assincrono-com-lambda-e-sqs "Filas na AWS para Processamento Assíncrono com Lambda e SQS"), [#052](https://app.jstack.com.br/classroom/lives/processamento-de-imagens-assincrona-com-s3-triggers-sqs-e-lambda-layers "Processamento de imagens assíncrona com S3 Triggers, SQS e Lambda Layers"), [#054](https://app.jstack.com.br/classroom/lives/enviando-e-mails-com-o-aws-ses "Enviando e-mails com o AWS SES"), [#050](https://app.jstack.com.br/classroom/lives/websockets-e-cronjobs-serverless-na-aws "WebSockets e Cronjobs Serverless na AWS"), [#062](https://app.jstack.com.br/classroom/lives/construindo-tabelas-com-react-table-tanstack "Construindo tabelas com React Table"))
+- [ ] AWS ([#058](https://app.jstack.com.br/classroom/lives/introducao-a-aws "Introdução à AWS"), [#012](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "Introdução ao Serverless Framework"), [#009](https://app.jstack.com.br/classroom/lives/apis-serverless-na-aws-com-api-gateway-e-lambda-functions "APIs Serverless na AWS com API Gateway e Lambda Functions"), [#020](https://app.jstack.com.br/classroom/lives/autenticacao-em-apis-com-serverless-e-aws-cognito "Autenticação em APIs com Serverless e AWS Cognito"), [#053](https://app.jstack.com.br/classroom/lives/login-social-federated-com-aws-cognito "Login Social (Federated) com AWS Cognito"), [#061](https://app.jstack.com.br/classroom/lives/rbac-com-aws-cognito "RBAC com AWS Cognito"), [#017](https://app.jstack.com.br/classroom/lives/dynamodb-e-serverless-framework-o-par-perfeito "DynamoDB e Serverless Framework: o par perfeito"), [#044](https://app.jstack.com.br/classroom/lives/alta-performance-e-baixo-custo-com-dynamodb-e-single-table-design "Alta performance e baixo custo com DynamoDB e Single-Table Design"), [#047](https://app.jstack.com.br/classroom/lives/modelando-tabelas-no-dynamodb-com-single-table-design "Modelando tabelas no DynamoDB com Single-Table Design"), [#048](https://app.jstack.com.br/classroom/lives/dynamodb-single-table-design-relacionamentos-paginacao-e-buscas "DynamoDB Single-Table Design: Relacionamentos, Paginação e Buscas"), [#060](https://app.jstack.com.br/classroom/lives/dynamodb-streams-e-search-com-algolia "DynamoDB Streams e Search com Algolia"), [#011](https://app.jstack.com.br/classroom/lives/upload-para-o-s3-com-lambda-functions-e-presigned-urls "Upload para o S3 com Lambda Functions e Presigned URLs"), [#030](https://app.jstack.com.br/classroom/lives/fluxo-completo-de-upload-para-o-s3-com-presigned-urls "Fluxo completo de upload para o S3 com Presigned URLs"), [#043](https://app.jstack.com.br/classroom/lives/s3-mais-seguranca-com-presigned-posts "S3: Mais segurança com Presigned POSTs"), [#038](https://app.jstack.com.br/classroom/lives/upload-de-arquivos-pesados-para-o-s3-com-multipart-uploads "Upload de arquivos pesados para o S3 com Multipart Uploads"), [#036](https://app.jstack.com.br/classroom/lives/filas-na-aws-para-processamento-assincrono-com-lambda-e-sqs "Filas na AWS para Processamento Assíncrono com Lambda e SQS"), [#052](https://app.jstack.com.br/classroom/lives/processamento-de-imagens-assincrona-com-s3-triggers-sqs-e-lambda-layers "Processamento de imagens assíncrona com S3 Triggers, SQS e Lambda Layers"), [#054](https://app.jstack.com.br/classroom/lives/enviando-e-mails-com-o-aws-ses "Enviando e-mails com o AWS SES"), [#050](https://app.jstack.com.br/classroom/lives/websockets-e-cronjobs-serverless-na-aws "WebSockets e Cronjobs Serverless na AWS"), [#062](https://app.jstack.com.br/classroom/lives/construindo-tabelas-com-react-table-tanstack "Construindo tabelas com React Table"), [#046](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "Preparando apps React para produção: Code Splitting, Sentry, Clarity e +"), [#005](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "Pipeline de CI/CD com GitHub Actions e AWS CodeBuild"), [#003](https://app.jstack.com.br/classroom/lives/deploy-de-apps-react-para-producao-na-aws "Deploy de apps React para produção na AWS"))
 
 - [ ] Fastfy / Prisma ([#063](https://app.jstack.com.br/classroom/lives/dominando-o-fastify "Dominando o Fastify"), [#037](https://app.jstack.com.br/classroom/lives/dominando-o-prisma-orm "Dominando o Prisma ORM"))  
 
 
 ## Front-end
 
-* [#004 - Renderização: CSR, SSG, SSR, ISR ou DSG?](https://app.jstack.com.br/classroom/lives/renderizacao-csr-ssg-ssr-isr-ou-dsg "#004") ![](https://geps.dev/progress/100)
+* ⭐ [#004 - Renderização: CSR, SSG, SSR, ISR ou DSG?](https://app.jstack.com.br/classroom/lives/renderizacao-csr-ssg-ssr-isr-ou-dsg "#004") ![](https://geps.dev/progress/100)
 * [#014 - A melhor stack para criar Front-ends em 2024 (na minha opinião)](https://app.jstack.com.br/classroom/lives/a-melhor-stack-para-criar-front-ends-em-2024-na-minha-opiniao "#014") ![](https://geps.dev/progress/100)
-* [#022 - Dominando o Tailwind CSS](https://app.jstack.com.br/classroom/lives/dominando-o-tailwind-css "#022") ![](https://geps.dev/progress/100)
+* ⭐ [#022 - Dominando o Tailwind CSS](https://app.jstack.com.br/classroom/lives/dominando-o-tailwind-css "#022") ![](https://geps.dev/progress/100)
 * [#045 - Conhecendo o Framer](https://app.jstack.com.br/classroom/lives/conhecendo-o-framer "#045") ![](https://geps.dev/progress/100)
 
 ### React
 
 * [#002 - Construindo um Gerenciador de Estados do zero com React](https://app.jstack.com.br/classroom/lives/construindo-um-gerenciador-de-estados-do-zero-com-react "#002") ![](https://geps.dev/progress/100)
-* [#003 - Deploy de apps React para produção na AWS](https://app.jstack.com.br/classroom/lives/deploy-de-apps-react-para-producao-na-aws "#003") ![](https://geps.dev/progress/100)
-* [#019 - Autenticação com Refresh Tokens no React](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019") ![](https://geps.dev/progress/100)
-* [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/100)
-* [#040 - Gerenciamento de estados com Zustand](https://app.jstack.com.br/classroom/lives/gerenciamento-de-estados-com-zustand "#040") ![](https://geps.dev/progress/100)
-* [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
+* ⭐ [#003 - Deploy de apps React para produção na AWS](https://app.jstack.com.br/classroom/lives/deploy-de-apps-react-para-producao-na-aws "#003") ![](https://geps.dev/progress/100)
+* ⭐ [#019 - Autenticação com Refresh Tokens no React](https://app.jstack.com.br/classroom/lives/autenticacao-com-refresh-tokens-no-react "#019") ![](https://geps.dev/progress/100)
+* ⭐ [#032 - As novidades do React 19](https://app.jstack.com.br/classroom/lives/as-novidades-do-react-19 "#032") ![](https://geps.dev/progress/100)
+* ⭐ [#040 - Gerenciamento de estados com Zustand](https://app.jstack.com.br/classroom/lives/gerenciamento-de-estados-com-zustand "#040") ![](https://geps.dev/progress/100)
+* ⭐ [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/lives/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
 * [#062 - Construindo tabelas com React Table (TanStack)](https://app.jstack.com.br/classroom/lives/construindo-tabelas-com-react-table-tanstack "#062") | [Live no YouTube](https://youtube.com/live/5WVGv98FtKY?feature=share) ![](https://geps.dev/progress/100) 
 * [#066 - Dominando os React Hooks (Parte 1)](https://www.youtube.com/live/b-iDz0dkxHk "#066") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#066.2 - Dominando os React Hooks (Parte 2)](https://www.youtube.com/live/AVTTf5kzkBM?feature=share "#066.2") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
@@ -120,7 +120,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ### Storybook
 
 * [#027 - Documentando componentes com Storybook](https://app.jstack.com.br/classroom/lives/documentando-componentes-com-storybook "#027") ![](https://geps.dev/progress/100)
-* [#041 - Construindo e publicando UI Kits no NPM com Tailwind e Storybook](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041") ![](https://geps.dev/progress/100)
+* ⭐ [#041 - Construindo e publicando UI Kits no NPM com Tailwind e Storybook](https://app.jstack.com.br/classroom/lives/construindo-e-publicando-ui-kits-no-npm-com-tailwind-e-storybook "#041") ![](https://geps.dev/progress/100)
 
 ## Mobile
 
@@ -130,32 +130,32 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ## Back-end
 
-* [#031 - OAuth2: habilitando Login Social nas suas aplicações](https://app.jstack.com.br/classroom/lives/oauth2-habilitando-login-social-nas-suas-aplicacoes "#031") ![](https://geps.dev/progress/100)
-* [#037 - Dominando o Prisma ORM](https://app.jstack.com.br/classroom/lives/dominando-o-prisma-orm "#037") ![](https://geps.dev/progress/100)
-* [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/100)
-* [#063 - Dominando o Fastify](https://app.jstack.com.br/classroom/lives/dominando-o-fastify "#063") | [Live no YouTube](https://youtube.com/live/pURzfWEdUv4?feature=share) ![](https://geps.dev/progress/100)
+* ⭐ [#031 - OAuth2: habilitando Login Social nas suas aplicações](https://app.jstack.com.br/classroom/lives/oauth2-habilitando-login-social-nas-suas-aplicacoes "#031") ![](https://geps.dev/progress/100)
+* ⭐ [#037 - Dominando o Prisma ORM](https://app.jstack.com.br/classroom/lives/dominando-o-prisma-orm "#037") ![](https://geps.dev/progress/100)
+* ⭐ [#049 - Paginação: Offset vs Cursor-based e Valores Pré-computados](https://app.jstack.com.br/classroom/lives/paginacao-offset-vs-cursor-based-e-valores-pre-computados "#049") ![](https://geps.dev/progress/100)
+* ⭐ [#063 - Dominando o Fastify](https://app.jstack.com.br/classroom/lives/dominando-o-fastify "#063") | [Live no YouTube](https://youtube.com/live/pURzfWEdUv4?feature=share) ![](https://geps.dev/progress/100)
 
 ### JWT
 
-* [#001 - Entendendo a estrutura de tokens JWT criando a sua própria implementação](https://app.jstack.com.br/classroom/lives/entendendo-a-estrutura-de-tokens-jwt-criando-a-sua-propria-implementacao "#001") ![](https://geps.dev/progress/100)
+* ⭐ [#001 - Entendendo a estrutura de tokens JWT criando a sua própria implementação](https://app.jstack.com.br/classroom/lives/entendendo-a-estrutura-de-tokens-jwt-criando-a-sua-propria-implementacao "#001") ![](https://geps.dev/progress/100)
 * [#006 - Autenticação JWT em APIs Node.js](https://app.jstack.com.br/classroom/lives/autenticacao-jwt-em-apis-node-js "#006") ![](https://geps.dev/progress/100)
-* [#015 - Implementando Refresh Tokens em APIs Node.js](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015") ![](https://geps.dev/progress/100)
+* ⭐ [#015 - Implementando Refresh Tokens em APIs Node.js](https://app.jstack.com.br/classroom/lives/implementando-refresh-tokens-em-apis-node-js "#015") ![](https://geps.dev/progress/100)
 
 ### RBAC
 
 * [#007 - Autorização baseada em Cargos (RBAC) em APIs Node.js](https://app.jstack.com.br/classroom/lives/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007") ![](https://geps.dev/progress/100)
-* [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008") ![](https://geps.dev/progress/100)
+* ⭐ [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/lives/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008") ![](https://geps.dev/progress/100)
 
 ## Banco de dados
 
-* [#035 - Database Design: modelando bancos de dados do jeito certo](https://app.jstack.com.br/classroom/lives/database-design-modelando-bancos-de-dados-do-jeito-certo "#035") ![](https://geps.dev/progress/100)
+* ⭐ [#035 - Database Design: modelando bancos de dados do jeito certo](https://app.jstack.com.br/classroom/lives/database-design-modelando-bancos-de-dados-do-jeito-certo "#035") ![](https://geps.dev/progress/100)
 
 ### SQL
 
-* [#023 - Esqueça os ORMs: vamos falar de SQL](https://app.jstack.com.br/classroom/lives/esqueca-os-orms-vamos-falar-de-sql "#023") ![](https://geps.dev/progress/100)
-* [#024 - SQL: Aggregate Functions, Views, Constraints e Keys](https://app.jstack.com.br/classroom/lives/sql-aggregate-functions-views-constraints-e-keys "#024") ![](https://geps.dev/progress/100)
-* [#025 - SQL: JOINS, JSON no Postgres e Índices](https://app.jstack.com.br/classroom/lives/sql-joins-json-no-postgres-e-indices "#025") ![](https://geps.dev/progress/100)
-* [#026 - SQL: Subqueries, Transactions e Triggers](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026") ![](https://geps.dev/progress/100)
+* ⭐ [#023 - Esqueça os ORMs: vamos falar de SQL](https://app.jstack.com.br/classroom/lives/esqueca-os-orms-vamos-falar-de-sql "#023") ![](https://geps.dev/progress/100)
+* ⭐ [#024 - SQL: Aggregate Functions, Views, Constraints e Keys](https://app.jstack.com.br/classroom/lives/sql-aggregate-functions-views-constraints-e-keys "#024") ![](https://geps.dev/progress/100)
+* ⭐ [#025 - SQL: JOINS, JSON no Postgres e Índices](https://app.jstack.com.br/classroom/lives/sql-joins-json-no-postgres-e-indices "#025") ![](https://geps.dev/progress/100)
+* ⭐ [#026 - SQL: Subqueries, Transactions e Triggers](https://app.jstack.com.br/classroom/lives/sql-subqueries-transactions-e-triggers "#026") ![](https://geps.dev/progress/100)
 
 ### DynamoDB
 
@@ -196,11 +196,11 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### CI/CD
 
-* [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
+* ⭐ [#005 - Pipeline de CI/CD com GitHub Actions e AWS CodeBuild](https://app.jstack.com.br/classroom/lives/pipeline-de-ci-cd-com-github-actions-e-aws-codebuild "#005") ![](https://geps.dev/progress/100)
 * [#042 - Otimizando, configurando CI/CD e publicando o UI Kit privado no GitHub Registry](https://app.jstack.com.br/classroom/lives/otimizando-configurando-ci-cd-e-publicando-o-ui-kit-privado-no-github-registry "#042") ![](https://geps.dev/progress/100)
 
 ## Arquitetura
 
-* [#059 - Inversion of Control, Dependency Injection e Dependency Inversion](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "#059") ![](https://geps.dev/progress/100)
-* [#064 - Construindo aplicações Multi-Tenant](https://app.jstack.com.br/classroom/lives/construindo-aplicacoes-multi-tenant "#064") | [Live no YouTube](https://youtube.com/live/cxwgXJimCWg?feature=share) ![](https://geps.dev/progress/0)
+* ⭐ [#059 - Inversion of Control, Dependency Injection e Dependency Inversion](https://app.jstack.com.br/classroom/lives/inversion-of-control-dependency-injection-e-dependency-inversion "#059") ![](https://geps.dev/progress/100)
+* ⭐ [#064 - Construindo aplicações Multi-Tenant](https://app.jstack.com.br/classroom/lives/construindo-aplicacoes-multi-tenant "#064") | [Live no YouTube](https://youtube.com/live/cxwgXJimCWg?feature=share) ![](https://geps.dev/progress/0)
 
