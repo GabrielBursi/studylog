@@ -114,7 +114,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Prototype
     - [x] Builder
   - GoF - Padrões de Estrutura
-    - [ ] Adapter
+    - [x] Adapter
     - [ ] Bridge
     - [ ] Composite
     - [ ] Flyweight
