@@ -51,7 +51,7 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 4. ✔ Animações com Reanimated
 5. ✔ Supabase (Backend)
 6. ✔ Arquitetura e Padrões de Projeto
-7. Autenticação e Formulários
+7. ✔ Autenticação e Formulários
 8. Testes de Unidade, Integração e Snapshot
 9. TanStack Query - Gerenciamento de Estado Assíncrono 
 
