@@ -26,6 +26,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#09 - Finalizando as rotas da API - PT2](https://www.youtube.com/live/JAJzGJLVPvw)
     - [#10 - CDN e Filas](https://www.youtube.com/live/zffrgGEKNaE)
     - [#11 - Processamento assíncrono com Filas](https://www.youtube.com/live/WR4M-R6YuCw)
+    - [#12 - Integrando com a IA](https://www.youtube.com/live/CF2KbIiNXoU)
 ## Lives
 
 ## *Sumário*
