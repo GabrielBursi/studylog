@@ -192,7 +192,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [Serverless Framework: Do Zero ao Deploy na AWS com IaC](https://www.youtube.com/watch?v=5e0-h1mEyoE) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#012 - Introdução ao Serverless Framework](https://app.jstack.com.br/classroom/lives/introducao-ao-serverless-framework "#012") ![](https://geps.dev/progress/100)
 * [#065 - Dominando o Serverless Framework](https://youtube.com/live/4yw5Lm-y8U4?feature=share "#065") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
-* [#039 - Serviço de geração de relatórios assíncrono com Serverless Framework](https://app.jstack.com.br/classroom/lives/servico-de-geracao-de-relatorios-assincrono-com-serverless-framework "#039") ![](https://geps.dev/progress/0)
+* ⭐ [#039 - Serviço de geração de relatórios assíncrono com Serverless Framework](https://app.jstack.com.br/classroom/lives/servico-de-geracao-de-relatorios-assincrono-com-serverless-framework "#039") ![](https://geps.dev/progress/31)
 * ⭐ [#055 - Criando um template de API com Serverless Framework e Middy](https://app.jstack.com.br/classroom/lives/criando-um-template-de-api-com-serverless-framework-e-middy "#055") ![](https://geps.dev/progress/100)
 
 ### CI/CD
