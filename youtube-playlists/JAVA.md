@@ -16,7 +16,7 @@
 
 ## Java Avançado
 
-* [Coding with John Tutorials](https://www.youtube.com/playlist?list=PLkeaG1zpPTHhXOfy-mFbdqd1Zz4GnjcpC) ![](https://geps.dev/progress/38)
+* [Coding with John Tutorials](https://www.youtube.com/playlist?list=PLkeaG1zpPTHhXOfy-mFbdqd1Zz4GnjcpC) ![](https://geps.dev/progress/52)
 * [Java para pessoas burras](https://www.youtube.com/playlist?list=PLUPgTAVftApzKsUkGkPLivAZAfeBMn24h) ![](https://geps.dev/progress/0)
 * [JAVA Intermediário | Estruturas de dados, Generics, Packages](https://www.youtube.com/watch?v=jLropHUgI1A&list=WL&index=10) ![](https://geps.dev/progress/100)
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/33)
