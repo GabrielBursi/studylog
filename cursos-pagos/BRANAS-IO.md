@@ -117,7 +117,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Adapter
     - [x] Bridge
     - [ ] Composite
-    - [ ] Flyweight
+    - [x] Flyweight
     - [ ] Facade
     - [ ] Proxy
     - [ ] Decorator
