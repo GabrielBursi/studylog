@@ -28,13 +28,16 @@
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/0)
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP) ![](https://geps.dev/progress/0)
 * [Desafios Leetcode](https://www.youtube.com/playlist?list=PLiFLtuN04BS0pG0YoIMjgYsj0LM4sVOTM) ![](https://geps.dev/progress/0)
+* [Design Patterns](https://www.youtube.com/playlist?list=PL0D5C4QG6iBraIpMd6npjLbwZ8kkQDlRp) ![](https://geps.dev/progress/0)
 
 ## Spring Boot
 
 * [Spring Boot do Zero | Aprenda java com Naruto (2025)](https://www.youtube.com/watch?v=n8_qrrc8WN4) ✔
 * [Spring Boot Annotations | +30 anotações na prática](https://www.youtube.com/watch?v=Pd5tr483No0) ✔
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)  ✔
+* [Spring Framework](https://www.youtube.com/playlist?list=PL0D5C4QG6iBrNBMMc4VX0JN1EocGVPQbs) ![](https://geps.dev/progress/100)
 * [Spring Boot 4 Basics With Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCQ3V9U0aJOfhgjeKVuznat0) ![](https://geps.dev/progress/100)
+* [Spring Data JPA](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqOcYon1o8CIS5BzoZUTIFm) ![](https://geps.dev/progress/0)
 * [Springboot / Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSdnQHAHVmGmO7HA6S4a2W3) ![](https://geps.dev/progress/0)
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) ![](https://geps.dev/progress/100)
 * [REST with SpringBoot](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLNOQXYktYyWyMp7Y3TuGa6) ![](https://geps.dev/progress/100)
@@ -46,6 +49,9 @@
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) ![](https://geps.dev/progress/0)
 * [Segurança](https://www.youtube.com/playlist?list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ) ![](https://geps.dev/progress/0)
 * [Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) ![](https://geps.dev/progress/0)
+* [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/0)
+* [Spring Cloud](https://www.youtube.com/playlist?list=PL0D5C4QG6iBobxxUR9wtcylLm36ER6iqI) ![](https://geps.dev/progress/0)
+* [Minicurso Spring Cache + Redis](https://www.youtube.com/playlist?list=PL0D5C4QG6iBpTgwkzmGfp68hcKm8AER8s) ![](https://geps.dev/progress/0)
 
 ## Arquitetura
 
