@@ -27,6 +27,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#10 - CDN e Filas](https://www.youtube.com/live/zffrgGEKNaE)
     - [#11 - Processamento assíncrono com Filas](https://www.youtube.com/live/WR4M-R6YuCw)
     - [#12 - Integrando com a IA](https://www.youtube.com/live/CF2KbIiNXoU)
+    - [#13 - Iniciando o aplicativo mobile](https://www.youtube.com/live/tujeLdzfGNE)
 ## Lives
 
 ## *Sumário*
