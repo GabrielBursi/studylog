@@ -36,7 +36,7 @@
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)  ✔
 * [Spring Framework](https://www.youtube.com/playlist?list=PL0D5C4QG6iBrNBMMc4VX0JN1EocGVPQbs) ![](https://geps.dev/progress/100)
 * [Spring Boot 4 Basics With Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCQ3V9U0aJOfhgjeKVuznat0) ![](https://geps.dev/progress/100)
-* [Spring Data JPA](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqOcYon1o8CIS5BzoZUTIFm) ![](https://geps.dev/progress/0)
+* [Spring Data JPA](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqOcYon1o8CIS5BzoZUTIFm) ![](https://geps.dev/progress/31)
 * [Springboot / Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSdnQHAHVmGmO7HA6S4a2W3) ![](https://geps.dev/progress/0)
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) ![](https://geps.dev/progress/100)
 * [REST with SpringBoot](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLNOQXYktYyWyMp7Y3TuGa6) ![](https://geps.dev/progress/100)
