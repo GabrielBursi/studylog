@@ -6,7 +6,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 ## Formação Fullstack
 
 * Node.js ![](https://geps.dev/progress/100)
-* React ![](https://geps.dev/progress/62)
+* React ![](https://geps.dev/progress/75)
 * React Native ![](https://geps.dev/progress/100)
 
 ## Projetos
