@@ -47,7 +47,7 @@
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) ![](https://geps.dev/progress/0)
 * [Segurança](https://www.youtube.com/playlist?list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ) ![](https://geps.dev/progress/0)
 * [Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) ![](https://geps.dev/progress/0)
-* [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/0)
+* [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
 * [Spring Cloud](https://www.youtube.com/playlist?list=PL0D5C4QG6iBobxxUR9wtcylLm36ER6iqI) ![](https://geps.dev/progress/0)
 * [Minicurso Spring Cache + Redis](https://www.youtube.com/playlist?list=PL0D5C4QG6iBpTgwkzmGfp68hcKm8AER8s) ![](https://geps.dev/progress/0)
 
@@ -58,7 +58,7 @@
 * [Arquitetura](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GgaNxjbuJlM11FQbvBTtt) ![](https://geps.dev/progress/0)
 * [Microserviços](https://www.youtube.com/playlist?list=PLiFLtuN04BS2pgvdO2W7s6HEGhNojtk0F) ![](https://geps.dev/progress/0)
 * [Da Arquitetura ao Deploy](https://www.youtube.com/playlist?list=PLiFLtuN04BS1c-JvhKFxYyeD-GVtnwUcx) ![](https://geps.dev/progress/0)
-* [Design Patterns](https://www.youtube.com/playlist?list=PL0D5C4QG6iBraIpMd6npjLbwZ8kkQDlRp) ![](https://geps.dev/progress/75)
+* [Design Patterns](https://www.youtube.com/playlist?list=PL0D5C4QG6iBraIpMd6npjLbwZ8kkQDlRp) ![](https://geps.dev/progress/100)
 
 ## Testes unitários
 
