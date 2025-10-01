@@ -29,6 +29,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#12 - Integrando com a IA](https://www.youtube.com/live/CF2KbIiNXoU)
     - [#13 - Iniciando o aplicativo mobile](https://www.youtube.com/live/tujeLdzfGNE)
     - [#14 - Form de login e navegação](https://www.youtube.com/live/hknge-wNqIk)
+    - [#15 - Criando a navegação e as telas do Onboarding](https://www.youtube.com/live/6Q-hfVJPmWo)
 ## Lives
 
 ## *Sumário*
