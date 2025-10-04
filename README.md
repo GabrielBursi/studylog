@@ -39,8 +39,8 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 📚 [Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados](https://www.amazon.com.br/Criando-Microsservi%C3%A7os-Projetando-Componentes-Especializados/dp/6586057884)
 * 📚 [Migrando Sistemas Monolíticos Para Microsserviços: Padrões Evolutivos Para Transformar seu Sistema Monolítico](https://www.amazon.com.br/Migrando-Sistemas-Monol%C3%ADticos-Para-Microsservi%C3%A7os/dp/6586057043)
 * 📚 [Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
-* 📚 [Fundamentos da Arquitetura de Software: uma Abordagem de Engenharia](https://www.amazon.com.br/dp/8550819859)
-* 📖 [Domain-driven Design Destilado](https://www.amazon.com.br/dp/8550821241)
+* 📖 [Fundamentos da Arquitetura de Software: uma Abordagem de Engenharia](https://www.amazon.com.br/dp/8550819859)
+* ✅ [Domain-driven Design Destilado](https://www.amazon.com.br/dp/8550821241)
 
 ### `/projetos-pessoais`
 
