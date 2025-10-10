@@ -87,3 +87,4 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [React](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/REACT.md)
 * [React Native](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/REACTNATIVE.md)
 * [TypeScript](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/TYPESCRIPT.md)
+* [IA](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/IA.md)
