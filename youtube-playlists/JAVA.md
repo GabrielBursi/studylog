@@ -40,7 +40,7 @@
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) ![](https://geps.dev/progress/100)
 * [REST with SpringBoot](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLNOQXYktYyWyMp7Y3TuGa6) ![](https://geps.dev/progress/100)
 * [Spring Boot 2 - Sua Primeira API REST 2021](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkXwPerFo4ZDFEessyNJW1ol) ![](https://geps.dev/progress/0)
-* [Spring 6 and Spring Boot](https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF) ![](https://geps.dev/progress/0)
+* [Spring 6 and Spring Boot](https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF) ![](https://geps.dev/progress/23)
 * [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLzUMQwCOrQTksiYqoumAQxuhPNa3HqasL) ![](https://geps.dev/progress/0)
 * [Curso Completo Spring Boot 3](https://www.youtube.com/watch?v=wlYvA2b1BWI) ![](https://geps.dev/progress/50)
 * [Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb) ![](https://geps.dev/progress/41)
