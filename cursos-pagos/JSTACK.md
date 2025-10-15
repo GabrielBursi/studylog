@@ -30,6 +30,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#13 - Iniciando o aplicativo mobile](https://www.youtube.com/live/tujeLdzfGNE)
     - [#14 - Form de login e navegação](https://www.youtube.com/live/hknge-wNqIk)
     - [#15 - Criando a navegação e as telas do Onboarding](https://www.youtube.com/live/6Q-hfVJPmWo)
+    - [#16 - Steps do Onboarding + Integração com Hook Form](https://www.youtube.com/live/2J21pxY7nSI)
 ## Lives
 
 ## *Sumário*
