@@ -13,8 +13,5 @@
 * [Arch DDD Nestjs](https://www.youtube.com/playlist?list=PL0EjZr3fsjRiaHA1uVmE-CW8H-48HD6mG) ![](https://geps.dev/progress/0)
 * [Nest.js Arquitetura](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdbG-uDqNRtuHeCd9x0X_p5) ![](https://geps.dev/progress/0)
 
-## Testes
-* [TDD](https://www.youtube.com/watch?v=vN7kbukATzE)
-
 ## Dicas
 * [NestJS](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) ![](https://geps.dev/progress/0)
