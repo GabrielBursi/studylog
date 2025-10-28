@@ -46,7 +46,7 @@
 * [Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb) ![](https://geps.dev/progress/41)
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) ![](https://geps.dev/progress/50)
 * [Segurança](https://www.youtube.com/playlist?list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ) ![](https://geps.dev/progress/0)
-* [Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) ![](https://geps.dev/progress/0)
+* [Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) ![](https://geps.dev/progress/100)
 * [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
 * [Spring Cloud](https://www.youtube.com/playlist?list=PL0D5C4QG6iBobxxUR9wtcylLm36ER6iqI) ![](https://geps.dev/progress/0)
 * [Minicurso Spring Cache + Redis](https://www.youtube.com/playlist?list=PL0D5C4QG6iBpTgwkzmGfp68hcKm8AER8s) ![](https://geps.dev/progress/0)
