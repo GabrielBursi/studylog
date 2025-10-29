@@ -134,7 +134,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Template Method
     - [ ] Visitor
   - POEAA
-    - [ ] Repository
+    - [x] Repository
 ### TypeScript Masterclass
   - [ ] TypeScript - Parte 1
   - [ ] TypeScript - Parte 2
