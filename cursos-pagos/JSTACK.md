@@ -33,6 +33,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#16 - Steps do Onboarding + Integração com Hook Form](https://www.youtube.com/live/2J21pxY7nSI)
     - [#17 - Integrando os formulários de SignIn e SignUp](https://www.youtube.com/live/YKq5NAHD7dQ)
     - [#18 - Implementando a Autenticação](https://www.youtube.com/live/MlG5yn0hdQ0)
+    - [#19 - Finalizando a autenticação](https://www.youtube.com/live/oiqC4WeVtxk)
 ## Lives
 
 ## *Sumário*
