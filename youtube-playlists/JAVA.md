@@ -23,7 +23,7 @@
 * [Java avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) ![](https://geps.dev/progress/100)
 * [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
 * [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
-* [Concurrent Programming](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJDgOjsG3DbdTx0kmUhCWuy) ![](https://geps.dev/progress/0)
+* [Concurrent Programming](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJDgOjsG3DbdTx0kmUhCWuy) ![](https://geps.dev/progress/50)
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/33)
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP) ![](https://geps.dev/progress/0)
 * [Desafios Leetcode](https://www.youtube.com/playlist?list=PLiFLtuN04BS0pG0YoIMjgYsj0LM4sVOTM) ![](https://geps.dev/progress/0)
