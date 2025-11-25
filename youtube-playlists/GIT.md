@@ -15,6 +15,7 @@
 * [GitHub Actions: The Full Course](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY) ![](https://geps.dev/progress/0)
 * [Master GitHub Actions Tutorial](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ) ![](https://geps.dev/progress/0)
 * [GitHub: Build a DevSecOps Pipeline](https://www.youtube.com/playlist?list=PLrsbMazVPK_pt9u_PiTGAb3s9aw8ashvQ) ![](https://geps.dev/progress/0)
+* [GitHub Actions Tutorial](https://www.youtube.com/playlist?list=PLdsu0umqbb8PQC4AhdbC97DtyZ9eI1qKG) ![](https://geps.dev/progress/0)
 
 ## Git Lens
 
