@@ -3,11 +3,14 @@
 * [Linux: O que é e para que serve](https://www.youtube.com/watch?v=1qYRPEdHuxs)
 * [Curso de Linux - Primeiros Passos (Curso em Vídeo)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
 * [Aprenda Linux - Conteúdo para iniciantes](https://www.youtube.com/playlist?list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj)
+* [Linux Avançado](https://www.youtube.com/playlist?list=PLZsjaJhVZaxUc7E4r_a00XJejNelUZLjD)
 
 ## 💻 Terminal e Shell
 
 * [Curso de Terminal Linux](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt)
 * [Curso de Linux Avançado Terminal](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp)
+* [Curso de Terminal Linux - Bash](https://www.youtube.com/playlist?list=PLZsjaJhVZaxVoF7boPIXE_GGNI6iwt947)
+* [Shell Script Avançado](https://www.youtube.com/playlist?list=PLZsjaJhVZaxVrXz0NpnzzNnfcv5zKye2a)
 
 ## 🧰 Administração e Ferramentas
 
