@@ -23,6 +23,8 @@
 * [Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf)
 * [Interview](https://www.youtube.com/playlist?list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8)
 * [Interview Guide: System Design](https://www.youtube.com/playlist?list=PLlsmxlJgn1HIhTGsiR3S2p0PQTpoQd46c)
+* [System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [System Design](https://www.youtube.com/playlist?list=PLdNCznBZ77NriBGbbHTdM34cvx7dLKi-_)
 
 ## Clean Arch
 
@@ -52,6 +54,7 @@
 ## Hexagonal Arch
 * [Hexagonal Architecture](https://www.youtube.com/playlist?list=PL18L3lKMddFq-3f7DcSrqa_pTKfoh-D5h)
 * [Minha Playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKc6Q0-WqHd_gA9KSMoa1iEw)
+* [hexagonal architecture](https://www.youtube.com/playlist?list=PLQ6OepJYjcgpS8ZydkHL0EO6OamHPIpdo)
 
 ## SOLID
 * [Dominando os Princípios SOLID: Um Guia Completo!](https://www.youtube.com/playlist?list=PLNHxHgB-_LTtxnX6ILHDBpY6hCuzBwlrW)
