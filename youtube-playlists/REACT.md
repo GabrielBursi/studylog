@@ -1,6 +1,8 @@
 * [Advanced React course](https://www.youtube.com/playlist?list=PL6dw1BPCcLC4n-4o-t1kQZH0NJeZtpmGp) ![](https://geps.dev/progress/0)
 * [React Design Patterns](https://www.youtube.com/playlist?list=PLIJrr73KDmRyQVT__uFZvaVfWPdfyMFHC) ![](https://geps.dev/progress/0)
+* [React Design Patterns](https://www.youtube.com/playlist?list=PLApy4UwQM3Updrw-4mOXTwgsWar9bqk6i) ![](https://geps.dev/progress/0)
 * [Curso base de React 2025](https://www.youtube.com/playlist?list=PL29TaWXah3iYzP5FGywXezXm4ZvBibGSk) ![](https://geps.dev/progress/0)
 * [REACT PATTERNS](https://www.youtube.com/playlist?list=PLqYy1yOe0SKcxRj7Op7Oa9q48_hM1x8pN) ![](https://geps.dev/progress/0)
 * [React 19](https://www.youtube.com/playlist?list=PLIJrr73KDmRw-T8bdJn3XxVMbH-zlooKb) ![](https://geps.dev/progress/0)
 * [REACT TESTES](https://www.youtube.com/playlist?list=PLqYy1yOe0SKfBrCPS84N_LvgK33ehCcbO) ![](https://geps.dev/progress/0)
+
