@@ -6,3 +6,5 @@
 * [React 19](https://www.youtube.com/playlist?list=PLIJrr73KDmRw-T8bdJn3XxVMbH-zlooKb) ![](https://geps.dev/progress/0)
 * [REACT TESTES](https://www.youtube.com/playlist?list=PLqYy1yOe0SKfBrCPS84N_LvgK33ehCcbO) ![](https://geps.dev/progress/0)
 * [Testes no Frontend](https://www.youtube.com/playlist?list=PLzILwKck99iYLWGii2eGA_PiV44gwD611) ![](https://geps.dev/progress/0)
+* [Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLohz54DLfinJeHi7DrHGT2_U) ![](https://geps.dev/progress/0)
+
