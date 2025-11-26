@@ -5,4 +5,4 @@
 * [REACT PATTERNS](https://www.youtube.com/playlist?list=PLqYy1yOe0SKcxRj7Op7Oa9q48_hM1x8pN) ![](https://geps.dev/progress/0)
 * [React 19](https://www.youtube.com/playlist?list=PLIJrr73KDmRw-T8bdJn3XxVMbH-zlooKb) ![](https://geps.dev/progress/0)
 * [REACT TESTES](https://www.youtube.com/playlist?list=PLqYy1yOe0SKfBrCPS84N_LvgK33ehCcbO) ![](https://geps.dev/progress/0)
-
+* [Testes no Frontend](https://www.youtube.com/playlist?list=PLzILwKck99iYLWGii2eGA_PiV44gwD611) ![](https://geps.dev/progress/0)
