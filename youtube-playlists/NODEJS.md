@@ -5,3 +5,5 @@
 * [DO ZERO A PRODUÇÃO](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh)
 * [Event Loop](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
 * [Node](https://www.youtube.com/playlist?list=PL85ITvJ7FLogNHtbfjISMtEk_WepbGMO6)
+* [Node.js Design Patterns](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6VztyaXV744eAe2X8Eczar)
+
