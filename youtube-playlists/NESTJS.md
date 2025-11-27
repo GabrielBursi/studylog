@@ -8,6 +8,7 @@
 ## Avançado
 * [Nest JS Advanced Course](https://www.youtube.com/playlist?list=PLT5Jhb7lgSBO9QxATpVy0xyiMyn1fSCCx) ![](https://geps.dev/progress/0)
 * [NestJS - Progressive Node.js framework](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD) ![](https://geps.dev/progress/0)
+* [NestJS - Zero To Hero](https://www.youtube.com/playlist?list=PLYKrhXPJGKlcWqAVS3B84lYvQC7gO6AlU) ![](https://geps.dev/progress/0)
 
 ## Arquitetura
 * [Arch DDD Nestjs](https://www.youtube.com/playlist?list=PL0EjZr3fsjRiaHA1uVmE-CW8H-48HD6mG) ![](https://geps.dev/progress/0)
