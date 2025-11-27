@@ -75,6 +75,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [Docker](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/DOCKER.md)
 * [Estrutura de Dados](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/ESTRUTURA-DE-DADOS.md)
 * [Git](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/GIT.md)
+* [GraphQL](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/GRAPHQL.md)
 * [Infra](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/INFRA.md)
 * [Java](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/JAVA.md)
 * [Kafka](https://github.com/GabrielBursi/studylog/blob/main/youtube-playlists/KAFKA.md)
