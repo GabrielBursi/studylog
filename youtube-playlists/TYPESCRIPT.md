@@ -1,1 +1,5 @@
 * [TypeScript](https://www.youtube.com/playlist?list=PL85ITvJ7FLohXigfxBqzpZxzRG8TaRSj2)
+* [Advanced TypeScript](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b)
+* [Curso: TypeScript - Zero to Hero](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H)
+* [Totally TypeScript](https://github.com/GabrielBursi/studylog/edit/main/youtube-playlists/TYPESCRIPT.md)
+* [TypeScript Narrowing](https://www.youtube.com/playlist?list=PLLbNB9i2QOKMgZN0qkSaXqq1SIRs-mU7X)
