@@ -120,7 +120,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [x] Flyweight
     - [ ] Facade
     - [ ] Proxy
-    - [ ] Decorator
+    - [x] Decorator
   - GoF - Padrões de Comportamento
     - [ ] Chain of Responsibility
     - [ ] Command
