@@ -34,6 +34,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#17 - Integrando os formulários de SignIn e SignUp](https://www.youtube.com/live/YKq5NAHD7dQ)
     - [#18 - Implementando a Autenticação](https://www.youtube.com/live/MlG5yn0hdQ0)
     - [#19 - Finalizando a autenticação](https://www.youtube.com/live/oiqC4WeVtxk)
+    - [#20 - Criando a tela inicial do app](https://www.youtube.com/live/AOWNfJcRVXc)
 ## Lives
 
 ## *Sumário*
