@@ -35,6 +35,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#18 - Implementando a Autenticação](https://www.youtube.com/live/MlG5yn0hdQ0)
     - [#19 - Finalizando a autenticação](https://www.youtube.com/live/oiqC4WeVtxk)
     - [#20 - Criando a tela inicial do app](https://www.youtube.com/live/AOWNfJcRVXc)
+    - [#21 - Criando os modais de foto e áudio](https://www.youtube.com/live/FWvpYjZffwg)
 ## Lives
 
 ## *Sumário*
