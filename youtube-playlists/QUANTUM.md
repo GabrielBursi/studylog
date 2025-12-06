@@ -1,0 +1,1 @@
+- [Quantum Computing Essentials](https://www.youtube.com/playlist?list=PLOspHqNVtKADPNAxbcP2u6CPzD1g_bBhe)
