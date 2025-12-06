@@ -1,3 +1,8 @@
+## Fundamentos
+- [Understanding AI Models](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0)
+- [Large Language Models and Chatbots](https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c)
+- [AI Ethics and Governance](https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCiM)
+
 ## Claude Code
 - [Claude Code Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
 - [Claude Code - Zero to Hero](https://www.youtube.com/playlist?list=PL81-GNy6mS5BYdHjhmsIi0PNlexXXCu9J)
