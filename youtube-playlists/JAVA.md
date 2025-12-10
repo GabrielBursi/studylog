@@ -28,7 +28,7 @@
 
 ## Data Structures
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/100)
-* [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8) ![](https://geps.dev/progress/44)
+* [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8) ![](https://geps.dev/progress/70)
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP) ![](https://geps.dev/progress/0)
 * [Desafios Leetcode](https://www.youtube.com/playlist?list=PLiFLtuN04BS0pG0YoIMjgYsj0LM4sVOTM) ![](https://geps.dev/progress/0)
 
