@@ -5,6 +5,7 @@
 * [Curso de Introdução à Tecnologia Blockchain](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMO6PpuBCSXRxRAlI0-Dbmlg) ![](https://geps.dev/progress/0)
 * [Curso de Ethereum para Iniciantes](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOIDGCgx-VgezTvvXXoI17l) ![](https://geps.dev/progress/0)
 * [Blockchain](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0hRfnjfcg0f9rc0lleY28O) ![](https://geps.dev/progress/0)
+* [Build a Blockchain from Scratch with Rust](https://www.youtube.com/playlist?list=PLVX4xVoD65UOKf2_UMyZ_Dmgm5rb7COPY)
 
 ## Solidity
 
