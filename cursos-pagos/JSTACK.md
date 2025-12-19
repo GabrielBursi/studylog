@@ -37,6 +37,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [#20 - Criando a tela inicial do app](https://www.youtube.com/live/AOWNfJcRVXc)
     - [#21 - Criando os modais de foto e áudio](https://www.youtube.com/live/FWvpYjZffwg)
     - [#22 - Finalizando os modais](https://www.youtube.com/live/FLnxeTDQyRM)
+    - [#23 - Finalizando o app!](https://www.youtube.com/live/lv9l9HgmhyU)
 ## Lives
 
 ## *Sumário*
