@@ -71,6 +71,7 @@
 
 ## Microservices
 * [Master Microservices Communication](https://www.youtube.com/playlist?list=PLnsTzQ998QGRLpn7AlcCK6oVBLek_QHK0)
+* [Microservices Patterns](https://www.youtube.com/playlist?list=PL8iIphQOyG-CnURJRh-IgZHKafiMgNaNU)
 
 ## Frontend
 * [Top Frontend Interview Questions](https://www.youtube.com/playlist?list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G)
