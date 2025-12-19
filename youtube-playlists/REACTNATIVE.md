@@ -1,6 +1,13 @@
 - [RNI - REACT NATIVE PARA INICIANTES](https://www.youtube.com/playlist?list=PLA_K-zlYnxfvNuGtKO_2iXIUQeIPiORbY)
 - [React Native for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OH3xackTS2KLcnmxx5wW7c)
 - [Curso base de React Native 2025](https://www.youtube.com/playlist?list=PL29TaWXah3ibI0ewWkI7xMI952wHEaFTK)
+- [Curso Teste no React Native](https://www.youtube.com/playlist?list=PLn1L40VzKSVJgia8TV7G_Ly22gbHvTASt)
+- [Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLojFdFRbuKt0lsx08ADCEPRu)
+- [Expo React Native](https://www.youtube.com/playlist?list=PL5S4mPUpp4OsrbRTx21k34aACOgpqQGlx)
+- [Expo Router](https://www.youtube.com/playlist?list=PLY3ncAV1dSVAz8YTN14WqV4PnchYsbjVe)
+- [Expo](https://www.youtube.com/playlist?list=PLY3ncAV1dSVDPGtfvVhiD9W9eOtRERaaE)
+- [EAS Tutorial Series](https://www.youtube.com/playlist?list=PLsXDmrmFV_AS14tZCBin6m9NIS_VCUKe2)
+- [Expo Router Tutorial](https://www.youtube.com/playlist?list=PLsXDmrmFV_AT17JDf-otXSNE_eH7s0uDD)
 
 ## React Native na veia
 - [Módulo 01](https://www.youtube.com/playlist?list=PLA_K-zlYnxfuC2vjllChSHx__m9-_DSJ2)
@@ -12,3 +19,4 @@
 - [Módulo 07](https://www.youtube.com/playlist?list=PLA_K-zlYnxfvrvYEcCgL7ysn6e6wPhwAV)
 - [Módulo 08](https://www.youtube.com/playlist?list=PLA_K-zlYnxftMygcc8es4MuF8GExb_orJ)
 - [Módulo 09](https://www.youtube.com/playlist?list=PLA_K-zlYnxfteAZUc-G0TxJlbyxzYWLBM)
+
