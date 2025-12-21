@@ -7,4 +7,5 @@
 * [REACT TESTES](https://www.youtube.com/playlist?list=PLqYy1yOe0SKfBrCPS84N_LvgK33ehCcbO) ![](https://geps.dev/progress/0)
 * [Testes no Frontend](https://www.youtube.com/playlist?list=PLzILwKck99iYLWGii2eGA_PiV44gwD611) ![](https://geps.dev/progress/0)
 * [Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLohz54DLfinJeHi7DrHGT2_U) ![](https://geps.dev/progress/0)
-
+* [Playwright + React Crash Course](https://www.youtube.com/playlist?list=PL62km_yqC3ZGHc3qO_CGlvV8bPzt1VZ12)
+* [Playwright Beginner Tutorials](https://www.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0Z8)
