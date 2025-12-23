@@ -62,7 +62,7 @@
 * [Monolith to Microservices](https://www.youtube.com/playlist?list=PLiFLtuN04BS0wyXpouLKYv2dE8KbUA1Hv) ![](https://geps.dev/progress/100)
 * [Arquitetura](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GgaNxjbuJlM11FQbvBTtt) ![](https://geps.dev/progress/100)
 * [Microserviços](https://www.youtube.com/playlist?list=PLiFLtuN04BS2pgvdO2W7s6HEGhNojtk0F) ![](https://geps.dev/progress/0)
-* [Da Arquitetura ao Deploy](https://www.youtube.com/playlist?list=PLiFLtuN04BS1c-JvhKFxYyeD-GVtnwUcx) ![](https://geps.dev/progress/0)
+* [Da Arquitetura ao Deploy](https://www.youtube.com/playlist?list=PLiFLtuN04BS1c-JvhKFxYyeD-GVtnwUcx) ![](https://geps.dev/progress/14)
 * [Design Patterns](https://www.youtube.com/playlist?list=PL0D5C4QG6iBraIpMd6npjLbwZ8kkQDlRp) ![](https://geps.dev/progress/100)
 
 ## Testes unitários
