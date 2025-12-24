@@ -25,6 +25,7 @@
 * [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
 * [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
 * [Concurrency and Multithreading](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) ![](https://geps.dev/progress/0)
+* [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
 
 ## Data Structures
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/100)
@@ -51,7 +52,6 @@
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) ![](https://geps.dev/progress/50)
 * [Segurança](https://www.youtube.com/playlist?list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ) ![](https://geps.dev/progress/0)
 * [Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) ![](https://geps.dev/progress/100)
-* [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
 * [Spring Cloud](https://www.youtube.com/playlist?list=PL0D5C4QG6iBobxxUR9wtcylLm36ER6iqI) ![](https://geps.dev/progress/0)
 * [Minicurso Spring Cache + Redis](https://www.youtube.com/playlist?list=PL0D5C4QG6iBpTgwkzmGfp68hcKm8AER8s) ![](https://geps.dev/progress/0)
 * [Spring Batch Giuliana Bezerra](https://www.youtube.com/playlist?list=PLiFLtuN04BS07Yw7rnoz1ytWCLu8yteVv) ![](https://geps.dev/progress/50)
