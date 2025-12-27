@@ -3,6 +3,7 @@
 * [Git Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j2pbmcA93DR1A3m7VEgSxK) ![](https://geps.dev/progress/0)
 * [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) ![](https://geps.dev/progress/0)
 * [Curso de Git + GitHub](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV) ![](https://geps.dev/progress/0)
+* [Git Avançado](https://www.youtube.com/playlist?list=PLqYy1yOe0SKe7QpcbPCAAIfjPPuX9g9nb)
 
 ## Git Flow
 
