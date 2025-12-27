@@ -3,6 +3,7 @@
 - [Large Language Models and Chatbots](https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c)
 - [AI Ethics and Governance](https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCiM)
 - [LLM](https://www.youtube.com/playlist?list=PLJq-63ZRPdBu38EjXRXzyPat3sYMHbIWU)
+- [Machine Learning Basics](https://www.youtube.com/playlist?list=PLJq-63ZRPdBuo5zjv9bPNLIks4tfd0Pui)
 
 ## Claude Code
 - [Claude Code Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
