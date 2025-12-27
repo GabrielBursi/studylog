@@ -38,6 +38,7 @@
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLzYkqgWkHPKDpXETRRsFv2F9ht6XdAF3v)
 * [Minha playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdOEwsGQKBTt-0t2hP2Zfux)
 * [Full Cycle](https://www.youtube.com/playlist?list=PL5aY_NrL1rjs3zCr0gu5q1xYViuLUjTSI)
+* [DDD](https://www.youtube.com/playlist?list=PLJq-63ZRPdBu2Xp9FySm7EkXwUpWgptMv)
 
 ## Event Sourcing
 * [Descomplicando "Event Sourcing"](https://www.youtube.com/watch?v=f4GolIiNIvc&pp=ygUOZXZlbnQgc291cmNpbmc%3D)
@@ -72,6 +73,7 @@
 ## Microservices
 * [Master Microservices Communication](https://www.youtube.com/playlist?list=PLnsTzQ998QGRLpn7AlcCK6oVBLek_QHK0)
 * [Microservices Patterns](https://www.youtube.com/playlist?list=PL8iIphQOyG-CnURJRh-IgZHKafiMgNaNU)
+* [Microservices](https://www.youtube.com/playlist?list=PLJq-63ZRPdBsPWE24vdpmgeRFMRQyjvvj)
 
 ## Frontend
 * [Top Frontend Interview Questions](https://www.youtube.com/playlist?list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G)
