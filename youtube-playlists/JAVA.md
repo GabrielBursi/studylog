@@ -26,8 +26,8 @@
 * [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
 * [Concurrency and Multithreading](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) ![](https://geps.dev/progress/0)
 * [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
-* [Java Lambda Expressions](https://www.youtube.com/playlist?list=PLL8woMHwr36HQhhPPdV_T8rigbuywMpD7) ![](https://geps.dev/progress/0)
-* [Java Collections](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK) ![](https://geps.dev/progress/0)
+* [Java Lambda Expressions](https://www.youtube.com/playlist?list=PLL8woMHwr36HQhhPPdV_T8rigbuywMpD7) ![](https://geps.dev/progress/100)
+* [Java Collections](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK) ![](https://geps.dev/progress/55)
 
 ## Data Structures
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/100)
