@@ -22,7 +22,6 @@
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/100)
 * [JPA/Hibernate Fundamentals 2023](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6) ![](https://geps.dev/progress/0)
 * [Java avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) ![](https://geps.dev/progress/100)
-* [Aprendendo Java Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADISYlzI7POWQqYQ8x0VwNqh) ![](https://geps.dev/progress/0)
 * [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
 * [Concurrency and Multithreading](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) ![](https://geps.dev/progress/0)
 * [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
