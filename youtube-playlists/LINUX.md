@@ -39,3 +39,10 @@
 * [Qual a DIFERENÇA entre TODAS as INTERFACES do LINUX?](https://www.youtube.com/watch?v=bHI7xK6bjHw)
 * [Você (provavelmente) está usando o GNOME de forma "ERRADA"!](https://www.youtube.com/watch?v=5jzN0_UXNII)
 * [GNOME Desktop Customization](https://www.youtube.com/playlist?list=PLKopOf5__2tgsmnaWkgpazE6N6td3ykM0)
+
+## 🔷 Arch Linux
+
+* [Arch Linux - Minha Playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdf3AJSH38cxgpsGyv3Q2v3)
+* [ArchLinux - Tutoriais e Dicas](https://www.youtube.com/playlist?list=PLfuqw7RwG3jIvw1OfgzlaApFh4MPhgau_)
+* [Arch Linux](https://www.youtube.com/playlist?list=PL97nvoRkKCvkoyZUCeB59AMgqhkuEvXU3)
+* [Arch Linux + Hyprland](https://www.youtube.com/playlist?list=PL1KsXytEKnV7otDeQBbjLKqY-eIFDJpGM)
