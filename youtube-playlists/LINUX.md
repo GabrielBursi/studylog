@@ -16,7 +16,7 @@
 
 * [O melhor do mundo Linux e Open Source](https://www.youtube.com/playlist?list=PLZsjaJhVZaxVQB-WYWr0RQhOKN1hPYj84)
 
-## 🐧 Ubuntu
+## 🔸 Ubuntu
 
 * [Ubuntu (Linux) Complete Beginner's Guide](https://www.youtube.com/playlist?list=PLrW4kXWyzgoJgN3Ebo3LGoyJvNZiDMWi9)
 * [O Guia DEFINITIVO de UBUNTU para Devs Iniciantes](https://www.youtube.com/watch?v=epiyExCyb2s)
@@ -40,7 +40,7 @@
 * [Você (provavelmente) está usando o GNOME de forma "ERRADA"!](https://www.youtube.com/watch?v=5jzN0_UXNII)
 * [GNOME Desktop Customization](https://www.youtube.com/playlist?list=PLKopOf5__2tgsmnaWkgpazE6N6td3ykM0)
 
-## 🔷 Arch Linux
+## 🔹 Arch Linux
 
 * [Arch Linux - Minha Playlist](https://www.youtube.com/playlist?list=PLqYy1yOe0SKdf3AJSH38cxgpsGyv3Q2v3)
 * [ArchLinux - Tutoriais e Dicas](https://www.youtube.com/playlist?list=PLfuqw7RwG3jIvw1OfgzlaApFh4MPhgau_)
