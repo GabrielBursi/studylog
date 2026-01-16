@@ -59,6 +59,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 🚫 CargoTracker (Capítulo 7 do livro *"Domain-Driven Design"* de Eric Evans)
 * 🚫 Motor de regras comerciais (Capítulo 5 do livro *"Desenvolvimento Real de Software"*)
 * 🚫 Twootr (Capítulo 6 do livro *"Desenvolvimento Real de Software"*)
+* 🚫 CLI
 
 ### `/roadmaps`
 
