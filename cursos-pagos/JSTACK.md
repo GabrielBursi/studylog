@@ -53,7 +53,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 - **[Back-end](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#back-end)**
     - [JWT](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#jwt)
     - [RBAC](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#rbac)
-- **[Testes]((https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#testes))**
+- **[Testes](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#testes)**
 - **[Banco de dados](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#banco-de-dados)**
     - [SQL](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#sql)
     - [DynamoDB](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#dynamodb)
