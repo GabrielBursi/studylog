@@ -42,7 +42,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * 📚 [Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100)
 * ✅ [Fundamentos da Arquitetura de Software: uma Abordagem de Engenharia](https://www.amazon.com.br/dp/8550819859)
 * ✅ [Domain-driven Design Destilado](https://www.amazon.com.br/dp/8550821241)
-* 📖 [Arquitetura de Software: as Partes Difíceis: Análises Modernas de Trade-off Para Arquiteturas Distribuídas](https://www.amazon.com.br/dp/8550819840)
+* ✅ [Arquitetura de Software: as Partes Difíceis: Análises Modernas de Trade-off Para Arquiteturas Distribuídas](https://www.amazon.com.br/dp/8550819840)
 
 ### `/projetos-pessoais`
 
