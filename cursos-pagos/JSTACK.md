@@ -105,7 +105,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * ⭐ [#046 - Preparando apps React para produção: Code Splitting, Sentry, Clarity e +](https://app.jstack.com.br/classroom/courses/preparando-apps-react-para-producao-code-splitting-sentry-clarity-e-mais "#046") ![](https://geps.dev/progress/100)
 * [#062 - Construindo tabelas com React Table (TanStack)](https://app.jstack.com.br/classroom/courses/construindo-tabelas-com-react-table-tanstack "#062") | [Live no YouTube](https://youtube.com/live/5WVGv98FtKY?feature=share) ![](https://geps.dev/progress/100) 
 * [#066 - Dominando os React Hooks (Parte 1)](https://www.youtube.com/live/b-iDz0dkxHk "#066") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/100)
-* [#066.2 - Dominando os React Hooks (Parte 2)](https://www.youtube.com/live/AVTTf5kzkBM?feature=share "#066.2") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
+* [#066.2 - Dominando os React Hooks (Parte 2)](https://www.youtube.com/live/AVTTf5kzkBM?feature=share "#066.2") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/100)
 * [#067 - React Router v7](https://www.youtube.com/live/TybrZFVbUjU "#067") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 * [#067.2 - React Router v7](https://www.youtube.com/live/43qxvp178YE "#067.2") ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![](https://geps.dev/progress/0)
 
