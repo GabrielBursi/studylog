@@ -7,7 +7,7 @@
 * [Java para Devs. JavaScript](https://www.youtube.com/watch?v=HZgvr6Vtu-k) ![](https://geps.dev/progress/100)
 * [Definições](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) ![](https://geps.dev/progress/100)
 * [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) ![](https://geps.dev/progress/100)
-* [Java tutorial for beginners (2025)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc) ![](https://geps.dev/progress/0)
+* [Java tutorial for beginners (2025)](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc) ![](https://geps.dev/progress/100)
 
 ## Atualizações
 
