@@ -4,6 +4,7 @@
 * [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) ![](https://geps.dev/progress/0)
 * [Curso de Git + GitHub](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV) ![](https://geps.dev/progress/0)
 * [Git Avançado](https://www.youtube.com/playlist?list=PLqYy1yOe0SKe7QpcbPCAAIfjPPuX9g9nb)
+* [Intro to Git](https://www.youtube.com/playlist?list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU)
 
 ## Git Flow
 
