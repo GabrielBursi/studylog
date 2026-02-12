@@ -28,6 +28,7 @@
 * [Java Lambda Expressions](https://www.youtube.com/playlist?list=PLL8woMHwr36HQhhPPdV_T8rigbuywMpD7) ![](https://geps.dev/progress/100)
 * [Java Collections](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK) ![](https://geps.dev/progress/55)
 
+
 ## Data Structures
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/100)
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8) ![](https://geps.dev/progress/70)
@@ -81,4 +82,6 @@
 * [CRUD Java com Spring Boot 2025](https://www.youtube.com/watch?v=yW7RrWfUeHE) ![](https://geps.dev/progress/0)
 * [Curso Spring Boot e Spring Security](https://www.youtube.com/playlist?list=PL0j7juv7l4HiYwauxU4CZAEXT3mi2loMb) ![](https://geps.dev/progress/0)
 * [REST and Microservices](https://www.youtube.com/playlist?list=PLq2IQ7nZjFRHSYY5W8fq6LEiD9A6dNmBG) ![](https://geps.dev/progress/0)
+
+## [Palestras](https://www.youtube.com/playlist?list=PLqYy1yOe0SKc6bPpwnZm60jOVycdCWR9J)
 
