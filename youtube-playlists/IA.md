@@ -10,6 +10,7 @@
 - [Claude Code - Zero to Hero](https://www.youtube.com/playlist?list=PL81-GNy6mS5BYdHjhmsIi0PNlexXXCu9J)
 - [Claude Code](https://www.youtube.com/playlist?list=PLrYvCXsKilY2Fn6Qe2T3-qp4F7-7eEXLd)
 - [Claude Code Masterclass: AI Coding Assistant Tutorials](https://www.youtube.com/playlist?list=PLm7xfhMOszqwW8iaG2crzPKErJA2eNfYV)
+- [Spec Driven Coding with Claude Code](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iq7jQNL4dp0DKAZOpciUKX)
 
 ## Gemini
 - [Gemini CLI Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h-AKdBSCRpqjD3y6T7Xgrb)
