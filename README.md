@@ -9,6 +9,7 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 * [Database Design](https://github.com/GabrielBursi/studylog/blob/main/artigos/DATABASE-DESIGN.md)
 * [Estrutura de Dados](https://github.com/GabrielBursi/studylog/blob/main/artigos/ESTRUTURA-DE-DADOS.md)
 * [Frontend](https://github.com/GabrielBursi/studylog/blob/main/artigos/FRONT-END.md)
+* [Java](https://github.com/GabrielBursi/studylog/blob/main/artigos/JAVA.md)
 * [Martin Fowler](https://github.com/GabrielBursi/studylog/blob/main/artigos/MARTIN-FOWLER.md)
 * [Padrões de desenvolvimento](https://github.com/GabrielBursi/studylog/blob/main/artigos/PADROES-DE-DESENVOLVIMENTO.md)
 
