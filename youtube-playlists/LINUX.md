@@ -12,6 +12,12 @@
 * [Curso de Terminal Linux - Bash](https://www.youtube.com/playlist?list=PLZsjaJhVZaxVoF7boPIXE_GGNI6iwt947)
 * [Shell Script Avançado](https://www.youtube.com/playlist?list=PLZsjaJhVZaxVrXz0NpnzzNnfcv5zKye2a)
 
+### 🪟 Tmux
+
+* [Learn tmux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe)
+* [TMUX and Terminal configuration](https://www.youtube.com/playlist?list=PLsz00TDipIfct4F3pHv6_uI9OyjphQEGZ)
+* [Tmux](https://www.youtube.com/playlist?list=PLmcTCfaoOo_iRfUCRaEnxnb1M1gIVm8uk)
+
 ## 🧰 Administração e Ferramentas
 
 * [O melhor do mundo Linux e Open Source](https://www.youtube.com/playlist?list=PLZsjaJhVZaxVQB-WYWr0RQhOKN1hPYj84)
