@@ -13,7 +13,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 * [WaiterApp](https://app.jstack.com.br/projects/waiterapp) ![](https://geps.dev/progress/20)
 * [Fincheck](https://app.jstack.com.br/projects/fincheck) ![](https://geps.dev/progress/38)
-* Foodiary ![](https://geps.dev/progress/0)          
+* [Foodiary](https://app.jstack.com.br/projects/foodiary) ![](https://geps.dev/progress/0)          
     ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
     - [#01 - System Design e Banco de Dados](https://www.youtube.com/live/_-WRSsdUMow)
     - [#02 - Banco de Dados e Definição de Tecnologias](https://www.youtube.com/live/SfGppmBNTVw)
