@@ -5,3 +5,4 @@
 * [5 Difference between Hashtable vs HashMap in Java?](https://www.java67.com/2012/08/5-difference-between-hashtable-hashmap-Java-collection.html)
 * [How HashSet works in Java](https://www.java67.com/2014/01/how-hashset-is-implemented-or-works-internally-java.html)
 * [Difference between Set, List and Map in Java - Interview question](https://www.java67.com/2013/01/difference-between-set-list-and-map-in-java.html)
+* [Data-Oriented Programming for Java: Beyond Records](https://openjdk.org/projects/amber/design-notes/beyond-records)
