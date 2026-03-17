@@ -20,12 +20,23 @@
 ### 📝 Vim
 
 * [Vim Beginners Guide](https://www.youtube.com/playlist?list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x)
+* [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
+* [Vim para aprender](https://www.youtube.com/playlist?list=PLXoSGejyuQGrTW2nahIoMEsy2MjJB_ckn)
+
+### ⚡ Neovim
+
+* [Understanding Neovim](https://www.youtube.com/playlist?list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft)
+* [Neovim from Scratch](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
+* [Neovim do Zero - 2023](https://www.youtube.com/playlist?list=PLRQTSis2KT5EWmfXKjcrrxTeFi-oxOHN4)
+* [Neovim for Newbs. FREE NEOVIM COURSE](https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn)
+* [Advent of Neovim](https://www.youtube.com/playlist?list=PLep05UYkc6wTyBe7kPjQFWVXTlhKeQejM)
 
 ### 🪟 Tmux
 
 * [Learn tmux](https://www.youtube.com/playlist?list=PLT98CRl2KxKGiyV1u6wHDV8VwcQdzfuKe)
 * [TMUX and Terminal configuration](https://www.youtube.com/playlist?list=PLsz00TDipIfct4F3pHv6_uI9OyjphQEGZ)
 * [Tmux](https://www.youtube.com/playlist?list=PLmcTCfaoOo_iRfUCRaEnxnb1M1gIVm8uk)
+* [Tmux for Newbs. FREE TMUX COURSE](https://www.youtube.com/playlist?list=PLsz00TDipIfdrJDjpULKY7mQlIFi4HjdR)
 
 ## 🧰 Administração e Ferramentas
 
