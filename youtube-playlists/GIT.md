@@ -6,6 +6,7 @@
 * [Git Avançado](https://www.youtube.com/playlist?list=PLqYy1yOe0SKe7QpcbPCAAIfjPPuX9g9nb)
 * [Intro to Git](https://www.youtube.com/playlist?list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU)
 * [Git Worktrees Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iUtQh7Aja3TGfbdd7Z-K0W)
+* [Git (DevOps Toolbox)](https://www.youtube.com/playlist?list=PLmcTCfaoOo_jP2mViI_3d1aZrbueLyArh)
 
 ## Git Flow
 
