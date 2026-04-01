@@ -2,3 +2,4 @@
 * [Next.js at Enterprise Level](https://techhub.iodigital.com/articles/nextjs-at-enterprise-level "Here’s how to take it to enterprise scale without rewriting everything: from caching and CDN to horizontal scaling, API gateways, and beyond.")
 * [Frontend Memory Leaks: A 500-Repository Static Analysis and Five-Scenario Benchmark Study](https://stackinsight.dev/blog/memory-leak-empirical-study/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2230)
 * [Micro Frontends: When They Make Sense and When They Don’t](https://lukasniessen.medium.com/micro-frontends-when-they-make-sense-and-when-they-dont-a1a06b726065)
+* [React Rendering Strategies](https://upskills.dev/tutorials/react-rendering-strategies)
