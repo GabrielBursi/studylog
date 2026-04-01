@@ -3,11 +3,15 @@
 O JStack é um curso de Node.js, React, React Native e TypeScript focado em te preparar para o mercado e ensinar de verdade como essas tecnologias funcionam.
 A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
-## Formação Fullstack
+## Formações
+### [Formação FullStack](https://app.jstack.com.br/trainings/formacao-full-stack)
 
 * Node.js ![](https://geps.dev/progress/100)
 * React ![](https://geps.dev/progress/87)
 * React Native ![](https://geps.dev/progress/100)
+
+### Formação TypeScript
+* [Primeiros passos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/primeiros-passos) ![](https://geps.dev/progress/0)
 
 ## Projetos
 
