@@ -11,7 +11,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * React Native ![](https://geps.dev/progress/100)
 
 ### Formação TypeScript
-* [Primeiros passos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/primeiros-passos) ![](https://geps.dev/progress/0)
+* [Primeiros passos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/primeiros-passos) ![](https://geps.dev/progress/100)
 
 ## Projetos
 
