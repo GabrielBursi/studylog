@@ -7,3 +7,8 @@
 * [Difference between Set, List and Map in Java - Interview question](https://www.java67.com/2013/01/difference-between-set-list-and-map-in-java.html)
 * [Data-Oriented Programming for Java: Beyond Records](https://openjdk.org/projects/amber/design-notes/beyond-records)
 * [The Ultimate 10 Years Java Garbage Collection Guide](https://foojay.io/today/the-ultimate-10-years-java-garbage-collection-guide-2016-2026-choosing-the-right-gc-for-every-workload/)
+  
+## Baeldung
+* [Java Concurrency Series](https://www.baeldung.com/java-concurrency)
+* [Java Collections Series](https://www.baeldung.com/java-collections)
+* [Java Streams Series](https://www.baeldung.com/java-streams)
