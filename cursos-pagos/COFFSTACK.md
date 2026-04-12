@@ -54,6 +54,6 @@ Aprenda a criar uma arquitetura que funciona em projetos reais! Use conceitos de
 7. ✔ Autenticação e Formulários
 8. ✔ Testes de Unidade, Integração e Snapshot
 9. TanStack Query - Gerenciamento de Estado Assíncrono
-10. EAS - Build e Publicação nas Lojas
+10. ✔ EAS - Build e Publicação nas Lojas
 11. CI/CD com EAS Workflows
 12. Testes E2E com Maestro
