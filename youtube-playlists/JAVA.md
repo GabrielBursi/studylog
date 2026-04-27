@@ -41,6 +41,7 @@
 * [Spring Boot do Zero | Aprenda java com Naruto (2025)](https://www.youtube.com/watch?v=n8_qrrc8WN4) ✔
 * [Spring Boot Annotations | +30 anotações na prática](https://www.youtube.com/watch?v=Pd5tr483No0) ✔
 * [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)  ✔
+* [Spring Boot na Prática: Projetos Reais do Zero](https://www.youtube.com/playlist?list=PLCUSYmPGwekepAli6UoI4dyxZ0_AtPK7f) ![](https://geps.dev/progress/0)
 * [Spring Framework](https://www.youtube.com/playlist?list=PL0D5C4QG6iBrNBMMc4VX0JN1EocGVPQbs) ![](https://geps.dev/progress/100)
 * [Spring Boot 4 Basics With Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCQ3V9U0aJOfhgjeKVuznat0) ![](https://geps.dev/progress/100)
 * [Spring Data JPA](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqOcYon1o8CIS5BzoZUTIFm) ![](https://geps.dev/progress/87)
