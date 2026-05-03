@@ -10,6 +10,7 @@
 
 - [What are Microservices?](https://www.geeksforgeeks.org/microservices/)
 - [Microservices podem não ser tudo aquilo que você esperava](https://www.branas.io/blog/microservices-podem-nao-ser-tudo-aquilo-que-voce-esperava.html)
+- [microservices.io](https://microservices.io/index.html)
 
 - Arquiteturas Orientadas a Eventos
   - [Pattern: Event-driven architecture](https://microservices.io/patterns/data/event-driven-architecture.html)
