@@ -12,3 +12,8 @@
 * [Normal Forms 1nf 2nf 3nf Table Examples](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)
 * [Introduction of Database Normalization](https://www.geeksforgeeks.org/introduction-of-database-normalization/)
 * [Description of the database normalization basics](https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description)
+
+## White Papers
+
+* [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf?utm_source=substack&utm_medium=email)
+* [Dynamo: Amazon’s Highly Available Key-value Store](https://allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf?utm_source=substack&utm_medium=email)
