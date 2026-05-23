@@ -17,3 +17,6 @@
 
 * [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf?utm_source=substack&utm_medium=email)
 * [Dynamo: Amazon’s Highly Available Key-value Store](https://allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf?utm_source=substack&utm_medium=email)
+
+## Indexes
+* [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
