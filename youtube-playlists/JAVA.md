@@ -21,6 +21,7 @@
 * [JAVA Intermediário | Estruturas de dados, Generics, Packages](https://www.youtube.com/watch?v=jLropHUgI1A&list=WL&index=10) ![](https://geps.dev/progress/100)
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/100)
 * [JPA/Hibernate Fundamentals 2023](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6) ![](https://geps.dev/progress/0)
+* [Mastering JDBC](https://www.youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG) ![](https://geps.dev/progress/0)
 * [Java avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) ![](https://geps.dev/progress/100)
 * [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
 * [Concurrency and Multithreading](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) ![](https://geps.dev/progress/0)
