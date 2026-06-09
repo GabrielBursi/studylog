@@ -69,3 +69,12 @@ Ao criar ou editar logs, siga os padrões já existentes no repositório:
 - Mensagens de commit seguem o padrão simples do histórico:
   `Update <ARQUIVO>.md` para edições, ou uma frase curta descrevendo a mudança.
 - Commits podem ser feitos diretamente na `main`.
+
+## Skills disponíveis
+
+Este projeto contém uma skill de projeto para auxiliar na organização dos arquivos:
+
+- **`.claude/skills/studylog-organizer/`** — Guia de formatação e organização dos arquivos MD.
+  Use antes de adicionar ou reformatar qualquer conteúdo no repositório. Cobre as regras
+  de separação de links/itens para cada tipo de pasta (`cursos-pagos/`, `youtube-playlists/`,
+  `roadmaps/`, `artigos/`, `projetos-pessoais/`).
