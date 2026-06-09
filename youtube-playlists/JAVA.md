@@ -30,8 +30,8 @@
 * [Java Collections](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK) ![](https://geps.dev/progress/55) 
 * [Java Futures and Completable Futures](https://www.youtube.com/playlist?list=PL7ExA8hccMY29YWunJP_wbrfaHDuJBrh7) ![](https://geps.dev/progress/0)
 
-
 ## Data Structures
+
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/100)
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8) ![](https://geps.dev/progress/70)
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP) ![](https://geps.dev/progress/0)
@@ -81,7 +81,7 @@
 * [Spring Boot Unit Testing Tutorial](https://www.youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E) ![](https://geps.dev/progress/0)
 * [Unit-Testing and TDD](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJHqKQW7kdkpzQlmWXQxkUs) ![](https://geps.dev/progress/0)
 
-## Projetos 
+## Projetos
 
 * [CRUD Java com Spring Boot 2025](https://www.youtube.com/watch?v=yW7RrWfUeHE) ![](https://geps.dev/progress/0)
 * [Curso Spring Boot e Spring Security](https://www.youtube.com/playlist?list=PL0j7juv7l4HiYwauxU4CZAEXT3mi2loMb) ![](https://geps.dev/progress/0)
