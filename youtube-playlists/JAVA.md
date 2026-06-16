@@ -59,7 +59,7 @@
 * [Curso Completo Spring Boot 3](https://www.youtube.com/watch?v=wlYvA2b1BWI) ![](https://geps.dev/progress/50)
 * [Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb) ![](https://geps.dev/progress/41)
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) ![](https://geps.dev/progress/50)
-* [Curso Java e Spring](https://www.youtube.com/playlist?list=PLqN_BdlsvKCT7-vNMa_wqcIT-j4kQr2LU) ![](https://geps.dev/progress/0)
+* [Curso Java e Spring](https://www.youtube.com/playlist?list=PLqN_BdlsvKCT7-vNMa_wqcIT-j4kQr2LU) ![](https://geps.dev/progress/100)
 * [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLzUMQwCOrQTksiYqoumAQxuhPNa3HqasL) ![](https://geps.dev/progress/0)
 
 ### REST & APIs
