@@ -12,7 +12,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### Formação TypeScript
 * [Primeiros passos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/primeiros-passos) ![](https://geps.dev/progress/100)
-* [Objetos e Arrays](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/objetos-e-arrays) ![](https://geps.dev/progress/100)
 
 ## Projetos
 
