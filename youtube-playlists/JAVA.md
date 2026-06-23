@@ -37,7 +37,7 @@
 
 ### Persistência
 * [JPA/Hibernate Fundamentals 2023](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6) ![](https://geps.dev/progress/0)
-* [Mastering JDBC](https://www.youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG) ![](https://geps.dev/progress/0)
+* [Introduction to JDBC](https://www.youtube.com/playlist?list=PL_RrEj88onS_L6qouc_jSnYfqHkxoj662) ![](https://geps.dev/progress/0)
 
 ## Data Structures
 
