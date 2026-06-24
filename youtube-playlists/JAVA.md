@@ -23,6 +23,7 @@
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/100)
 * [Java avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) ![](https://geps.dev/progress/100)
 * [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
+* [Understanding Java Modules](https://www.youtube.com/playlist?list=PLL-4P1BOZnWyPDqE9Iio-rneWeKAHQsVY) ![](https://geps.dev/progress/100)
 
 ### Programação Funcional
 * [Java Lambda Expressions](https://www.youtube.com/playlist?list=PLL8woMHwr36HQhhPPdV_T8rigbuywMpD7) ![](https://geps.dev/progress/100)
