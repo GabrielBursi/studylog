@@ -122,7 +122,7 @@ Aprenda tudo sobre Clean Code, Refactoring, OO, Test-Driven Development, Hexagon
     - [ ] Proxy
     - [x] Decorator
   - GoF - Padrões de Comportamento
-    - [ ] Chain of Responsibility
+    - [x] Chain of Responsibility
     - [ ] Command
     - [ ] Mediator
     - [ ] Observer

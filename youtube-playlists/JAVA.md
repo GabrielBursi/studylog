@@ -17,20 +17,31 @@
 
 ## Java Avançado
 
+### Fundamentos
 * [Coding with John Tutorials](https://www.youtube.com/playlist?list=PLkeaG1zpPTHhXOfy-mFbdqd1Zz4GnjcpC) ![](https://geps.dev/progress/100)
 * [JAVA Intermediário | Estruturas de dados, Generics, Packages](https://www.youtube.com/watch?v=jLropHUgI1A&list=WL&index=10) ![](https://geps.dev/progress/100)
 * [Java Essentials](https://www.youtube.com/playlist?list=PLIRBoI92yMam1HaUYrMAaPdbZKV1BFW0F) ![](https://geps.dev/progress/100)
-* [JPA/Hibernate Fundamentals 2023](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6) ![](https://geps.dev/progress/0)
 * [Java avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) ![](https://geps.dev/progress/100)
-* [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
-* [Concurrency and Multithreading](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) ![](https://geps.dev/progress/0)
 * [Exceptions](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqIdnWnY35sK8h2MYrSb5nP) ![](https://geps.dev/progress/100)
+* [Understanding Java Modules](https://www.youtube.com/playlist?list=PLL-4P1BOZnWyPDqE9Iio-rneWeKAHQsVY) ![](https://geps.dev/progress/100)
+
+### Programação Funcional
 * [Java Lambda Expressions](https://www.youtube.com/playlist?list=PLL8woMHwr36HQhhPPdV_T8rigbuywMpD7) ![](https://geps.dev/progress/100)
-* [Java Collections](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK) ![](https://geps.dev/progress/55) 
+
+### Coleções & Generics
+* [Generics](https://www.youtube.com/playlist?list=PLqYy1yOe0SKd6DiNoQKOv79MyimWPMDeS) ![](https://geps.dev/progress/100)
+* [Java Collections](https://www.youtube.com/playlist?list=PLL8woMHwr36HmQfxqqqxns5GexTNmxFqK) ![](https://geps.dev/progress/55)
+
+### Concorrência
+* [Concurrency and Multithreading](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4) ![](https://geps.dev/progress/0)
 * [Java Futures and Completable Futures](https://www.youtube.com/playlist?list=PL7ExA8hccMY29YWunJP_wbrfaHDuJBrh7) ![](https://geps.dev/progress/0)
 
+### Persistência
+* [JPA/Hibernate Fundamentals 2023](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6) ![](https://geps.dev/progress/0)
+* [Introduction to JDBC](https://www.youtube.com/playlist?list=PL_RrEj88onS_L6qouc_jSnYfqHkxoj662) ![](https://geps.dev/progress/100)
 
 ## Data Structures
+
 * [Data Structures](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLQ8WxpuToXlaAcAw1TPlyP) ![](https://geps.dev/progress/100)
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8) ![](https://geps.dev/progress/70)
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP) ![](https://geps.dev/progress/0)
@@ -38,26 +49,37 @@
 
 ## Spring
 
+### Fundamentos & Conceitos
+* [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA) ✔
 * [Spring Boot do Zero | Aprenda java com Naruto (2025)](https://www.youtube.com/watch?v=n8_qrrc8WN4) ✔
 * [Spring Boot Annotations | +30 anotações na prática](https://www.youtube.com/watch?v=Pd5tr483No0) ✔
-* [Springboot para iniciantes - Curso em 1 hora](https://www.youtube.com/watch?v=g4y0yADhsJA)  ✔
-* [Spring Boot na Prática: Projetos Reais do Zero](https://www.youtube.com/playlist?list=PLCUSYmPGwekepAli6UoI4dyxZ0_AtPK7f) ![](https://geps.dev/progress/0)
-* [Curso Java e Spring](https://www.youtube.com/playlist?list=PLqN_BdlsvKCT7-vNMa_wqcIT-j4kQr2LU) ![](https://geps.dev/progress/0)
 * [Spring Framework](https://www.youtube.com/playlist?list=PL0D5C4QG6iBrNBMMc4VX0JN1EocGVPQbs) ![](https://geps.dev/progress/100)
 * [Spring Boot 4 Basics With Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCQ3V9U0aJOfhgjeKVuznat0) ![](https://geps.dev/progress/100)
-* [Spring Data JPA](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqOcYon1o8CIS5BzoZUTIFm) ![](https://geps.dev/progress/87)
-* [Springboot / Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSdnQHAHVmGmO7HA6S4a2W3) ![](https://geps.dev/progress/0)
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) ![](https://geps.dev/progress/100)
-* [REST with SpringBoot](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLNOQXYktYyWyMp7Y3TuGa6) ![](https://geps.dev/progress/100)
-* [Spring Boot 2 - Sua Primeira API REST 2021](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkXwPerFo4ZDFEessyNJW1ol) ![](https://geps.dev/progress/0)
 * [Spring 6 and Spring Boot](https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF) ![](https://geps.dev/progress/52)
-* [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLzUMQwCOrQTksiYqoumAQxuhPNa3HqasL) ![](https://geps.dev/progress/0)
 * [Curso Completo Spring Boot 3](https://www.youtube.com/watch?v=wlYvA2b1BWI) ![](https://geps.dev/progress/50)
 * [Fernanda Kipper](https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb) ![](https://geps.dev/progress/41)
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) ![](https://geps.dev/progress/50)
+* [Curso Java e Spring](https://www.youtube.com/playlist?list=PLqN_BdlsvKCT7-vNMa_wqcIT-j4kQr2LU) ![](https://geps.dev/progress/100)
+* [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLzUMQwCOrQTksiYqoumAQxuhPNa3HqasL) ![](https://geps.dev/progress/0)
+
+### REST & APIs
+* [REST with SpringBoot](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLNOQXYktYyWyMp7Y3TuGa6) ![](https://geps.dev/progress/100)
+* [Spring Boot 2 - Sua Primeira API REST 2021](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkXwPerFo4ZDFEessyNJW1ol) ![](https://geps.dev/progress/0)
+* [Spring Boot na Prática: Projetos Reais do Zero](https://www.youtube.com/playlist?list=PLCUSYmPGwekepAli6UoI4dyxZ0_AtPK7f) ![](https://geps.dev/progress/0)
+
+### Persistência
+* [Spring Data JPA](https://www.youtube.com/playlist?list=PL0D5C4QG6iBqOcYon1o8CIS5BzoZUTIFm) ![](https://geps.dev/progress/87)
+
+### Segurança
 * [Segurança](https://www.youtube.com/playlist?list=PLiFLtuN04BS3HEUPiEpKPv-n1Nhjm5RKQ) ![](https://geps.dev/progress/0)
+
+### Cloud & Microserviços
 * [Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) ![](https://geps.dev/progress/100)
 * [Spring Cloud](https://www.youtube.com/playlist?list=PL0D5C4QG6iBobxxUR9wtcylLm36ER6iqI) ![](https://geps.dev/progress/0)
+
+### Especialidades
+* [Springboot / Kotlin](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSdnQHAHVmGmO7HA6S4a2W3) ![](https://geps.dev/progress/0)
 * [Minicurso Spring Cache + Redis](https://www.youtube.com/playlist?list=PL0D5C4QG6iBpTgwkzmGfp68hcKm8AER8s) ![](https://geps.dev/progress/0)
 * [Spring Batch Giuliana Bezerra](https://www.youtube.com/playlist?list=PLiFLtuN04BS07Yw7rnoz1ytWCLu8yteVv) ![](https://geps.dev/progress/50)
 
@@ -80,7 +102,7 @@
 * [Spring Boot Unit Testing Tutorial](https://www.youtube.com/playlist?list=PL82C6-O4XrHcg8sNwpoDDhcxUCbFy855E) ![](https://geps.dev/progress/0)
 * [Unit-Testing and TDD](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJHqKQW7kdkpzQlmWXQxkUs) ![](https://geps.dev/progress/0)
 
-## Projetos 
+## Projetos
 
 * [CRUD Java com Spring Boot 2025](https://www.youtube.com/watch?v=yW7RrWfUeHE) ![](https://geps.dev/progress/0)
 * [Curso Spring Boot e Spring Security](https://www.youtube.com/playlist?list=PL0j7juv7l4HiYwauxU4CZAEXT3mi2loMb) ![](https://geps.dev/progress/0)
