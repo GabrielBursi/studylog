@@ -16,8 +16,9 @@ Bem-vindo ao meu repositório de logs de estudo! Este espaço é dedicado a orga
 ### `/cursos-pagos`
 
 * [branas.io](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/BRANAS-IO.md "branas.io log progress")
+* [COFFSTACK](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md "PRN log progress")
 * [JStack](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md "JStack log progress")
-* [PRN](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/COFFSTACK.md "PRN log progress")
+* [System Design Augusto Galego](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/SYSTEM-DESIGN-GALEGO.md "System Design Augusto Galego log progress")
 * [Udemy](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/UDEMY.md "Udemy log progress")
 
 ### `/livros`
