@@ -2,25 +2,25 @@
 
 Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (bancos de dados, filas, load balancers, cache, CDN, networking, autenticação) até padrões de arquitetura mais avançados, estimativas e preparação para entrevistas técnicas.
 
-## Intro ![](https://geps.dev/progress/0)
+## Intro ![](https://geps.dev/progress/100)
 
-- [ ] O que é System Design?
-- [ ] Client Server
+- [x] O que é System Design?
+- [x] Client Server
 
-## Bancos de Dados (SQL) ![](https://geps.dev/progress/0)
+## Bancos de Dados (SQL) ![](https://geps.dev/progress/100)
 
-- [ ] Introdução a Bancos de Dados
-- [ ] ACID
-- [ ] BASE
-- [ ] DBs
-- [ ] Sharding
-- [ ] Partições lógicas
-- [ ] Teorema de CAP
-- [ ] Otimizações de Bancos de Dados
-- [ ] Reads, Writes e Gargalos
-- [ ] Locks Otimistas e Pessimistas
-- [ ] Federation
-- [ ] Locks
+- [x] Introdução a Bancos de Dados
+- [x] ACID
+- [x] BASE
+- [x] DBs
+- [x] Sharding
+- [x] Partições lógicas
+- [x] Teorema de CAP
+- [x] Otimizações de Bancos de Dados
+- [x] Reads, Writes e Gargalos
+- [x] Locks Otimistas e Pessimistas
+- [x] Federation
+- [x] Locks
 
 ## NoSQL ![](https://geps.dev/progress/0)
 
