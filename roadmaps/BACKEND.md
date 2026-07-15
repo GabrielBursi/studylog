@@ -11,5 +11,5 @@
 * [Node.js](https://roadmap.sh/nodejs) ![](https://geps.dev/progress/0)
 * Java
   * [Trilha Java](https://josenaldo.notion.site/Trilha-Java-a303e55971854992bd751cd029fc8cd9)
-  * [Java](https://roadmap.sh/java) ![](https://geps.dev/progress/17)
+  * [Java](https://roadmap.sh/java) ![](https://geps.dev/progress/40)
   * [Spring Boot](https://roadmap.sh/spring-boot) ![](https://geps.dev/progress/0)
