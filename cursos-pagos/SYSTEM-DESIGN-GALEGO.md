@@ -24,23 +24,23 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 
 ## NoSQL ![](https://geps.dev/progress/0)
 
-- [ ] NoSQL Intro
+- [x] NoSQL Intro
 
 ## Queues (Filas) ![](https://geps.dev/progress/0)
 
-- [ ] Message Queue
-- [ ] Filas e DBs
-- [ ] Tipos de Entregas de Mensagens
-- [ ] Particionamento de Filas
-- [ ] Consumidores
-- [ ] Escalando Filas
-- [ ] Limites de Escala de Filas
-- [ ] Dead Letter Queue
+- [x] Message Queue
+- [x] Filas e DBs
+- [x] Tipos de Entregas de Mensagens
+- [x] Particionamento de Filas
+- [x] Consumidores
+- [x] Escalando Filas
+- [x] Limites de Escala de Filas
+- [x] Dead Letter Queue
 
 ## Load Balancers ![](https://geps.dev/progress/0)
 
-- [ ] Load Balancer
-- [ ] Load Balancer - Aula avançada
+- [x] Load Balancer
+- [x] Load Balancer - Aula avançada
 
 ## API Gateway ![](https://geps.dev/progress/0)
 
