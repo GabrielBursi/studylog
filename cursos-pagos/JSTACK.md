@@ -11,13 +11,14 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * React Native ![](https://geps.dev/progress/100)
 
 ### Formação TypeScript
-* [Primeiros passos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/primeiros-passos) ![](https://geps.dev/progress/100)
+* [Primeiros passos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/primeiros-passos) ![](https://geps.dev/progress/75)
+* [Sistemas de Tipos](https://app.jstack.com.br/classroom/trainings/formacao-typescript/m/sistema-de-tipos) ![](https://geps.dev/progress/0) 
 
 ## Projetos
 
 * [WaiterApp](https://app.jstack.com.br/projects/waiterapp) ![](https://geps.dev/progress/20)
-* [Fincheck](https://app.jstack.com.br/projects/fincheck) ![](https://geps.dev/progress/38)
-* [Foodiary](https://app.jstack.com.br/projects/foodiary) ![](https://geps.dev/progress/0)          
+* [Fincheck](https://app.jstack.com.br/projects/fincheck) ![](https://geps.dev/progress/67)
+* [Foodiary](https://app.jstack.com.br/projects/foodiary) ![](https://geps.dev/progress/10)          
     ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
     - [#01 - System Design e Banco de Dados](https://www.youtube.com/live/_-WRSsdUMow) ✔
     - [#02 - Banco de Dados e Definição de Tecnologias](https://www.youtube.com/live/SfGppmBNTVw) ✔
