@@ -22,11 +22,11 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Federation
 - [x] Locks
 
-## NoSQL ![](https://geps.dev/progress/0)
+## NoSQL ![](https://geps.dev/progress/100)
 
 - [x] NoSQL Intro
 
-## Queues (Filas) ![](https://geps.dev/progress/0)
+## Queues (Filas) ![](https://geps.dev/progress/100)
 
 - [x] Message Queue
 - [x] Filas e DBs
@@ -37,7 +37,7 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Limites de Escala de Filas
 - [x] Dead Letter Queue
 
-## Load Balancers ![](https://geps.dev/progress/0)
+## Load Balancers ![](https://geps.dev/progress/100)
 
 - [x] Load Balancer
 - [x] Load Balancer - Aula avançada
