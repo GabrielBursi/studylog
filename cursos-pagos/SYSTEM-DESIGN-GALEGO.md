@@ -42,23 +42,23 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Load Balancer
 - [x] Load Balancer - Aula avançada
 
-## API Gateway ![](https://geps.dev/progress/0)
+## API Gateway ![](https://geps.dev/progress/100)
 
-- [ ] API Gateway
-- [ ] Rate Limit
+- [x] API Gateway
+- [x] Rate Limit
 
-## Networking ![](https://geps.dev/progress/0)
+## Networking ![](https://geps.dev/progress/100)
 
-- [ ] Introdução de Network
-- [ ] Servers
-- [ ] Protocolo e APIs
-- [ ] HTTP
-- [ ] Rest e Restful
-- [ ] TCP, UDP e RPC
-- [ ] Protocolos Real Time
-- [ ] Gerenciar Estado na Web
-- [ ] Redes e Infra Sec
-- [ ] WAF
+- [x] Introdução de Network
+- [x] Servers
+- [x] Protocolo e APIs
+- [x] HTTP
+- [x] Rest e Restful
+- [x] TCP, UDP e RPC
+- [x] Protocolos Real Time
+- [x] Gerenciar Estado na Web
+- [x] Redes e Infra Sec
+- [x] WAF
 
 ## Auth ![](https://geps.dev/progress/0)
 
