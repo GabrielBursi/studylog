@@ -82,11 +82,11 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Blob Store Parte 2
 - [x] Blob Store Parte 3
 
-## Cache ![](https://geps.dev/progress/0)
+## Cache ![](https://geps.dev/progress/100) ⭐
 
-- [ ] Cache
-- [ ] Estimativas com Cache
-- [ ] Tópicos adicionais sobre Cache
+- [x] Cache
+- [x] Estimativas com Cache
+- [x] Tópicos adicionais sobre Cache
 
 ## CDN ![](https://geps.dev/progress/0)
 
