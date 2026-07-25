@@ -72,15 +72,15 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Endereço de IP
 - [x] DNS Routing
 
-## Sequencer ![](https://geps.dev/progress/0) ⭐
+## Sequencer ![](https://geps.dev/progress/100) ⭐
 
 - [x] Sequencer
 
-## Blob Store ![](https://geps.dev/progress/0)
+## Blob Store ![](https://geps.dev/progress/100)
 
-- [ ] Blob Store Parte 1
-- [ ] Blob Store Parte 2
-- [ ] Blob Store Parte 3
+- [x] Blob Store Parte 1
+- [x] Blob Store Parte 2
+- [x] Blob Store Parte 3
 
 ## Cache ![](https://geps.dev/progress/0)
 
