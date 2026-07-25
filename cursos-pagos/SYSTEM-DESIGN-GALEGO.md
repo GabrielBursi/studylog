@@ -7,7 +7,7 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] O que é System Design?
 - [x] Client Server
 
-## Bancos de Dados (SQL) ![](https://geps.dev/progress/100)
+## Bancos de Dados (SQL) ![](https://geps.dev/progress/100) ⭐
 
 - [x] Introdução a Bancos de Dados
 - [x] ACID
@@ -26,7 +26,7 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 
 - [x] NoSQL Intro
 
-## Queues (Filas) ![](https://geps.dev/progress/100)
+## Queues (Filas) ![](https://geps.dev/progress/100) ⭐
 
 - [x] Message Queue
 - [x] Filas e DBs
@@ -37,7 +37,7 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Limites de Escala de Filas
 - [x] Dead Letter Queue
 
-## Load Balancers ![](https://geps.dev/progress/100)
+## Load Balancers ![](https://geps.dev/progress/100) ⭐
 
 - [x] Load Balancer
 - [x] Load Balancer - Aula avançada
@@ -47,7 +47,7 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] API Gateway
 - [x] Rate Limit
 
-## Networking ![](https://geps.dev/progress/100)
+## Networking ![](https://geps.dev/progress/100) ⭐
 
 - [x] Introdução de Network
 - [x] Servers
@@ -60,17 +60,17 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Redes e Infra Sec
 - [x] WAF
 
-## Auth ![](https://geps.dev/progress/0)
+## Auth ![](https://geps.dev/progress/100)
 
-- [ ] Autenticação e Autorização
-- [ ] Proteção de Dados
-- [ ] Keycloak, Cognito e Auth0
+- [x] Autenticação e Autorização
+- [x] Proteção de Dados
+- [x] Keycloak, Cognito e Auth0
 
-## DNS ![](https://geps.dev/progress/0)
+## DNS ![](https://geps.dev/progress/100) ⭐
 
-- [ ] DNS
-- [ ] Endereço de IP
-- [ ] DNS Routing
+- [x] DNS
+- [x] Endereço de IP
+- [x] DNS Routing
 
 ## Sequencer ![](https://geps.dev/progress/0)
 
