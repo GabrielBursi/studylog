@@ -88,24 +88,24 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Estimativas com Cache
 - [x] Tópicos adicionais sobre Cache
 
-## CDN ![](https://geps.dev/progress/0)
+## CDN ![](https://geps.dev/progress/100) ⭐
 
-- [ ] CDN
-- [ ] Mais sobre CDN
+- [x] CDN
+- [x] Mais sobre CDN
 
-## Conceitos Adicionais e Padrões de Arquitetura ![](https://geps.dev/progress/0)
+## Conceitos Adicionais e Padrões de Arquitetura ![](https://geps.dev/progress/100) ⭐
 
-- [ ] Design Alto Nível
-- [ ] Design Anti-patterns
-- [ ] Arquitetura Multi-Tier
-- [ ] BFF
-- [ ] Service Mesh
-- [ ] Concorrência e Paralelismo
-- [ ] Event Driven
-- [ ] Event Sourcing
-- [ ] CQRS
-- [ ] SAGA
-- [ ] Elastic Search
+- [x] Design Alto Nível
+- [x] Design Anti-patterns
+- [x] Arquitetura Multi-Tier
+- [x] BFF
+- [x] Service Mesh
+- [x] Concorrência e Paralelismo
+- [x] Event Driven
+- [x] Event Sourcing
+- [x] CQRS
+- [x] SAGA
+- [x] Elastic Search
 
 ## Microserviços e Monolitos ![](https://geps.dev/progress/0)
 
