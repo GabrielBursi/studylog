@@ -12,7 +12,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ### [Formação TypeScript](https://app.jstack.com.br/trainings/formacao-typescript)
 * Primeiros passos ![](https://geps.dev/progress/100)
-* Sistemas de Tipos ![](https://geps.dev/progress/0) 
+* Sistemas de Tipos ![](https://geps.dev/progress/50) 
 
 ## Projetos
 
