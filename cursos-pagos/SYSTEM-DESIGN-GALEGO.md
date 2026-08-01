@@ -120,10 +120,10 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Little's Law
 - [x] Estimativas Back of the Envelope
 
-## Deploys e Escalabilidade ![](https://geps.dev/progress/0)
+## Deploys e Escalabilidade ![](https://geps.dev/progress/100)
 
-- [ ] Deploys
-- [ ] Deploys - Parte 2
+- [x] Deploys
+- [x] Deploys - Parte 2
 
 ## Preparação Para Entrevistas ![](https://geps.dev/progress/0)
 
