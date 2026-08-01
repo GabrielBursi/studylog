@@ -26,7 +26,6 @@
 * [System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 * [System Design](https://www.youtube.com/playlist?list=PLdNCznBZ77NriBGbbHTdM34cvx7dLKi-_)
 * [System Design para entrevistas na gringa](https://www.youtube.com/playlist?list=PL832Zwir-otFAC6fWoPzUhggKubiL60Vy)
-* [System Design para entrevistas na gringa](https://www.youtube.com/playlist?list=PL832Zwir-otFAC6fWoPzUhggKubiL60Vy)
 
 ## Clean Arch
 
