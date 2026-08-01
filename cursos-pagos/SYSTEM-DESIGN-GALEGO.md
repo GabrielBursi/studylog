@@ -107,18 +107,18 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] SAGA
 - [x] Elastic Search
 
-## Microserviços e Monolitos ![](https://geps.dev/progress/0)
+## Microserviços e Monolitos ![](https://geps.dev/progress/100)
 
-- [ ] Microsserviços e Monolitos - Parte 1
-- [ ] Microsserviços e Monolitos - Parte 2
-- [ ] Microsserviços e Monolitos - Parte 3
+- [x] Microsserviços e Monolitos - Parte 1
+- [x] Microsserviços e Monolitos - Parte 2
+- [x] Microsserviços e Monolitos - Parte 3
 
-## Requisitos e Estimativas ![](https://geps.dev/progress/0)
+## Requisitos e Estimativas ![](https://geps.dev/progress/100) ⭐
 
-- [ ] Requirements
-- [ ] SLA
-- [ ] Little's Law
-- [ ] Estimativas Back of the Envelope
+- [x] Requirements
+- [x] SLA
+- [x] Little's Law
+- [x] Estimativas Back of the Envelope
 
 ## Deploys e Escalabilidade ![](https://geps.dev/progress/0)
 
