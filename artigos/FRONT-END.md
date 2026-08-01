@@ -4,3 +4,4 @@
 * [Micro Frontends: When They Make Sense and When They Don’t](https://lukasniessen.medium.com/micro-frontends-when-they-make-sense-and-when-they-dont-a1a06b726065)
 * [React Rendering Strategies](https://upskills.dev/tutorials/react-rendering-strategies)
 * [React Performance](https://reactperf.dev/)
+* [Reading a performance profile](https://perf.reviews/profile-guide)
