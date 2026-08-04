@@ -125,15 +125,15 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Deploys
 - [x] Deploys - Parte 2
 
-## Preparação Para Entrevistas ![](https://geps.dev/progress/0)
+## Preparação Para Entrevistas ![](https://geps.dev/progress/100) ⭐
 
-- [ ] Padrões de Resiliência
-- [ ] Conhecimento de Algoritmos
-- [ ] Framework de Design
-- [ ] Cenários Comuns
-- [ ] Técnicas de System Design
-- [ ] Escalando pra Milhões
-- [ ] Escalando na Entrevista
+- [x] Padrões de Resiliência
+- [x] Conhecimento de Algoritmos
+- [x] Framework de Design
+- [x] Cenários Comuns
+- [x] Técnicas de System Design
+- [x] Escalando pra Milhões
+- [x] Escalando na Entrevista
 
 ## Entrevistas na Prática ![](https://geps.dev/progress/0)
 
