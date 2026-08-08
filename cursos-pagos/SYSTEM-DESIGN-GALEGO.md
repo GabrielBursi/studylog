@@ -135,15 +135,15 @@ Curso completo de System Design do Guto Galego, cobrindo desde os fundamentos (b
 - [x] Escalando pra Milhões
 - [x] Escalando na Entrevista
 
-## Entrevistas na Prática ![](https://geps.dev/progress/0)
+## Entrevistas na Prática ![](https://geps.dev/progress/100)
 
-- [ ] Whatsapp: Aula 1
-- [ ] Whatsapp: Aula 2
-- [ ] Whatsapp: Aula 3
-- [ ] Whatsapp: Aula 4
-- [ ] Google: Aula 1
-- [ ] Google: Aula 2
-- [ ] Google: Aula 3
+- [x] Whatsapp: Aula 1
+- [x] Whatsapp: Aula 2
+- [x] Whatsapp: Aula 3
+- [x] Whatsapp: Aula 4
+- [x] Google: Aula 1
+- [x] Google: Aula 2
+- [x] Google: Aula 3
 
 ## Bônus: Mock Interviews ![](https://geps.dev/progress/0)
 
