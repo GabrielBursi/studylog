@@ -1,5 +1,5 @@
 ## Arquitetura de Software
-* [Fundamentos de Arquitetura de Software](https://www.youtube.com/playlist?list=PLNHxHgB-_LTusKqdWaZJtRbcqEMXPZXtw)
+* [Fundamentos de Arquitetura de Software - Renato Augusto](https://www.youtube.com/playlist?list=PLNHxHgB-_LTusKqdWaZJtRbcqEMXPZXtw)
 * [Fundamentos de Arquitetura de Software](https://www.youtube.com/playlist?list=PLkpjQs-GfEMPzOzinFrqfkkfZy2DpwpBh)
 * [Padrões Arquiteturais](https://www.youtube.com/playlist?list=PLkpjQs-GfEMMoh78fnnHtrhK1iWe-ZSJ5)
 * [Arquitetura de Software na Prática e do Jeito](https://www.youtube.com/playlist?list=PLkpjQs-GfEMNoGL5FOcx2ko4FbLfEoUrk)
