@@ -5,3 +5,4 @@
 * [React Rendering Strategies](https://upskills.dev/tutorials/react-rendering-strategies)
 * [React Performance](https://reactperf.dev/)
 * [Reading a performance profile](https://perf.reviews/profile-guide)
+* [How React Works: The Complete Tutorial](https://arpitjsoni.com/react-internals/)
