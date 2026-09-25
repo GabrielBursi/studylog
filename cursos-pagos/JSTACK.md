@@ -67,6 +67,7 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
     - [Serverless Framework](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#serverless-framework)
     - [CI/CD](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#cicd)
 - **[Arquitetura](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#arquitetura)**
+- **[Testes](https://github.com/GabrielBursi/studylog/blob/main/cursos-pagos/JSTACK.md#testes)**
 
 ## Praticar
 
