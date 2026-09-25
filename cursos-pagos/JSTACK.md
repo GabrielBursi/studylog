@@ -228,4 +228,4 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 
 ## Testes
 
-* [Testes Automatizados na prática](https://app.jstack.com.br/classroom/courses/testes-automatizados-na-pratica/o-que-sao-testes "#068") ![](https://geps.dev/progress/100)
+* [#068 - Testes Automatizados na prática](https://app.jstack.com.br/classroom/courses/testes-automatizados-na-pratica/o-que-sao-testes "#068") ![](https://geps.dev/progress/100)
