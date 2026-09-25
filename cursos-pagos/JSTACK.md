@@ -226,3 +226,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * ⭐ [#059 - Inversion of Control, Dependency Injection e Dependency Inversion](https://app.jstack.com.br/classroom/courses/inversion-of-control-dependency-injection-e-dependency-inversion "#059") ![](https://geps.dev/progress/100)
 * ⭐ [#064 - Construindo aplicações Multi-Tenant](https://app.jstack.com.br/classroom/courses/construindo-aplicacoes-multi-tenant "#064") | [Live no YouTube](https://youtube.com/live/cxwgXJimCWg?feature=share) ![](https://geps.dev/progress/100)
 
+## Testes
+
+* [Testes Automatizados na prática](https://app.jstack.com.br/classroom/courses/testes-automatizados-na-pratica/o-que-sao-testes "#068") ![](https://geps.dev/progress/100)
