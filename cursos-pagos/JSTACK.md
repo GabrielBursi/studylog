@@ -165,10 +165,6 @@ A melhor e mais completa platafoma sobre a stack mais utilizada pelo mercado.
 * [#007 - Autorização baseada em Cargos (RBAC) em APIs Node.js](https://app.jstack.com.br/classroom/courses/autorizacao-baseada-em-cargos-rbac-em-apis-node-js "#007") ![](https://geps.dev/progress/100)
 * ⭐ [#008 - RBAC: Criando um Sistema de Controle de Acesso Gerenciável](https://app.jstack.com.br/classroom/courses/rbac-criando-um-sistema-de-controle-de-acesso-gerenciavel "#008") ![](https://geps.dev/progress/100)
 
-## Testes
-
-* [Testes Automatizados na prática](https://app.jstack.com.br/classroom/courses/testes-automatizados-na-pratica) ![](https://geps.dev/progress/100)
-
 ## Banco de dados
 
 * ⭐ [#035 - Database Design: modelando bancos de dados do jeito certo](https://app.jstack.com.br/classroom/courses/database-design-modelando-bancos-de-dados-do-jeito-certo "#035") ![](https://geps.dev/progress/100)
